@@ -19,6 +19,6 @@ social: true  # includes social icons at the bottom of the page
 The International Interdisciplinary Computational Cognitive Science Summer School (IICCSSS) is an annual educational meeting for students and young researchers interested in computational approaches to brain and cognitive sciences.
 
 In 2023, we will have an IICCSSS one-week in-person event from the 11th to the 15th of September in Tübingen, Germany. We will announce the program and the speakers soon.
-From June 1st, you will be able to register for the event here.
+From June 1st, you will be able to register for the event [here](/registration).
 
 Organisation of the event is supported by the [Begegnungszonen](https://www.joachim-herz-stiftung.de/was-wir-tun/naturwissenschaften-begreifen/wissenschaftlicher-nachwuchs/begegnungszonen) of the [Joachim Herz Stiftung](https://www.joachim-herz-stiftung.de/en) and the Computational Cognitive Science Colloquium e.V.
