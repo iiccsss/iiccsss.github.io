@@ -173,7 +173,7 @@ collections:
     permalink: /news/:path/
   projects:
     output: true
-    permalink: /projects/:path/
+    permalink: /speakers/:path/
 
 announcements:
   enabled: true
