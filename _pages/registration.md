@@ -31,3 +31,5 @@ We have reserved 36 beds in Tübingen’s [youth hostel](https://www.jugendherbe
 
 ## Participant contributions
 Of course, the summer school is not only meant for you to listen to our speakers, but also to interact with and learn from your peers! A great way to do this is to present a project you are working on as a blitz talk (~15min). It is not necessary to commit to giving a presentation during registration, but in the registration form we will ask you to indicate how likely you are to present. We will then contact you again a little bit closer to the event, and ask you to provide more information.
+
+### <span style="color:#0076df"> Registration will open on June 1, 2023. </span>
