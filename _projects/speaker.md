@@ -2,7 +2,7 @@
 layout: page
 title: Alice
 description: Our first speaker will ...
-img: assets/img/4.jpg
+img: 
 importance: 1
 category: language
 ---
