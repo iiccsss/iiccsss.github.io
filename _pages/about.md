@@ -22,3 +22,9 @@ In 2023, we will have an IICCSSS one-week in-person event from the 11th to the 1
 From June 1st, you will be able to register for the event [here](/registration).
 
 Organisation of the event is supported by the [Begegnungszonen](https://www.joachim-herz-stiftung.de/was-wir-tun/naturwissenschaften-begreifen/wissenschaftlicher-nachwuchs/begegnungszonen) of the [Joachim Herz Stiftung](https://www.joachim-herz-stiftung.de/en) and the Computational Cognitive Science Colloquium e.V.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/tuebingen.jpg" title="Our 2023 location" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
