@@ -1,0 +1,30 @@
+<!-- _includes/speaker.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  {% if speaker.redirect -%}
+  <a href="{{ speaker.redirect }}">
+    {%- else -%}
+    <a href="{{ speaker.url | relative_url }}">
+      {%- endif %}
+      <div class="card hoverable">
+        {%- if speaker.img %}
+        {%- include figure.html
+          path=speaker.img
+          alt="speaker thumbnail" -%}
+        {%- endif %}
+        <div class="card-body">
+          <h2 class="card-title text-lowercase">{{ speaker.title }}</h2>
+          <p class="card-text">{{ speaker.description }}</p>
+          <div class="row ml-1 mr-1 p-0">
+            {%- if speaker.github -%}
+            <div class="github-icon">
+              <div class="icon" data-toggle="tooltip" title="Code Repository">
+                <a href="{{ speaker.github }}"><i class="fab fa-github gh-icon"></i></a>
+              </div>
+            </div>
+            {%- endif %}
+          </div>
+        </div>
+      </div>
+    </a>
+</div>
