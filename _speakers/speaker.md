@@ -5,7 +5,7 @@ description: Our first speaker will ...
 img: assets/img/speaker.jpg
 importance: 1
 category: language
-published: true
+published: false
 ---
 
 <div class="row justify-content-sm-center">
