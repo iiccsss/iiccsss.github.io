@@ -8,13 +8,13 @@ nav_order: 4
 ---
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/participants-2022.jpg" title="Our 2022 in-person participants" class="img-fluid rounded z-depth-1" %}
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/participants-2022.jpg" title="Our 2022 in-person participants" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
-    Our 2022 in-person participants shaping the letters of our unpronouncable name :wink: (Photo: Franziska Brändle)
+    Our 2022 in-person participants forming the letters of our unpronouncable name :wink: (Photo: Franziska Brändle)
 </div>
 
 IICCSSS 2023 will be a five-day in-person event in Tübingen, Germany, September 11–15, 2023.
