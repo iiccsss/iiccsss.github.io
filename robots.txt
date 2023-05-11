@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://iiccsss.github.io/sitemap.xml
+Sitemap: https://www.iiccsss.org/sitemap.xml
