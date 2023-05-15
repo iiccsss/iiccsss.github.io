@@ -17,4 +17,4 @@ nav_order: 3
 |15:15–16:15   |<span style="color:#0076df">Talk</span>            |                               |<span style="color:#0076df">Talk</span>   |          |
 |16:30–17:30   |<span style="color:#0076df">Talk</span>            |                               |<span style="color:#F29105">Panel discussion</span>  |     |<span style="color:#0076df">16:00–17:00 Closing keynote</span>
 |17:45–19:00   |                                                   |                               |                                          |          |
-|After 19:00   |<span style="color:#00ab37">City ralley</span>     |                               |<span style="color:#00ab37">Dinner</span>|          |        
+|After 19:00   |<span style="color:#00ab37">City rallye</span>     |                               |<span style="color:#00ab37">Dinner</span>|          |        
