@@ -5,7 +5,7 @@ permalink: /speakers/
 description: Our 2023 speakers
 nav: true
 nav_order: 2
-display_categories: [language, cognitive modelling, computational psychiatry]
+display_categories: [speakers, panelists]
 horizontal: false
 ---
 
