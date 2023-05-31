@@ -49,7 +49,7 @@ On Thursday, the full day will be devoted to a hackathon, where you can develop 
 ## Childcare
 Please [let us know](mailto:info@iiccsss.org) if you will be needing childcare, or if you require any other support.
 
-##
+
 <div id="register-button">
   <a href="https://forms.gle/BbhGNAo5tVYUUFxb8">Sign up now</a>
 </div>
