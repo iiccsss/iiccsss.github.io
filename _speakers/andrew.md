@@ -5,7 +5,7 @@ description: DeepMind
 img: assets/img/speakers/AndrewLampinen.jpg
 importance: 1
 category: speakers
-published: false
+published: true
 ---
 
 <div class="row justify-content-sm-center">
