@@ -25,7 +25,7 @@ There will be talks, interactive workshops, an institute tour and a hackathon.
 We will announce our speakers soon.
 
 ## Fees
-Many summer schools and conferences take high attendance fees. We want to make the event inclusive for everyone and keep the event free of charge. However, for your own commitment, you will be asked to pay a deposit of 20€. If you attend the summer school, we will reimburse the deposit. If you cannot make it, please [send us an email](mailto:info@iiccsss.org).
+Many summer schools and conferences take high attendance fees. We want to make the event inclusive for everyone and keep the event free of charge. However, for your own commitment, you will be asked to pay a deposit of 20€. If you attend the summer school, we will reimburse the deposit in cash.
 
 ## Who can attend?
 The event is targeted mainly at bachelor's and master's students in Cognitive Science, Neuroscience, Linguistics and related fields. Also PhDs and postdocs are naturally very welcome.
@@ -48,3 +48,8 @@ On Thursday, the full day will be devoted to a hackathon, where you can develop 
 
 ## Childcare
 Please [let us know](mailto:info@iiccsss.org) if you will be needing childcare, or if you require any other support.
+
+##
+<div class="button">
+  <a href="https://forms.gle/BbhGNAo5tVYUUFxb8">Sign up now</a>
+</div>
