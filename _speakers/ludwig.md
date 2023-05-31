@@ -2,7 +2,7 @@
 layout: page
 title: Nicole Ludwig
 description: University of Tübingen
-img: assets/img/speakers/NicoleLudwig.jpeg
+img: assets/img/speakers/NicoleLudwig.jpg
 importance: 1
 category: speakers
 published: true
