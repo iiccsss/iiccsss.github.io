@@ -14,4 +14,4 @@ published: true
     </div>
 </div>
 
-Andrew Lampinen is a Senior Research Scientist at DeepMind. He completed his PhD in Cognitive Psychology at Stanford University, and his BA in Mathematics and Physics at UC Berkeley.  His research interests include cognitive flexibility, efficient learning, and generalization, and how these abilities are enabled by factors like embodiment and language.
+Andrew Lampinen is a Senior Research Scientist at DeepMind. He completed his PhD in Cognitive Psychology at Stanford University, and his BA in Mathematics and Physics at UC Berkeley. His research interests include cognitive flexibility, efficient learning, and generalization, and how these abilities are enabled by factors like embodiment and language.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nicole Ludwig
-description: Maschinelles Lernen in Nachhaltigen Energiesystemen, Universität Tübingen
+description: University of Tübingen
 img: assets/img/speakers/NicoleLudwig.jpeg
 importance: 1
 category: speakers
