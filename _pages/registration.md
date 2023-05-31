@@ -11,7 +11,7 @@ nav_order: 4
 
 ### <span style="color:#0076df"> Registration for IICCSSS 2023 is now open! </span>
 
-## <span class="badge font-weight-bold text-uppercase align-middle" style="min-width: 75px;"><a href="https://forms.gle/BbhGNAo5tVYUUFxb8">Register here</a></span>
+<a class="btn btn-primary btn-lg" href="https://forms.gle/BbhGNAo5tVYUUFxb8" role="button">Register here</a>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
