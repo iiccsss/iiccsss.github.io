@@ -9,7 +9,9 @@ nav_order: 4
 
 
 
-### <span style="color:#0076df"> Registration will open on June 1, 2023. </span>
+### <span style="color:#0076df"> Registration for IICCSSS 2023 is now open! </span>
+
+## <span class="badge font-weight-bold text-uppercase align-middle" style="min-width: 75px;"><a href="https://forms.gle/BbhGNAo5tVYUUFxb8">Register here</a></span>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -48,8 +50,3 @@ On Thursday, the full day will be devoted to a hackathon, where you can develop 
 
 ## Childcare
 Please [let us know](mailto:info@iiccsss.org) if you will be needing childcare, or if you require any other support.
-
-
-<div id="register-button">
-  <a href="https://forms.gle/BbhGNAo5tVYUUFxb8">Sign up now</a>
-</div>
