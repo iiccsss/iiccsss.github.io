@@ -5,7 +5,7 @@ description: Stanford University
 img: assets/img/speakers/NoahGoodman.jpg
 importance: 1
 category: speakers
-published: false
+published: true
 ---
 
 <div class="row justify-content-sm-center">

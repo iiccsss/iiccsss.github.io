@@ -5,7 +5,7 @@ description: MIT, Brain and Cognitive Sciences
 img: assets/img/speakers/JenniferHu.jpg
 importance: 1
 category: speakers
-published: false
+published: true
 ---
 
 <div class="row justify-content-sm-center">
