@@ -8,17 +8,82 @@ nav_order: 3
 ---
 
 
-This is the tentative summer school program for September 11–15, 2023. The final program will be made available soon.
+This is the summer school program for September 11–15, 2023.
 
-
-|              | Monday                                            | Tuesday                       | Wednesday                               | Thursday | Friday 
-| :----------- | :------------------------------------------------ | :---------------------------  | :-------------------------------------- | :------- | :----- 
-|9:30–10:30    |<span style="color:#efcc00">Registration</span>    |                          |                                     |     |   Hackathon submission deadline
-|10:30–11:00   |<span style="color:#efcc00">Intro</span>           |Tour of the institutes         |  <span style="color:#F29105">Workshop</span>   |  Hackathon / "Cognithon"    |   
-|11:15–12:15   |<span style="color:#0076df">Opening keynote</span> |                           |<span style="color:#0076df">Talk</span>  |     |   Pitches
-|12:15–13:30   |<span style="color:#efcc00">Lunch</span>           |<span style="color:#efcc00">Lunch</span>|<span style="color:#efcc00">Lunch</span>|<span style="color:#efcc00">Lunch</span>|<span style="color:#efcc00">Lunch</span>
-|13:30–15:00   |<span style="color:#F29105">Workshop</span>        |<span style="color:#efcc00">Lightning talks</span> |<span style="color:#efcc00">Lightning talks</span>| <span style="color:#F29105">Science communication seminar</span> |     <span style="color:#efcc00">Feedback & announcing winners </span>
-|15:15–16:15   |<span style="color:#0076df">Talk</span>            |  <span style="color:#F29105">Workshop</span>  |<span style="color:#0076df">Talk</span>   |    Hackathon      |
-|16:30–17:30   |<span style="color:#0076df">Talk</span>            |  TBA                          |<span style="color:#F29105">Panel discussion</span>  |   Hackathon |<span style="color:#0076df">16:00–17:00 Closing keynote</span>
-|17:45–19:00   |                                                   |                               |                                          |          |
-|After 19:00   |<span style="color:#00ab37">City rallye</span>     |                               |<span style="color:#00ab37">Dinner</span>|          |      
+<table class="table-responsive">
+  <thead>
+    <tr>
+      <th scope="col"></th>
+      <th scope="col">Monday</th>
+      <th scope="col">Tuesday</th>
+      <th scope="col">Wednesday</th>
+      <th scope="col">Thursday</th>
+      <th scope="col">Friday</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td> 9:30–10:30 </td>
+        <td class="table-warning"> Registration </td>
+        <td rowspan="3" class="table-warning"> Tour of the institutes </td>
+        <td rowspan="2" class="table-danger"> LLM Workshop </td>
+        <td rowspan="3" class="table-info"> Hackathon / "Cognithon" / "Neurothon" </td>
+        <td rowspan="2" class="table-info"> Hackathon </td>
+    </tr>
+    <tr>
+        <td> 10:30–11:00 </td>
+        <td class="table-warning"> Intro </td>
+    </tr>
+    <tr>
+        <td> 11:15–12:15 </td>
+        <td class="table-primary"> <strong>Opening keynote</strong> — Peter Dayan </td>
+        <td class="table-primary">Talk – Andrew Lampinen</td>
+        <td class="table-info">5-min pitches</td>
+    </tr>
+    <tr>
+        <td> 12:15–13:30 </td>
+        <td> Lunch </td>
+        <td> Lunch </td>
+        <td> Lunch </td>
+        <td> Lunch </td>
+        <td> Lunch </td>
+    </tr>
+    <tr>
+        <td> 13:30–15:00 </td>
+        <td class="table-primary"> Talk TBA </td>
+        <td class="table-warning"> Contributed lightning talks </td>
+        <td class="table-warning"> Contributed lightning talks  </td>
+        <td class="table-danger"> Science communication seminar </td>
+        <td class="table-info"> Feedback and announcing hackathon winners </td>
+    </tr>
+    <tr>
+        <td> 15:15–16:15 </td>
+        <td class="table-primary"> Talk – Maria Eckstein </td>
+        <td class="table-danger"> Workshop – Nicole Ludwig </td>
+        <td class="table-primary"> Talk – Jennifer Hu </td>
+        <td rowspan="4" class="table-info"> Hackathon </td>
+        <td class="table-primary"> <strong> Closing keynote</strong> – Noah Goodman </td>
+    </tr>
+    <tr>
+        <td> 16:30–17:30 </td>
+        <td class="table-primary"> Talk – Jan Kirchner </td>
+        <td class="table-danger"> What goes wrong in academia — event </td>
+        <td class="table-danger"> Panel discussion on LLMs </td>
+        <td class="table-warning"> End </td>
+    </tr>
+    <tr>
+        <td> 17:45–19:00 </td>
+        <td> &nbsp; </td>
+        <td> &nbsp; </td>
+        <td> &nbsp; </td>
+        <td> &nbsp; </td>
+    </tr>
+    <tr>
+        <td> After 19:00 (Evening program) </td>
+        <td class="table-success"> City rallye </td>
+        <td> &nbsp; </td>
+        <td class="table-success"> Dinner </td>
+        <td> &nbsp; </td>
+    </tr>
+  </tbody>
+</table>
