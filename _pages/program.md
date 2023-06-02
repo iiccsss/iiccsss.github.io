@@ -36,8 +36,8 @@ This is the summer school program for September 11–15, 2023.
     </tr>
     <tr>
         <td> 11:15–12:15 </td>
-        <td class="table-primary"> <strong>Opening keynote</strong> — Peter Dayan </td>
-        <td class="table-primary">Talk – Andrew Lampinen</td>
+        <td class="table-primary"> <strong>Opening keynote</strong> <br> Peter Dayan </td>
+        <td class="table-primary"> <em> Title TBA </em> <br> Andrew Lampinen</td>
         <td class="table-info">5-min pitches</td>
     </tr>
     <tr>
@@ -58,21 +58,21 @@ This is the summer school program for September 11–15, 2023.
     </tr>
     <tr>
         <td> 15:15–16:15 </td>
-        <td class="table-primary"> Talk – Maria Eckstein </td>
-        <td class="table-danger"> Workshop – Nicole Ludwig </td>
-        <td class="table-primary"> Talk – Jennifer Hu </td>
+        <td class="table-primary"> <em> Title TBA </em> <br> Maria Eckstein </td>
+        <td class="table-danger"> Workshop <br> Nicole Ludwig </td>
+        <td class="table-primary"> <em> Title TBA </em> <br> Jennifer Hu </td>
         <td rowspan="4" class="table-info"> Hackathon </td>
-        <td class="table-primary"> <strong> Closing keynote</strong> – Noah Goodman </td>
+        <td class="table-primary"> <strong> Closing keynote</strong> <br> Noah Goodman </td>
     </tr>
     <tr>
         <td> 16:30–17:30 </td>
-        <td class="table-primary"> Talk – Jan Kirchner </td>
-        <td class="table-danger"> What goes wrong in academia — event </td>
+        <td class="table-primary"> <em> Title TBA </em> <br> Jan Kirchner </td>
+        <td class="table-danger"> What goes wrong in academia <br> Event </td>
         <td class="table-danger"> Panel discussion on LLMs </td>
         <td class="table-warning"> End </td>
     </tr>
     <tr>
-        <td> 17:45–19:00 </td>
+        <td> &nbsp; </td>
         <td> &nbsp; </td>
         <td> &nbsp; </td>
         <td> &nbsp; </td>
