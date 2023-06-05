@@ -51,6 +51,7 @@ We offer <b>10</b> travel grants of <b>100€</b> each to international attendan
 - a short description of your background
 - where you will be travelling from
 - if you intend to present something at the Blitz talks.
+
 After <b>the deadline on July 1st</b>, we will rank all applicants by distance and support those first that have the farthest journey, which we hope is the fairest solution. You will receive a confirmation email and have time until one week later, <b>July 7th</b>, to sign up and pay the deposit of 20€, which will be reimbursed if you attend the summer school. Please reach out to us as soon as you have booked your transportation and make sure to send us <b>receipts</b>. Right after the summer school, we will reimburse you the deposit and the travel grant.
 
 If your attendance is contingent on whether you receive the travel grant, don't worry: You do not need to pay the deposit until your travel grant has been confirmed. If any of the attendees who have received a travel grant cannot attend, we will reach out to the next person on the list.
