@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Maria Eckstein
-description: Research Scientist at DeepMind, London
+description: DeepMind
 img: assets/img/speakers/MariaEckstein.jpg
 importance: 1
 category: speakers

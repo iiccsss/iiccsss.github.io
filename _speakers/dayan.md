@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Peter Dayan
-description: Director of Max Planck Institute Biological Cybernetics, Tübingen
+description: Max Planck Institute for Biological Cybernetics
 img: assets/img/speakers/PeterDayan.jpg
 importance: 1
 category: speakers

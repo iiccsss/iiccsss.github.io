@@ -11,7 +11,7 @@ nav_order: 4
 
 ### <span style="color:#0076df"> Registration for IICCSSS 2023 is now open! </span>
 
-<a class="btn btn-primary btn-lg" href="https://forms.gle/BbhGNAo5tVYUUFxb8" role="button">Register here</a>
+<a class="btn btn-primary btn-lg" href="https://forms.gle/BbhGNAo5tVYUUFxb8">Register here</a>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -46,17 +46,17 @@ To promote attendance of students outside of Germany, we offer a limited number 
 In order to apply for a travel grant, you will have to prove that you travel from abroad, and you should ideally sign up for active participation (see Participant contributions).
 For more information, please [send us an email](mailto:info@iiccsss.org).
 
-We offer <b>10</b> travel grants of <b>100€</b> each to international attendants. To apply for a travel grant, please [send us an email](mailto:info@iiccsss.org) <b>by July 1st</b> stating
+We offer **10** travel grants of **100€** each to international attendants. To apply for a travel grant, please [send us an email](mailto:info@iiccsss.org) <b>by July 1st</b> stating
 - your name and contact information
 - a short description of your background
 - where you will be travelling from
-- if you intend to present something at the Blitz talks.
+- if you intend to present something as a blitz talk.
 
-After <b>the deadline on July 1st</b>, we will rank all applicants by distance and support those first that have the farthest journey, which we hope is the fairest solution. You will receive a confirmation email and have time until one week later, <b>July 7th</b>, to sign up and pay the deposit of 20€, which will be reimbursed if you attend the summer school. Please reach out to us as soon as you have booked your transportation and make sure to send us <b>receipts</b>. Right after the summer school, we will reimburse you the deposit and the travel grant.
+After **the deadline on July 1st**, we will rank all applicants by distance, and support those first that have the farthest journey, which we hope is the fairest solution. You will receive a confirmation email and have time until one week later, **July 7th**, to sign up and pay the deposit of 20€, which will be reimbursed if you attend the summer school. Please reach out to us as soon as you have booked your transportation and make sure to send us receipts. Right after the summer school, we will reimburse you the deposit and the travel grant.
 
 If your attendance is contingent on whether you receive the travel grant, don't worry: You do not need to pay the deposit until your travel grant has been confirmed. If any of the attendees who have received a travel grant cannot attend, we will reach out to the next person on the list.
 
-Feel free to [contact us via mail](mailto:info@iiccsss.org) if you have any questions regarding travel grants or other issues.
+Feel free to [contact us via email](mailto:info@iiccsss.org) if you have questions regarding travel grants or other issues.
 
 ## Childcare
 Please [let us know](mailto:info@iiccsss.org) if you will be needing childcare, or if you require any other support.

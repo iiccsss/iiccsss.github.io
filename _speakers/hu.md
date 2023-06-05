@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jennifer Hu
-description: MIT, Brain and Cognitive Sciences
+description: Massachusetts Institute of Technology
 img: assets/img/speakers/JenniferHu.jpg
 importance: 1
 category: speakers

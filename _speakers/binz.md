@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Marcel Binz
-description: Max Planck Institute for Biological Cybernetics, Tübingen
+description: Max Planck Institute for Biological Cybernetics
 img: assets/img/speakers/MarcelBinz.jpg
 importance: 1
 category: speakers
