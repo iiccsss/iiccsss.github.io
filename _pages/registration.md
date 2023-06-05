@@ -31,11 +31,6 @@ Many summer schools and conferences take high attendance fees. We want to make t
 The event is targeted mainly at bachelor's and master's students in Cognitive Science, Neuroscience, Linguistics and related fields. Also PhDs and postdocs are naturally very welcome.
 However, due to limited room capacity, we have to limit the number of participants to a maximum of 75 people, assigned on a first come, first served basis.
 
-## Travel grants
-To promote attendance of students outside of Germany, we offer a limited number of travel grants.
-In order to apply for a travel grant, you will have to prove that you travel from abroad, and you should ideally sign up for active participation (see Participant contributions).
-For more information, please [send us an email](mailto:info@iiccsss.org).
-
 ## Accommodation in Tübingen
 We have reserved 36 beds in Tübingen’s [youth hostel](https://www.jugendherberge.de/en/youth-hostels/tuebingen-113/portrait), and we recommend staying there together for a better group experience. There are rooms with 2-4 beds, and breakfast is included for a price of 37.90€ per night. If you want to stay at the hostel, please indicate so in the registration form — again, first come first served! For people who want to organize their own accommodation, we recommend having a look at [uni accommodations](https://uni-tuebingen.de/en/international/welcome-center/guide-for-international-researchers/accommodation). Of course you can also try to book a place at the youth hostel directly (beyond our 36 beds reservation). Or you can book an AirBnB or couch-surf or camp...
 
@@ -45,6 +40,22 @@ Of course, the summer school is not only meant for you to listen to our speakers
 
 ## Hackathon and Systems Neuroscience Symposium
 On Thursday, the full day will be devoted to a hackathon, where you can develop your skills and work together in teams on hands-on projects. There will be different topics available, including computational problems, data analysis tasks and more conceptual work, making it inclusive for people from different backgrounds. At the same time, Tübingen will also host a second event on Thursday and Friday (14 and 15 September), the [Systems Neuroscience Symposium](http://meg.medizin.uni-tuebingen.de/2023/). IICCSSS participants will have the option to attend SNS at a reduced fee of 40€ instead of participating in the hackathon. Note that the reduced fee only applies if you attend the summer school from Monday to Wednesday. In the registration form, please indicate whether you plan to attend the hackathon at IICCSSS or the Systems Neuroscience Symposium for 40€ (the choice is not binding yet).
+
+## Travel grants
+To promote attendance of students outside of Germany, we offer a limited number of travel grants.
+In order to apply for a travel grant, you will have to prove that you travel from abroad, and you should ideally sign up for active participation (see Participant contributions).
+For more information, please [send us an email](mailto:info@iiccsss.org).
+
+We offer <b>10</b> travel grants of <b>100€</b> each to international attendants. To apply for a travel grant, please [send us an email](mailto:info@iiccsss.org) <b>by July 1st</b> stating
+- your name and contact information
+- a short description of your background
+- where you will be travelling from
+- if you intend to present something at the Blitz talks.
+After <b>the deadline on July 1st</b>, we will rank all applicants by distance and support those first that have the farthest journey, which we hope is the fairest solution. You will receive a confirmation email and have time until one week later, <b>July 7th</b>, to sign up and pay the deposit of 20€, which will be reimbursed if you attend the summer school. Please reach out to us as soon as you have booked your transportation and make sure to send us <b>receipts</b>. Right after the summer school, we will reimburse you the deposit and the travel grant.
+
+If your attendance is contingent on whether you receive the travel grant, don't worry: You do not need to pay the deposit until your travel grant has been confirmed. If any of the attendees who have received a travel grant cannot attend, we will reach out to the next person on the list.
+
+Feel free to [contact us via mail](mailto:info@iiccsss.org) if you have any questions regarding travel grants or other issues.
 
 ## Childcare
 Please [let us know](mailto:info@iiccsss.org) if you will be needing childcare, or if you require any other support.
