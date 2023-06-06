@@ -42,17 +42,13 @@ Of course, the summer school is not only meant for you to listen to our speakers
 On Thursday, the full day will be devoted to a hackathon, where you can develop your skills and work together in teams on hands-on projects. There will be different topics available, including computational problems, data analysis tasks and more conceptual work, making it inclusive for people from different backgrounds. At the same time, Tübingen will also host a second event on Thursday and Friday (14 and 15 September), the [Systems Neuroscience Symposium](http://meg.medizin.uni-tuebingen.de/2023/). IICCSSS participants will have the option to attend SNS at a reduced fee of 40€ instead of participating in the hackathon. Note that the reduced fee only applies if you attend the summer school from Monday to Wednesday. In the registration form, please indicate whether you plan to attend the hackathon at IICCSSS or the Systems Neuroscience Symposium for 40€ (the choice is not binding yet).
 
 ## Travel grants
-To promote attendance of students outside of Germany, we offer a limited number of travel grants.
-In order to apply for a travel grant, you will have to prove that you travel from abroad, and you should ideally sign up for active participation (see Participant contributions).
-For more information, please [send us an email](mailto:info@iiccsss.org).
-
-We offer **10** travel grants of **100€** each to international attendants. To apply for a travel grant, please [send us an email](mailto:info@iiccsss.org) <b>by July 1st</b> stating
+To promote attendance of students outside of Germany, we offer a total of **10** travel grants of **100€** each to international attendees. To apply for a travel grant, please [send us an email](mailto:info@iiccsss.org) **by July 1st** stating
 - your name and contact information
 - a short description of your background
 - where you will be travelling from
 - if you intend to present something as a blitz talk.
 
-After **the deadline on July 1st**, we will rank all applicants by distance, and support those first that have the farthest journey, which we hope is the fairest solution. You will receive a confirmation email and have time until one week later, **July 7th**, to sign up and pay the deposit of 20€, which will be reimbursed if you attend the summer school. Please reach out to us as soon as you have booked your transportation and make sure to send us receipts. Right after the summer school, we will reimburse you the deposit and the travel grant.
+After **the deadline on July 1st**, we will rank all applicants by distance, and support those first that have the farthest journey, which we hope is the fairest solution. You will receive a confirmation email and have time until one week later, **July 7th**, to sign up and pay the deposit of 20€, which will be reimbursed if you attend the summer school. Please reach out to us as soon as you have booked your transportation and make sure to send us travel receipts. Right after the summer school, we will reimburse you the deposit and the travel grant.
 
 If your attendance is contingent on whether you receive the travel grant, don't worry: You do not need to pay the deposit until your travel grant has been confirmed. If any of the attendees who have received a travel grant cannot attend, we will reach out to the next person on the list.
 
@@ -60,3 +56,6 @@ Feel free to [contact us via email](mailto:info@iiccsss.org) if you have questio
 
 ## Childcare
 Please [let us know](mailto:info@iiccsss.org) if you will be needing childcare, or if you require any other support.
+
+## Certificates of completion and course credit
+It is possible to receive a certificate of completion after attending the summer school. We estimate that participation in the events of the summer school is worth 1–2 [ECTS credits](https://education.ec.europa.eu/education-levels/higher-education/inclusive-and-connected-higher-education/european-credit-transfer-and-accumulation-system); however, if you want to get university credits for participation, you will have to confirm this option with your study program / your home university.
