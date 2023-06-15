@@ -28,8 +28,8 @@ IICCSSS 2023 will be a five-day in-person event in Tübingen, Germany, September
 Many summer schools and conferences take high attendance fees. We want to make the event inclusive for everyone and keep the event free of charge. However, for your own commitment, you will be asked to pay a deposit of 20€. If you attend the summer school, we will reimburse the deposit in cash.
 
 ## Who can attend?
-The event is targeted mainly at bachelor's and master's students in Cognitive Science, Neuroscience, Linguistics and related fields. Also PhDs and postdocs are naturally very welcome.
-However, due to limited room capacity, we have to limit the number of participants to a maximum of 75 people, assigned on a first come, first served basis.
+The event is targeted mainly at bachelor's and master's students in Cognitive Science, Neuroscience, Linguistics and related fields. Also PhDs and postdocs are of course very welcome.
+However, due to limited room capacity, we have to limit the number of participants to a maximum of 90 people, assigned on a first come, first served basis.
 
 ## Accommodation in Tübingen
 We have reserved 36 beds in Tübingen’s [youth hostel](https://www.jugendherberge.de/en/youth-hostels/tuebingen-113/portrait), and we recommend staying there together for a better group experience. There are rooms with 2-4 beds, and breakfast is included for a price of 37.90€ per night. If you want to stay at the hostel, please indicate so in the registration form — again, first come first served! For people who want to organize their own accommodation, we recommend having a look at [uni accommodations](https://uni-tuebingen.de/en/international/welcome-center/guide-for-international-researchers/accommodation). Of course you can also try to book a place at the youth hostel directly (beyond our 36 beds reservation). Or you can book an AirBnB or couch-surf or camp...
