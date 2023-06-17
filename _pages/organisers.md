@@ -9,9 +9,9 @@ nav_order: 6
 
 
 <div class="container-fluid mt-4">
-    <div class="row justify-content-center">
+    <div class="row justify-content-left">
         <div class="col-auto mb-3">
-            <div class="card" style="width: 14rem;">
+            <div class="card h-100" style="width: 14rem;">
               <img src="/assets/img/organisers/sabrinafrohn.jpg" class="card-img-top" alt="Sabrina Frohn">
                 <div class="card-body">
                     <h5 class="card-title">Sabrina Frohn</h5>
@@ -21,7 +21,7 @@ nav_order: 6
             </div>
         </div>
         <div class="col-auto mb-3">
-            <div class="card" style="width: 14rem;">
+            <div class="card h-100" style="width: 14rem;">
               <img src="/assets/img/organisers/thomasklein.jpg" class="card-img-top" alt="Thomas Klein">
                 <div class="card-body">
                   <h5 class="card-title">Thomas Klein</h5>
@@ -31,7 +31,7 @@ nav_order: 6
             </div>
         </div>
         <div class="col-auto mb-3">
-            <div class="card" style="width: 14rem;">
+            <div class="card h-100" style="width: 14rem;">
               <img src="/assets/img/organisers/tobiasludwig.jpg" class="card-img-top" alt="Tobias Ludwig">
                 <div class="card-body">
                   <h5 class="card-title">Tobias Ludwig</h5>
@@ -41,7 +41,7 @@ nav_order: 6
             </div>
         </div>
         <div class="col-auto mb-3">
-            <div class="card" style="width: 14rem;">
+            <div class="card h-100" style="width: 14rem;">
               <img src="/assets/img/organisers/nataliascharfenberg.jpg" class="card-img-top" alt="Natalia Scharfenberg">
                 <div class="card-body">
                 <h5 class="card-title">Natalia Scharfenberg</h5>
@@ -51,7 +51,7 @@ nav_order: 6
             </div>
         </div>
         <div class="col-auto mb-3">
-            <div class="card" style="width: 14rem;">
+            <div class="card h-100" style="width: 14rem;">
               <img src="/assets/img/organisers/katharinastein.jpg" class="card-img-top" alt="Katharina Stein">
                 <div class="card-body">
                   <h5 class="card-title">Katharina Stein</h5>
@@ -61,7 +61,7 @@ nav_order: 6
             </div>
         </div>
         <div class="col-auto mb-3">
-            <div class="card" style="width: 14rem;">
+            <div class="card h-100" style="width: 14rem;">
               <img src="/assets/img/organisers/polinatsvilodub.jpg" class="card-img-top" alt="Polina Tsvilodub">
                 <div class="card-body">
                   <h5 class="card-title">Polina Tsvilodub</h5>
@@ -71,7 +71,7 @@ nav_order: 6
             </div>
         </div>
         <div class="col-auto mb-3">
-            <div class="card" style="width: 14rem;">
+            <div class="card h-100" style="width: 14rem;">
               <img src="/assets/img/organisers/ninawiedemann.jpg" class="card-img-top" alt="Nina Wiedemann">
                 <div class="card-body">
                   <h5 class="card-title">Nina Wiedemann</h5>
@@ -88,7 +88,7 @@ nav_order: 6
 <div class="container-fluid mt-4">
     <div class="row justify-content-center">
         <div class="col-auto mb-3">
-            <div class="card" style="width: 14rem;">
+            <div class="card h-100" style="width: 14rem;">
               <img src="/assets/img/organisers/saraalrawi.jpg" class="card-img-top" alt="Sara Al-Rawi">
                 <div class="card-body">
                     <h5 class="card-title">Sara Al-Rawi</h5>
@@ -98,7 +98,7 @@ nav_order: 6
             </div>
         </div>
         <div class="col-auto mb-3">
-            <div class="card" style="width: 14rem;">
+            <div class="card h-100" style="width: 14rem;">
               <img src="/assets/img/organisers/jannisborn.jpg" class="card-img-top" alt="Jannis Born">
                 <div class="card-body">
                   <h5 class="card-title">Jannis Born</h5>
@@ -109,7 +109,7 @@ nav_order: 6
             </div>
         </div>
         <div class="col-auto mb-3">
-            <div class="card" style="width: 14rem;">
+            <div class="card h-100" style="width: 14rem;">
               <img src="/assets/img/organisers/alessagrund.jpg" class="card-img-top" alt="Alessa Grund">
                 <div class="card-body">
                 <h5 class="card-title">Alessa Grund</h5>
@@ -118,7 +118,7 @@ nav_order: 6
             </div>
         </div>
         <div class="col-auto mb-3">
-            <div class="card" style="width: 14rem;">
+            <div class="card h-100" style="width: 14rem;">
               <img src="/assets/img/organisers/philipphummel.jpg" class="card-img-top" alt="Philipp Hummel">
                 <div class="card-body">
                   <h5 class="card-title">Philipp Hummel</h5>
@@ -128,7 +128,7 @@ nav_order: 6
             </div>
         </div>
         <div class="col-auto mb-3">
-            <div class="card" style="width: 14rem;">
+            <div class="card h-100" style="width: 14rem;">
               <img src="/assets/img/organisers/jankirchner.jpg" class="card-img-top" alt="Jan Kirchner">
                 <div class="card-body">
                   <h5 class="card-title">Jan Kirchner</h5>
@@ -139,13 +139,15 @@ nav_order: 6
             </div>
         </div>
         <div class="col-auto mb-3">
-            <div class="card" style="width: 14rem;">
+            <div class="card h-100" style="width: 14rem;">
               <img src="/assets/img/organisers/lukasvogelsang.jpg" class="card-img-top" alt="Lukas Vogelsang">
                 <div class="card-body">
                   <h5 class="card-title">Lukas Vogelsang</h5>
                     <h6 class="card-subtitle mb-2 text-muted">École polytechnique fédérale de Lausanne, Laboratory of Psychophysics</h6>
                     <p class="card-text">lukasvog [at] ethz.ch</p>
-                    <a href="https://www.linkedin.com/in/lukas-vogelsang-bb42a411a/" class="card-link"><i class="fab fa-linkedin"></i></a>
+                    <div class="contact-icons">
+                    <a href="https://www.linkedin.com/in/lukas-vogelsang-bb42a411a/"><i class="fab fa-linkedin"></i></a>
+                    </div>
                 </div>
             </div>
         </div>
