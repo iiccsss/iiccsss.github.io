@@ -104,7 +104,7 @@ nav_order: 6
                   <h5 class="card-title">Jannis Born</h5>
                   <h6 class="card-subtitle mb-2 text-muted">ETH Zürich & IBM Research</h6>
                     <p class="card-text">jborn [at] ethz.ch</p>
-                    <a href="https://www.linkedin.com/in/jannis-born-319054121/" class="card-link">LinkedIn</a>
+                    <a href="https://www.linkedin.com/in/jannis-born-319054121/" class="card-link"><i class="fab fa-linkedin"></i></a>
                 </div>
             </div>
         </div>
@@ -134,7 +134,7 @@ nav_order: 6
                   <h5 class="card-title">Jan Kirchner</h5>
                     <h6 class="card-subtitle mb-2 text-muted">OpenAI</h6>
                     <p class="card-text">kirchner.jan [at] icloud.com</p>
-                    <a href="https://www.twitter.com/janhkirchner" class="card-link">Twitter</a>
+                    <a href="https://www.twitter.com/janhkirchner" class="card-link"><i class="fab fa-twitter"></i></a>
                 </div>
             </div>
         </div>
@@ -145,7 +145,7 @@ nav_order: 6
                   <h5 class="card-title">Lukas Vogelsang</h5>
                     <h6 class="card-subtitle mb-2 text-muted">École polytechnique fédérale de Lausanne, Laboratory of Psychophysics</h6>
                     <p class="card-text">lukasvog [at] ethz.ch</p>
-                    <a href="https://www.linkedin.com/in/lukas-vogelsang-bb42a411a/" class="card-link">LinkedIn</a>
+                    <a href="https://www.linkedin.com/in/lukas-vogelsang-bb42a411a/" class="card-link"><i class="fab fa-linkedin"></i></a>
                 </div>
             </div>
         </div>
