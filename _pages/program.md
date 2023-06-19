@@ -26,7 +26,7 @@ This is the summer school program for September 11–15, 2023.
         <td> 9:30–10:30 </td>
         <td class="table-warning"> Registration </td>
         <td rowspan="3" class="table-warning"> Tour of the institutes </td>
-        <td rowspan="2" class="table-danger"> LLM Workshop </td>
+        <td rowspan="2" class="table-danger"> <em> Workshop </em> Marcel Binz </td>
         <td rowspan="3" class="table-info"> Hackathon / "Cognithon" / "Neurothon" </td>
         <td rowspan="2" class="table-info"> Hackathon </td>
     </tr>
@@ -50,7 +50,7 @@ This is the summer school program for September 11–15, 2023.
     </tr>
     <tr>
         <td> 13:30–15:00 </td>
-        <td class="table-primary"> Talk TBA </td>
+        <td class="table-danger"> <em> Workshop </em> <br> John Jairo Madrid Carvajal </td>
         <td class="table-warning"> Contributed lightning talks </td>
         <td class="table-warning"> Contributed lightning talks  </td>
         <td class="table-danger"> Science communication seminar </td>
@@ -59,7 +59,7 @@ This is the summer school program for September 11–15, 2023.
     <tr>
         <td> 15:15–16:15 </td>
         <td class="table-primary"> <em> Title TBA </em> <br> Maria Eckstein </td>
-        <td class="table-danger"> Workshop <br> Nicole Ludwig </td>
+        <td class="table-danger"> <em> Workshop </em> <br> Nicole Ludwig </td>
         <td class="table-primary"> <em> Title TBA </em> <br> Jennifer Hu </td>
         <td rowspan="4" class="table-info"> Hackathon </td>
         <td class="table-primary"> <strong> Closing keynote</strong> <br> Noah Goodman </td>
