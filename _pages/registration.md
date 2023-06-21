@@ -9,9 +9,9 @@ nav_order: 4
 
 
 
-### <span style="color:#0076df"> Registration for IICCSSS 2023 is now open! </span>
+<span style="color:#0076df"> We have reached the maximum number of registrations for IICCSSS 2023. All further registrations will be put on a waiting list. If some of the registered participants drop out before the start of the summer school, we will give their spots to people on the waiting list.</span>
 
-<a class="btn btn-primary btn-lg" href="https://forms.gle/BbhGNAo5tVYUUFxb8">Register here</a>
+<a class="btn btn-primary btn-sm" href="https://forms.gle/BbhGNAo5tVYUUFxb8">Register here (waiting list)</a>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
