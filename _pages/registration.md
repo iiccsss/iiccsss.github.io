@@ -34,6 +34,9 @@ However, due to limited room capacity, we have to limit the number of participan
 ## Accommodation in Tübingen
 We have reserved 36 beds in Tübingen’s [youth hostel](https://www.jugendherberge.de/en/youth-hostels/tuebingen-113/portrait), and we recommend staying there together for a better group experience. There are rooms with 2-4 beds, and breakfast is included for a price of 37.90€ per night. If you want to stay at the hostel, please indicate so in the registration form — again, first come first served! For people who want to organize their own accommodation, we recommend having a look at [uni accommodations](https://uni-tuebingen.de/en/international/welcome-center/guide-for-international-researchers/accommodation). Of course you can also try to book a place at the youth hostel directly (beyond our 36 beds reservation). Or you can book an AirBnB or couch-surf or camp...
 
+## Location
+The main parts of the event will take place at the ["Oberschulamt", Keplerstr. 2](https://goo.gl/maps/hKSVmgSR2YM4DhRNA). This is a university building, ignore the "permanently closed" on Google Maps. We will be in HS01 and the two seminar rooms SR02 and SR03 on the ground floor. The locations for the lab tours etc. will be announced on Monday.
+
 ## Participant contributions — Blitz Talks
 
 Of course, the summer school is not only meant for you to listen to our speakers, but also to interact with and learn from your peers! A great way to do this is to present a project you are working on as a blitz talk (~15min). It is not necessary to commit to giving a presentation during registration, but in the registration form we will ask you to indicate how likely you are to present. We will then contact you again a little bit closer to the event, and ask you to provide more information.
