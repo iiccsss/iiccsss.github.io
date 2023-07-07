@@ -37,7 +37,10 @@ We have reserved 36 beds in Tübingen’s [youth hostel](https://www.jugendherbe
 <p style="color:#ff0000">NOTE: As of June 12th, the 36 beds at the youth hostel are booked out already. However, you can still sign up for it in the form and you will be placed on a waiting list. We will notify you, once a place is free. Again, you can still try to make a reservation with the youth hostel directly.</p>
 
 ## Location
-The main parts of the event will take place at the ["Oberschulamt", Keplerstr. 2](https://goo.gl/maps/hKSVmgSR2YM4DhRNA). This is a university building, ignore the "permanently closed" on Google Maps. We will be in HS01 and the two seminar rooms SR02 and SR03 on the ground floor. The locations for the lab tours etc. will be announced on Monday.
+The main parts of the event will take place at the ["Oberschulamt", Keplerstr. 2](https://goo.gl/maps/hKSVmgSR2YM4DhRNA). This is a university building (ignore the "permanently closed" note on Google Maps). We will be in HS01 and the two seminar rooms SR02 and SR03 on the ground floor. The locations for the lab tours etc. will be announced at the summer school start.
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=9.062232077121736%2C48.52570202907295%2C9.065826237201692%2C48.52737890794432&amp;layer=mapnik&amp;marker=48.526540475449075%2C9.064029157161713" style="border: 1px solid black"></iframe>
+<a href="https://www.openstreetmap.org/?mlat=48.52654&amp;mlon=9.06403#map=19/48.52654/9.06403">View Larger Map</a>
 
 ## Participant contributions — Blitz Talks
 
