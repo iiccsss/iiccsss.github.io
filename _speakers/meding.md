@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kristof Meding
-description: University Tübingen
+description: Max-Planck-Institute for Intelligent Systems
 img: assets/img/panelists/KristofMeding.jpg
 importance: 1
 category: panelists
