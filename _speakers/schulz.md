@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Eric Schulz
-description: University of Osnabrück
+description: Max Planck Institute for Intelligent Systems, Tübingen
 img: assets/img/panelists/EricSchulz.jpg
 importance: 1
 category: panelists
