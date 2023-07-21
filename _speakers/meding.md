@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kristof Meding
-description: Max-Planck-Institute for Intelligent Systems
+description: State Commissioner for Data Protection and Freedom of Information
 img: assets/img/panelists/KristofMeding.jpg
 importance: 1
 category: panelists
@@ -14,8 +14,4 @@ published: false
     </div>
 </div>
 
-Kristof Meding is a PhD student jointly supervised by Felix Wichmann and the Max-Planck-Institute for Intelligent Systems and part 
-of the DFG SFB 1233 ''Robust Vision''. His current research interest is how people and algorithms process the 
-arrow of time. Additionally, he is developing new psychophysical methods 
-to perform robust experiments, e.g. novel experiments to objectively 
-quantify causal perception. 
+Kristof obtained a Bachelor's degree in Physics and a Master's degree in Neural Information Processing. During his PhD and PostDoc, he researched causal inference capabilities in human and computer vision under the supervision of Felix Wichmann from the University of Tübingen and Bernhard Schölkopf from the Max-Planck-Institute for Intelligent Systems. Since 2022, he has been employed at the State Commissioner for Data Protection and Freedom of Information of Baden-Württemberg, where he focuses on addressing issues pertaining to data privacy and machine learning. More broadly, due to his current legal studies, Kristof is generally interested in the intersection of legal matters and machine learning.
