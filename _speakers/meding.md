@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kristof Meding
-description: State Commissioner for Data Protection and Freedom of Information
+description: Office of the State Commissioner for Data Protection and Freedom of Information Baden-Württemberg
 img: assets/img/panelists/KristofMeding.jpg
 importance: 1
 category: panelists
