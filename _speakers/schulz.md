@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Eric Schulz
-description: Max Planck Institute for Intelligent Systems, Tübingen
+description: Max Planck Institute for Biological Cybernetics
 img: assets/img/panelists/EricSchulz.jpg
 importance: 1
 category: panelists
@@ -9,7 +9,7 @@ published: true
 ---
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/panelists/EricSchulz" title="Eric Schulz" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

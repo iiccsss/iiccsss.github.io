@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Annette Leßmöllmann
-description: Professor for Science Communication and Linguistics at KIT
+description: Karlsruhe Institute of Technology
 img: assets/img/panelists/AnnetteLessmoellmann.jpeg
 importance: 1
 category: panelists
