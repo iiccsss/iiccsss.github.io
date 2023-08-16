@@ -5,7 +5,7 @@ description: Office of the State Commissioner for Data Protection and Freedom of
 img: assets/img/panelists/KristofMeding.jpg
 importance: 1
 category: panelists
-published: false
+published: true
 ---
 
 <div class="row justify-content-sm-center">

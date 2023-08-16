@@ -5,7 +5,7 @@ description: University of Osnabrück
 img: assets/img/panelists/NoraLindemann.jpg
 importance: 1
 category: panelists
-published: false
+published: true
 ---
 
 <div class="row justify-content-sm-center">

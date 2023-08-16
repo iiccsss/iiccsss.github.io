@@ -5,7 +5,7 @@ description: Professor for Science Communication and Linguistics at KIT
 img: assets/img/panelists/AnnetteLessmoellmann.jpg
 importance: 1
 category: panelists
-published: false
+published: true
 ---
 
 <div class="row justify-content-sm-center">

@@ -5,7 +5,7 @@ description: Director Communication & Society at Cyber Valley
 img: assets/img/panelists/RebeccaBeiter.jpg
 importance: 1
 category: panelists
-published: false
+published: true
 ---
 
 <div class="row justify-content-sm-center">
