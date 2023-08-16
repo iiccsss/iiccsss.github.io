@@ -2,7 +2,7 @@
 layout: page
 title: Annette Leßmöllmann
 description: Professor for Science Communication and Linguistics at KIT
-img: assets/img/panelists/AnnetteLessmoellmann.jpg
+img: assets/img/panelists/AnnetteLessmoellmann.jpeg
 importance: 1
 category: panelists
 published: true
