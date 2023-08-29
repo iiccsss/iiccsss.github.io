@@ -3,8 +3,8 @@ layout: page
 permalink: /philosophy/
 title: philosophy
 description: 
-nav: true
-nav_order: 5
+nav: false
+nav_order: 
 ---
 
 ## Is this event for me?

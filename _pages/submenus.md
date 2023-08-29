@@ -1,16 +1,13 @@
 ---
 layout: page
-title: past iterations
+title: about us
 nav: true
-nav_order: 7
+nav_order: 5
 dropdown: true
 children: 
-    - title: IICCSSS 2022
-      permalink: https://kirchner-jan.github.io/IICCSSS
+    - title: organisers
+      permalink: /organisers/
     - title: divider
-    - title: IICCSSS 2021
-      permalink: /2021/
-    - title: divider
-    - title: IICCSSS 2019
-      permalink: /2019/
+    - title: philosophy
+      permalink: /philosophy/
 ---

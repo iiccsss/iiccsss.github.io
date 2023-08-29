@@ -3,8 +3,8 @@ layout: page
 title: organisers
 permalink: /organisers/
 description: IICCSSS is organised by a team of graduate students
-nav: true
-nav_order: 6
+nav: false
+nav_order: 
 ---
 
 <!-- pages/organisers.md -->

@@ -4,7 +4,7 @@ permalink: /program/
 title: program
 description: Summer school program
 nav: true
-nav_order: 3 
+nav_order: 3
 ---
 
 
@@ -67,7 +67,7 @@ This is the summer school program for September 11–15, 2023.
     <tr>
         <td> 16:30–17:30 </td>
         <td class="table-primary"> <em> Title TBA </em> <br> Jan Kirchner </td>
-        <td class="table-danger"> What goes wrong in academia <br> Event </td>
+        <td class="table-danger">"What goes wrong in academia"</td>
         <td class="table-danger"> Panel discussion on LLMs </td>
         <td class="table-warning"> End </td>
     </tr>
@@ -98,7 +98,7 @@ This is the summer school program for September 11–15, 2023.
         <td class="table-primary">Invited talks</td>
         <td class="table-warning">Participants and organisers</td>
         <td  class="table-danger">Workshops with practical exercises</td>
-        <td class="table-info"> Hands-on sessions</td>
+        <td class="table-info">Hackathon</td>
         <td class="table-success">Evening program</td>
     </tr>
   </tbody>
