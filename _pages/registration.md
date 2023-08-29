@@ -7,6 +7,22 @@ nav: true
 nav_order: 4
 ---
 
+<style>
+	.map-container {
+		position: relative;
+		padding-bottom: 56.25%;
+		height: 0;
+		overflow: hidden;
+	}
+
+	.map-container iframe {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+	}
+</style>
 
 
 <span style="color:#0076df"> We have reached the maximum number of registrations for IICCSSS 2023. All further registrations will be put on a waiting list. If some of the registered participants drop out before the start of the summer school, we will give their spots to people on the waiting list. </span> <span style="color:#0076df; font-weight: bold">(Please do not transfer the 20€ deposit until you receive the confirmation that you have been taken off the waiting list.) </span>
@@ -34,13 +50,19 @@ However, due to limited room capacity, we have to limit the number of participan
 ## Accommodation in Tübingen
 We have reserved 36 beds in Tübingen’s [youth hostel](https://www.jugendherberge.de/jugendherbergen/tuebingen/), and we recommend staying there together for a better group experience. There are rooms with 2-4 beds, and breakfast is included for a price of 33.90€ per night. If you want to stay at the hostel, please indicate so in the registration form — again, first come first served! For people who want to organize their own accommodation, we recommend having a look at [uni accommodations](https://uni-tuebingen.de/en/international/welcome-center/guide-for-international-researchers/accommodation). Of course you can also try to book a place at the youth hostel directly (beyond our 36 beds reservation). Or you can book an AirBnB or couch-surf or camp...
 
-<p style="color:#ff0000">NOTE: As of June 12th, the 36 beds at the youth hostel are booked out already. However, you can still sign up for it in the form and you will be placed on a waiting list. We will notify you, once a place is free. Again, you can still try to make a reservation with the youth hostel directly.</p>
+<p style="color:#ff0000">NOTE: As of June 12th, the 36 beds at the youth hostel are booked out already. However, you can still indicate your interest in staying at the hostel in the registration form, and you will be placed on the hostel waiting list. We will notify you if a spot becomes available. Again, you can still try to make a reservation with the youth hostel directly.</p>
 
 ## Location
-The main parts of the event will take place at the ["Oberschulamt", Keplerstr. 2](https://goo.gl/maps/hKSVmgSR2YM4DhRNA). This is a university building (ignore the "permanently closed" note on Google Maps). We will be in HS01 and the two seminar rooms SR02 and SR03 on the ground floor. The locations for the lab tours etc. will be announced at the summer school start.
+The main events of the summer school will take place at [Keplerstraße 2, 72074 Tübingen](https://goo.gl/maps/hKSVmgSR2YM4DhRNA). We will be in the lecture hall HS01 and the two seminar rooms SR02 and SR03 on the ground floor. The locations for the lab tours etc. will be announced at the summer school start.
 
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=9.062232077121736%2C48.52570202907295%2C9.065826237201692%2C48.52737890794432&amp;layer=mapnik&amp;marker=48.526540475449075%2C9.064029157161713" style="border: 1px solid black"></iframe>
-<a href="https://www.openstreetmap.org/?mlat=48.52654&amp;mlon=9.06403#map=19/48.52654/9.06403">View Larger Map</a>
+<div class="row">
+    <div class="col-lg-7 col-sm-7 m-auto">
+        <div class="map-container">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2642.3576401971595!2d9.061312912700666!3d48.52637747116924!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4799e5326ef479eb%3A0x1eacda7ea3b31d89!2sKeplerstra%C3%9Fe%202%2C%2072074%20T%C3%BCbingen!5e0!3m2!1sen!2sde!4v1693320588618!5m2!1sen!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+    </div>
+</div>
+<br>
 
 ## Participant contributions — Blitz Talks
 
