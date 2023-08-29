@@ -50,7 +50,7 @@ TBA
 
 ## Dinner
 
-The summer school dinner will take place on Wednesday, September 13, starting at 7 p.m. in El Pecado. All speakers and participants are cordially invited to join!
+The summer school dinner will take place on Wednesday, September 13, starting at 7 p.m. in El Pecado (Am Stadtgraben 25, 72070 Tübingen). All speakers and participants are cordially invited to join!
 
 <div class="row">
     <div class="col-lg-7 col-sm-7 m-auto">
