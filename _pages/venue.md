@@ -24,11 +24,11 @@ nav_order: 1
 	}
 </style>
 
-IICCSSS 2023 will take place in Tübingen, Germany. Below you fill find the overview of the locations where the talks and other events will happen.
+IICCSSS 2023 will take place in Tübingen, Germany. Below you will find the overview of locations where talks and other events of the summer school will happen.
 
 ## Main venue
 
-Registration and all invited talks will take place in **Keplerstraße 2, 72074 Tübingen**. The registration desk will open at 9.30 a.m. on Monday, September 11. We expect that most participants will be able to register during the designated registration slot between 9.30 and 10.30 a.m.; however, if you arrive later, you will still be able to register throughout the rest of the day.
+Registration, hackathon, and all invited talks will take place in **Keplerstraße 2, 72074 Tübingen**. The registration desk will open at 9.30 a.m. on Monday, September 11. We expect that most participants will be able to register during the designated registration slot between 9.30 and 10.30 a.m.; however, if you arrive later, you will still be able to register throughout the rest of the day. Additionally, on Monday, a room will be provided for you to store your luggage until the evening.
 
 <div class="row">
     <div class="col-lg-7 col-sm-7 m-auto">
@@ -39,6 +39,7 @@ Registration and all invited talks will take place in **Keplerstraße 2, 72074 T
 </div>
 <br>
 
+
 ## Tour of the Max Planck Institutes
 
 <!--On Tuesday morning, summer school participants will be able to join one of the two tours of the Max Planck Institutes.-->
@@ -46,7 +47,7 @@ TBA
 
 ## Barbecue
 
-TBA
+On Tuesday evening, all participants are cordially invited to the [barbecue organised by the Tübingen cognitive science students](/news/BBQ/).
 
 ## Dinner
 
@@ -60,7 +61,3 @@ The summer school dinner will take place on Wednesday, September 13, starting at
     </div>
 </div>
 <br>
-
-## Hackathon
-
-TBA

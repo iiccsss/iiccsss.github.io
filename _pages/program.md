@@ -32,11 +32,11 @@ This is the summer school program for September 11–15, 2023.
     </tr>
     <tr>
         <td> 10:30–11:00 </td>
-        <td class="table-warning"> Intro </td>
+        <td class="table-warning"> Opening remarks </td>
     </tr>
     <tr>
         <td> 11:15–12:15 </td>
-        <td class="table-primary"> <strong>Opening keynote</strong> <br> Peter Dayan </td>
+        <td class="table-primary"> <strong>Keynote I</strong> <br> Peter Dayan </td>
         <td class="table-primary"> <em> Title TBA </em> <br> Andrew Lampinen</td>
         <td class="table-info">5-min pitches</td>
     </tr>
@@ -62,14 +62,14 @@ This is the summer school program for September 11–15, 2023.
         <td class="table-danger"> <em> Workshop </em> <br> Nicole Ludwig </td>
         <td class="table-primary"> <em> Title TBA </em> <br> Jennifer Hu </td>
         <td rowspan="4" class="table-info"> Hackathon </td>
-        <td class="table-primary"> <strong> Closing keynote</strong> <br> Noah Goodman </td>
+        <td class="table-primary"> <strong> Keynote II</strong> <br> Noah Goodman </td>
     </tr>
     <tr>
         <td> 16:30–17:30 </td>
         <td class="table-primary"> <em> Title TBA </em> <br> Jan Kirchner </td>
         <td class="table-danger">"What goes wrong in academia"</td>
-        <td class="table-danger"> Panel discussion on LLMs </td>
-        <td class="table-warning"> End </td>
+        <td class="table-danger"> Panel discussion on regulation of large language models</td>
+        <td class="table-warning"> Closing remarks </td>
     </tr>
     <tr>
         <td> &nbsp; </td>
@@ -81,7 +81,7 @@ This is the summer school program for September 11–15, 2023.
     <tr>
         <td> After 19:00 (Evening program) </td>
         <td class="table-success"> City rallye </td>
-        <td> &nbsp; </td>
+        <td class="table-success"> <a href="/news/BBQ/">BBQ</a> </td>
         <td class="table-success"> Dinner </td>
         <td> &nbsp; </td>
     </tr>
