@@ -39,6 +39,10 @@ Registration, hackathon, and all invited talks will take place in **Keplerstraß
 </div>
 <br>
 
+## Lunch
+
+During the week, participants can get lunch at the [Mensa Shedhalle](https://www.my-stuwe.de/en/refectory/refectory-shedhalle/) (Schlachthausstraße 13, 72074 Tübingen), which is a short walk away from our main venue.
+
 
 ## Tour of the Max Planck Institutes
 
