@@ -80,12 +80,14 @@ This is the summer school program for September 11–15, 2023.
         <td> &nbsp; </td>
         <td> &nbsp; </td>
         <td> &nbsp; </td>
+        <td> &nbsp; </td>
     </tr>
     <tr>
         <td> After 19:00 (Evening program) </td>
         <td class="table-success"> City rallye </td>
         <td class="table-success"> <a href="/news/BBQ/">BBQ</a> </td>
         <td class="table-success"> Dinner </td>
+        <td></td>
     </tr>
   </tbody>
 </table>
@@ -102,6 +104,7 @@ This is the summer school program for September 11–15, 2023.
         <td  class="table-danger">Workshops with practical exercises</td>
         <td class="table-info">Hackathon</td>
         <td class="table-success">Evening program</td>
+        <td> </td>
     </tr>
   </tbody>
 </table>
