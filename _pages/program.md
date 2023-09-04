@@ -62,7 +62,7 @@ This is the summer school program for September 11–15, 2023.
         <td class="table-danger"> <em> Workshop </em> <br> Nicole Ludwig </td>
         <td class="table-primary"> <em> Title TBA </em> <br> Jennifer Hu </td>
         <td rowspan="4" class="table-info"> Hackathon </td>
-        <td class="table-primary"> <strong> Keynote II</strong> <br> Noah Goodman </td>
+        <td class="table-primary"> 16:00–17:00 <br> <strong> Keynote II</strong> <br> Noah Goodman </td>
     </tr>
     <tr>
         <td> 16:30–17:30 </td>
