@@ -104,7 +104,6 @@ This is the summer school program for September 11–15, 2023.
         <td  class="table-danger">Workshops with practical exercises</td>
         <td class="table-info">Hackathon</td>
         <td class="table-success">Evening program</td>
-        <td> </td>
     </tr>
   </tbody>
 </table>
