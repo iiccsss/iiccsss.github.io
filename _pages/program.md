@@ -54,25 +54,28 @@ This is the summer school program for September 11–15, 2023.
         <td class="table-warning"> Contributed lightning talks </td>
         <td class="table-warning"> Contributed lightning talks  </td>
         <td class="table-danger"> Science communication seminar </td>
-        <td class="table-info"> Feedback and announcing hackathon winners </td>
+        <td rowspan="2" class="table-info"> Feedback and announcing hackathon winners </td>
     </tr>
     <tr>
-        <td> 15:15–16:15 </td>
-        <td class="table-primary"> <em> Title TBA </em> <br> Maria Eckstein </td>
-        <td class="table-danger"> <em> Workshop </em> <br> Nicole Ludwig </td>
-        <td class="table-primary"> <em> Title TBA </em> <br> Jennifer Hu </td>
-        <td rowspan="4" class="table-info"> Hackathon </td>
-        <td class="table-primary"> 16:00–17:00 <br> <strong> Keynote II</strong> <br> Noah Goodman </td>
+        <td rowspan="2"> 15:15–16:15 </td>
+        <td rowspan="2" class="table-primary"> <em> Title TBA </em> <br> Maria Eckstein </td>
+        <td rowspan="2" class="table-danger"> <em> Workshop </em> <br> Nicole Ludwig </td>
+        <td rowspan="2" class="table-primary"> <em> Title TBA </em> <br> Jennifer Hu </td>
+        <td rowspan="6" class="table-info"> Hackathon </td>
     </tr>
     <tr>
-        <td> 16:30–17:30 </td>
-        <td class="table-primary"> <em> Title TBA </em> <br> Jan Kirchner </td>
-        <td class="table-danger">"What goes wrong in academia"</td>
-        <td class="table-danger"> Panel discussion on regulation of large language models</td>
+        <td rowspan="2" class="table-primary"> 16:00–17:00 <br> <strong> Keynote II</strong> <br> Noah Goodman </td>
+    </tr>
+    <tr>
+        <td rowspan="2"> 16:30–17:30 </td>
+        <td rowspan="2" class="table-primary"> <em> Title TBA </em> <br> Jan Kirchner </td>
+        <td rowspan="2" class="table-danger"> <a href="/what-goes-wrong/"> What goes wrong in academia </a></td>
+        <td rowspan="2" class="table-danger"> Panel discussion on regulation of large language models</td>
+    </tr>
+    <tr>
         <td class="table-warning"> Closing remarks </td>
     </tr>
     <tr>
-        <td> &nbsp; </td>
         <td> &nbsp; </td>
         <td> &nbsp; </td>
         <td> &nbsp; </td>
@@ -83,7 +86,6 @@ This is the summer school program for September 11–15, 2023.
         <td class="table-success"> City rallye </td>
         <td class="table-success"> <a href="/news/BBQ/">BBQ</a> </td>
         <td class="table-success"> Dinner </td>
-        <td> &nbsp; </td>
     </tr>
   </tbody>
 </table>
