@@ -68,7 +68,7 @@ This is the summer school program for September 11–15, 2023.
     </tr>
     <tr>
         <td rowspan="2"> 16:30–17:30 </td>
-        <td rowspan="2" class="table-primary"> <em> Title TBA </em> <br> Jan Kirchner </td>
+        <td rowspan="2" class="table-primary"> <em> Prosaic AI alignment </em> <br> Jan Kirchner </td>
         <td rowspan="2" class="table-danger"> <a href="/what-goes-wrong/"> What goes wrong in academia </a></td>
         <td rowspan="2" class="table-danger"> Panel discussion on regulation of large language models</td>
     </tr>
