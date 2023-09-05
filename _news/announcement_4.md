@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-12 Travel Grants have been awarded to international attendees for IICCSSS 2023! :sparkles: The attendee with the farthest journey will join us from Tokyo! :earth_asia:
+12 travel grants have been awarded to international attendees for IICCSSS 2023! :sparkles: The attendee with the farthest journey will join us from Tokyo! :earth_asia:
