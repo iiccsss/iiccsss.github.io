@@ -37,7 +37,7 @@ This is the summer school program for September 11–15, 2023.
     <tr>
         <td> 11:15–12:15 </td>
         <td class="table-primary"> <strong>Keynote I</strong> <br> Peter Dayan </td>
-        <td class="table-primary"> <em> Title TBA </em> <br> Andrew Lampinen</td>
+        <td class="table-primary"> Comparing Language Models to Humans: Challenges & Opportunities <br> <em> Andrew Lampinen </em> </td>
         <td class="table-info">5-min pitches</td>
     </tr>
     <tr>
@@ -68,7 +68,7 @@ This is the summer school program for September 11–15, 2023.
     </tr>
     <tr>
         <td rowspan="2"> 16:30–17:30 </td>
-        <td rowspan="2" class="table-primary"> <em> Prosaic AI alignment </em> <br> Jan Kirchner </td>
+        <td rowspan="2" class="table-primary"> Prosaic AI Alignment <br> <em> Jan Kirchner </em> </td>
         <td rowspan="2" class="table-danger"> <a href="/what-goes-wrong/"> What goes wrong in academia </a></td>
         <td rowspan="2" class="table-danger"> Panel discussion on regulation of large language models</td>
     </tr>
