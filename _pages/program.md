@@ -25,7 +25,7 @@ This is the summer school program for September 11–15, 2023.
     <tr>
         <td> 9:30–10:30 </td>
         <td class="table-warning"> Registration </td>
-        <td rowspan="3" class="table-warning"> Tour of the Max Planck Institutes </td>
+        <td rowspan="3" class="table-warning"> Tour of the institutes </td>
         <td rowspan="2" class="table-danger"> <em> Workshop </em> <br> Marcel Binz </td>
         <td rowspan="3" class="table-info"> Hackathon / "Cognithon" / "Neurothon" </td>
         <td rowspan="2" class="table-info"> Hackathon </td>
