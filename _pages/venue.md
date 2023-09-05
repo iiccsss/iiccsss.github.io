@@ -43,12 +43,6 @@ Registration, hackathon, and all invited talks will take place in **Keplerstraß
 
 During the week, participants can get lunch at the [Mensa Shedhalle](https://www.my-stuwe.de/en/refectory/refectory-shedhalle/) (Schlachthausstraße 13, 72074 Tübingen), which is a short walk away from our main venue.
 
-
-## Tour of the Max Planck Institutes
-
-<!--On Tuesday morning, summer school participants will be able to join one of the two tours of the Max Planck Institutes.-->
-TBA
-
 ## Barbecue
 
 On Tuesday evening, all participants are cordially invited to the [barbecue organised by the Tübingen cognitive science students](/news/BBQ/).
