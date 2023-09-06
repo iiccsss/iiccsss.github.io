@@ -79,7 +79,7 @@ Understanding how human groups collaborate successfully, even when individuals m
 <td markdown="span">13:30–13:50</td>
 <td markdown="span">_Viktor Bublitz_  
 
-**Monitoring Nociception in the frontal EEG**   
+**Monitoring nociception in the frontal EEG**   
 
 Monitoring pain and nociception in critical care patients who cannot self-report presents a substantial challenge. Clinical signs frequently lack both sensitivity and specificity, and existing technical methodologies come with inherent limitations. Accurate predictions of nociception could optimize the administration of analgesia ahead of procedures like endotracheal suctioning. In my doctoral research, I explored strategies to quantify nociception and anticipate reactions to painful interventions in intensive care settings. We particularly examined electroencephalogram (EEG) correlates that either precede or occur simultaneously with behavioral responses to noxious stimuli, such as endotracheal suctioning. Our results showed an elevation in power within the 2-5Hz band that both anticipated and matched these responses, coupled with a decrease in the alpha-band power during these events. Such patterns could be associated with the processing of noxious stimuli and might pave the way for refining and individualizing analgesia in patients unable to articulate their pain. Notably, other power bands and ratios did precede the responses in our study, but these could be attributed more to the concurrent sedation level and arousal than to nociception. Deciphering these intertwined effects is the motivation behind the research that I am currently conceptualizing for subsequent investigations.
 </td>
@@ -106,7 +106,7 @@ In the context of naturalistic, out-of-lab brain imaging situations, the data qu
 <td markdown="span">14:30–14:50</td>
 <td markdown="span">_Guillaume Pourcel_   
 
-**Skill homeostasis: toward a model of ultra-robust behavior**   
+**Skill homeostasis: Toward a model of ultra-robust behavior**   
 
 In this talk, I'll present my current research directions in modeling the impressive phenomenon of ultra-robust behavior in humans, focusing on two intriguing cases: sensory substitution and inverted vision. Sensory substitution demonstrates the brain's rapid adaptation to distorted sensory inputs, such as retranslating visual information into tactile sensations through an array of vibrators. Inverted vision studies are concerned with our abilities to adapt to the disruption of our visual processing by presenting the world upside-down. Both cases showcase remarkable resilience in the face of diverse perturbations.   
 

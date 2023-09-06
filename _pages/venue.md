@@ -28,7 +28,7 @@ IICCSSS 2023 will take place in Tübingen, Germany. Below you will find the over
 
 ## Main venue
 
-Registration, hackathon, and all invited talks will take place in **Keplerstraße 2, 72074 Tübingen**. The registration desk will open at 9.30 a.m. on Monday, September 11. We expect that most participants will be able to register during the designated registration slot between 9.30 and 10.30 a.m.; however, if you arrive later, you will still be able to register throughout the rest of the day. Additionally, on Monday, a room will be provided for you to store your luggage until the evening.
+Registration, hackathon, and all talks will take place in **Keplerstraße 2, 72074 Tübingen**. The registration desk will open at 9.30 a.m. on Monday, September 11. We expect that most participants will be able to register during the designated registration slot between 9.30 and 10.30 a.m.; however, if you arrive later, you will still be able to register throughout the rest of the day. Additionally, on Monday, a room will be provided for you to store your luggage until the evening.
 
 <div class="row">
     <div class="col-lg-7 col-sm-7 m-auto">
