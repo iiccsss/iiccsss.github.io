@@ -60,7 +60,7 @@ This is the summer school program for September 11–15, 2023.
         <td rowspan="2"> 15:15–16:15 </td>
         <td rowspan="2" class="table-primary"> <em> Title TBA </em> <br> Maria Eckstein </td>
         <td rowspan="2" class="table-danger"> <em> Workshop </em> <br> Nicole Ludwig </td>
-        <td rowspan="2" class="table-primary"> <em> Title TBA </em> <br> Jennifer Hu </td>
+        <td rowspan="2" class="table-primary"> Neural Language Models and Human Linguistic Knowledge <br> <em>Jennifer Hu</em> </td>
         <td rowspan="6" class="table-info"> Hackathon </td>
     </tr>
     <tr>
