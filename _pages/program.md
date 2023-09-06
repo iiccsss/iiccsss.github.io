@@ -24,21 +24,21 @@ This is the summer school program for September 11–15, 2023.
   <tbody>
     <tr>
         <td> 9:30–10:30 </td>
-        <td class="table-warning"> Registration </td>
-        <td rowspan="3" class="table-warning"> Tour of the institutes </td>
-        <td rowspan="2" class="table-danger"> <em> Workshop </em> <br> Marcel Binz </td>
-        <td rowspan="3" class="table-info"> Hackathon / "Cognithon" / "Neurothon" </td>
-        <td rowspan="2" class="table-info"> Hackathon </td>
+        <td markdown="span" class="table-warning"> **Registration** </td>
+        <td markdown="span" rowspan="3" class="table-warning"> **Tour of the institutes** </td>
+        <td markdown="span" rowspan="2" class="table-danger"> **Workshop** <br> Marcel Binz </td>
+        <td markdown="span" rowspan="3" class="table-info"> **Hackathon / "Cognithon" / "Neurothon"** </td>
+        <td markdown="span" rowspan="2" class="table-info"> **Hackathon** </td>
     </tr>
     <tr>
         <td> 10:30–11:00 </td>
-        <td class="table-warning"> Opening remarks </td>
+        <td markdown="span" class="table-warning"> **Opening remarks** </td>
     </tr>
     <tr>
         <td> 11:15–12:15 </td>
-        <td class="table-primary"> <strong>Keynote I</strong> <br> Peter Dayan </td>
-        <td class="table-primary"> Comparing language models to humans: Challenges & opportunities <br> <em> Andrew Lampinen </em> </td>
-        <td class="table-info">5-min pitches</td>
+        <td markdown="span" class="table-primary"> **Keynote I** <br> Peter Dayan </td>
+        <td markdown="span" class="table-primary"> **Comparing language models to humans: Challenges & opportunities** <br> Andrew Lampinen </td>
+        <td markdown="span" class="table-info">**5-min pitches**</td>
     </tr>
     <tr>
         <td> 12:15–13:30 </td>
@@ -50,30 +50,30 @@ This is the summer school program for September 11–15, 2023.
     </tr>
     <tr>
         <td> 13:30–15:00 </td>
-        <td class="table-danger"> <em> Workshop </em> <br> John Jairo Madrid Carvajal </td>
-        <td class="table-warning"> <a href="/contributed-talks-I/">Contributed lightning talks</a> </td>
-        <td class="table-warning"> <a href="/contributed-talks-II/">Contributed lightning talks</a> </td>
-        <td class="table-danger"> Science communication seminar </td>
-        <td rowspan="2" class="table-info"> Feedback and announcing hackathon winners </td>
+        <td markdown="span" class="table-danger"> **Workshop** <br> John Jairo Madrid Carvajal </td>
+        <td markdown="span" class="table-warning"> **[Contributed lightning talks](/contributed-talks-I/)** </td>
+        <td markdown="span" class="table-warning"> **[Contributed lightning talks](/contributed-talks-II/)** </td>
+        <td markdown="span" class="table-danger"> **Science communication seminar** </td>
+        <td markdown="span" rowspan="2" class="table-info"> **Feedback and announcing hackathon winners** </td>
     </tr>
     <tr>
         <td rowspan="2"> 15:15–16:15 </td>
-        <td rowspan="2" class="table-primary"> <em> Title TBA </em> <br> Maria Eckstein </td>
-        <td rowspan="2" class="table-danger"> <em> Workshop </em> <br> Nicole Ludwig </td>
-        <td rowspan="2" class="table-primary"> Neural language models and human linguistic knowledge <br> <em>Jennifer Hu</em> </td>
-        <td rowspan="6" class="table-info"> Hackathon </td>
+        <td markdown="span" rowspan="2" class="table-primary"> **Title TBA** <br> Maria Eckstein </td>
+        <td markdown="span" rowspan="2" class="table-danger"> **Workshop** <br> Nicole Ludwig </td>
+        <td markdown="span" rowspan="2" class="table-primary"> **Neural language models and human linguistic knowledge** <br> Jennifer Hu</td>
+        <td markdown="span" rowspan="6" class="table-info"> **Hackathon** </td>
     </tr>
     <tr>
-        <td rowspan="2" class="table-primary"> 16:00–17:00 <br> <strong> Keynote II</strong> <br> Noah Goodman </td>
+        <td markdown="span" rowspan="2" class="table-primary"> 16:00–17:00 **Keynote II** <br> Noah Goodman </td>
     </tr>
     <tr>
         <td rowspan="2"> 16:30–17:30 </td>
-        <td rowspan="2" class="table-primary"> Prosaic AI alignment <br> <em> Jan Kirchner </em> </td>
-        <td rowspan="2" class="table-danger"> <a href="/what-goes-wrong/"> What goes wrong in academia </a></td>
-        <td rowspan="2" class="table-danger"> Panel discussion on regulation of large language models</td>
+        <td markdown="span" rowspan="2" class="table-primary"> **Prosaic AI alignment** <br> Jan Kirchner </td>
+        <td markdown="span" rowspan="2" class="table-danger"> **[What goes wrong in academia](/what-goes-wrong/)**</td>
+        <td markdown="span" rowspan="2" class="table-danger"> **Panel discussion on regulation of large language models**</td>
     </tr>
     <tr>
-        <td class="table-warning"> Closing remarks </td>
+        <td markdown="span" class="table-warning"> **Closing remarks** </td>
     </tr>
     <tr>
         <td> &nbsp; </td>
@@ -84,9 +84,9 @@ This is the summer school program for September 11–15, 2023.
     </tr>
     <tr>
         <td> From 19:00 onwards (Evening program) </td>
-        <td class="table-success"> City rallye </td>
-        <td class="table-success"> <a href="/news/BBQ/">BBQ</a> </td>
-        <td class="table-success"> Dinner </td>
+        <td markdown="span" class="table-success"> **City rallye** </td>
+        <td markdown="span" class="table-success"> **[BBQ](/news/BBQ/)** </td>
+        <td markdown="span" class="table-success"> **Dinner** </td>
         <td></td>
     </tr>
   </tbody>
