@@ -32,7 +32,7 @@ Prompt engineering is a crucial aspect of harnessing the power of language model
 </tr>
 <tr>
 <td markdown="span">13:50–14:10</td>
-<td markdown="span">_Emanuele Sansone_   
+<td markdown="span"> _Emanuele Sansone_   
 
 **GEDI: GEnerative and DIscriminative training for self-supervised learning**   
 Self-supervised learning is a popular and powerful method for utilizing large amounts of unlabeled data, for which a wide variety of training objectives have been proposed in the literature. In this talk, we provide a Bayesian analysis of state-of-the-art self-supervised learning objectives and propose a unified formulation based on likelihood learning. Our analysis suggests a simple method for integrating self-supervised learning with generative models, allowing for the joint training of these two seemingly distinct approaches. We refer to this combined framework as GEDI, which stands for GEnerative and DIscriminative training. Additionally, we demonstrate an instantiation of the GEDI framework by integrating an energy-based model with a cluster-based self-supervised learning model. Through experiments on synthetic and real-world data, including SVHN, CIFAR10, and CIFAR100, we show that GEDI outperforms existing self-supervised learning strategies in terms of clustering performance by a wide margin. We also showcase an application to the neuro-symbolic setting, where GEDI can learn symbolic representations supporting learning and reasoning in the small data regime without the need for additional supervision or costly pre-training steps.
