@@ -52,7 +52,7 @@ This is the summer school program for September 11–15, 2023.
         <td> 13:30–15:00 </td>
         <td class="table-danger"> <em> Workshop </em> <br> John Jairo Madrid Carvajal </td>
         <td class="table-warning"> <a href="/contributed-talks-I/">Contributed lightning talks</a> </td>
-        <td class="table-warning"> Contributed lightning talks  </td>
+        <td class="table-warning"> <a href="/contributed-talks-II/">Contributed lightning talks</a> </td>
         <td class="table-danger"> Science communication seminar </td>
         <td rowspan="2" class="table-info"> Feedback and announcing hackathon winners </td>
     </tr>
