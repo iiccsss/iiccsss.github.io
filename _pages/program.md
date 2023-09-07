@@ -70,7 +70,7 @@ This is the summer school program for September 11–15, 2023.
         <td rowspan="2"> 16:30–17:30 </td>
         <td markdown="span" rowspan="2" class="table-primary"> **Prosaic AI alignment** <br> Jan Kirchner </td>
         <td markdown="span" rowspan="2" class="table-danger"> **[What goes wrong in academia](/what-goes-wrong/)**</td>
-        <td markdown="span" rowspan="2" class="table-danger"> **Panel discussion on regulation of large language models**</td>
+        <td markdown="span" rowspan="2" class="table-primary"> **Panel discussion on regulation of large language models** <br> Rebecca Beiter, Annette Leßmöllmann, Nora Lindemann, Kristof Meding, Eric Schulz</td>
     </tr>
     <tr>
         <td markdown="span"> &nbsp; </td>
