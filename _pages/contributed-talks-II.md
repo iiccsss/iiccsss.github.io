@@ -1,12 +1,12 @@
 ---
 layout: page
 permalink: /contributed-talks-II/
-title: Contributed talks on Wednesday, 13/09
+title: Contributed talks on Wednesday, Sep 13
 description: 
 nav: false
 ---
 
-### Deep learning (Room HS01)
+### Deep learning (Room HS001)
 
 <table>
 <colgroup>

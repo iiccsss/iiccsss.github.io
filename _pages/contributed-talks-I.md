@@ -1,12 +1,12 @@
 ---
 layout: page
 permalink: /contributed-talks-I/
-title: Contributed talks on Tuesday, 12/09
+title: Contributed talks on Tuesday, Sep 12
 description: 
 nav: false
 ---
 
-### Computational modeling of cognition (Room HS01)
+### Computational modeling of cognition (Room HS001)
 
 <table>
 <colgroup>
