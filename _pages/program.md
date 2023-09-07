@@ -28,7 +28,7 @@ This is the summer school program for September 11–15, 2023.
         <td markdown="span" rowspan="3" class="table-warning"> **Tour of the institutes** </td>
         <td markdown="span" rowspan="2" class="table-danger"> **Workshop** <br> Marcel Binz </td>
         <td markdown="span" rowspan="3" class="table-info"> **Hackathon / "Cognithon" / "Neurothon"** </td>
-        <td markdown="span" rowspan="2" class="table-info"> **Hackathon** </td>
+        <td markdown="span" rowspan="2" class="table-danger"> **Science communication seminar** </td>
     </tr>
     <tr>
         <td> 10:30–11:00 </td>
@@ -38,7 +38,7 @@ This is the summer school program for September 11–15, 2023.
         <td> 11:15–12:15 </td>
         <td markdown="span" class="table-primary"> **Keynote I** <br> Peter Dayan </td>
         <td markdown="span" class="table-primary"> **Comparing language models to humans: Challenges & opportunities** <br> Andrew Lampinen </td>
-        <td markdown="span" class="table-info">**5-min pitches**</td>
+        <td markdown="span" class="table-info">**Work on 5-min pitches**</td>
     </tr>
     <tr>
         <td> 12:15–13:30 </td>
@@ -53,15 +53,15 @@ This is the summer school program for September 11–15, 2023.
         <td markdown="span" class="table-danger"> **Workshop** <br> John Jairo Madrid Carvajal </td>
         <td markdown="span" class="table-warning"> **[Contributed lightning talks](/contributed-talks-I/)** </td>
         <td markdown="span" class="table-warning"> **[Contributed lightning talks](/contributed-talks-II/)** </td>
-        <td markdown="span" class="table-danger"> **Science communication seminar** </td>
-        <td markdown="span" rowspan="2" class="table-info"> **Feedback and announcing hackathon winners** </td>
+        <td markdown="span" rowspan="7" class="table-info"> **Hackathon** </td>
+        <td markdown="span" class="table-info"> **5-min pitches** </td>
     </tr>
     <tr>
         <td rowspan="2"> 15:15–16:15 </td>
         <td markdown="span" rowspan="2" class="table-primary"> **Title TBA** <br> Maria Eckstein </td>
         <td markdown="span" rowspan="2" class="table-danger"> **Workshop** <br> Nicole Ludwig </td>
         <td markdown="span" rowspan="2" class="table-primary"> **Neural language models and human linguistic knowledge** <br> Jennifer Hu</td>
-        <td markdown="span" rowspan="6" class="table-info"> **Hackathon** </td>
+        <td markdown="span" class="table-warning">**Announcing hackathon winners & Closing remarks**</td>
     </tr>
     <tr>
         <td markdown="span" rowspan="2" class="table-primary"> 16:00–17:00 **Keynote II** <br> Noah Goodman </td>
@@ -73,7 +73,7 @@ This is the summer school program for September 11–15, 2023.
         <td markdown="span" rowspan="2" class="table-danger"> **Panel discussion on regulation of large language models**</td>
     </tr>
     <tr>
-        <td markdown="span" class="table-warning"> **Closing remarks** </td>
+        <td markdown="span"> &nbsp; </td>
     </tr>
     <tr>
         <td> &nbsp; </td>
