@@ -78,14 +78,6 @@ Object tracking has many applications in robotics, autonomous vehicles, and surv
 </tr>
 <tr>
 <td markdown="span">13:50–14:10</td>
-<td markdown="span">_Anna Ermolaeva_  
-
-**Visual perception and the brain. Investigating the effectiveness of the visual approach in teaching and learning settings**  
-This research explores the effectiveness of integrating visual approaches in education, investigating how visual perception and cognitive processes interact to improve learning outcomes. Rooted in cognitive science and educational psychology, the study aims to enhance learning by strategically employing visual aids. The introduction highlights the role of visual perception in learning and outlines the study's goal to assess the impact of visual approaches. The literature review surveys studies and theories on visual perception and learning, showcasing the positive effects of visual aids on comprehension and memory. The methodology details the research design, target group, visual aids, and assessment methods. Data collection involves teaching sessions with visual aids for the experimental group and conventional methods for the control group. Results are analyzed quantitatively and qualitatively to understand variations in performance and engagement. The discussion interprets outcomes and their implications for teaching practices. Recommendations offer practical guidance for educators to integrate visual aids effectively. This research contributes insights for optimizing teaching methods and enhancing learning experiences.
-</td>
-</tr>
-<tr>
-<td markdown="span">14:10–14:30</td>
 <td markdown="span">_Niranjan Rajesh_  
 
 **Investigating brain-like CNNs and their consequences**   
