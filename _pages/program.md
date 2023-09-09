@@ -53,7 +53,7 @@ This is the summer school program for September 11–15, 2023.
         <td markdown="span" class="table-danger"> **Workshop** <br> John Jairo Madrid Carvajal </td>
         <td markdown="span" class="table-warning"> **[Contributed lightning talks](/contributed-talks-I/)** </td>
         <td markdown="span" class="table-warning"> **[Contributed lightning talks](/contributed-talks-II/)** </td>
-        <td markdown="span" rowspan="7" class="table-info"> **Hackathon** </td>
+        <td markdown="span" rowspan="8" class="table-info"> **Hackathon** </td>
         <td markdown="span" class="table-info"> **5-min pitches** </td>
     </tr>
     <tr>
@@ -67,16 +67,20 @@ This is the summer school program for September 11–15, 2023.
         <td markdown="span" rowspan="2" class="table-primary"> 16:00–17:00 **Keynote II** <br> Noah Goodman </td>
     </tr>
     <tr>
-        <td rowspan="2"> 16:30–17:30 </td>
+        <td> 16:30–17:00 </td>
         <td markdown="span" rowspan="2" class="table-primary"> **Prosaic AI alignment** <br> Jan Kirchner </td>
         <td markdown="span" rowspan="2" class="table-danger"> **[What goes wrong in academia](/what-goes-wrong/)**</td>
-        <td markdown="span" rowspan="2" class="table-primary"> **Panel discussion on regulation of large language models** <br> Rebecca Beiter, Annette Leßmöllmann, Nora Lindemann, Kristof Meding, Eric Schulz</td>
+        <td markdown="span" rowspan="3" class="table-primary">16:30–18:00 <br> **Panel discussion on regulation of large language models** <br> Rebecca Beiter, Annette Leßmöllmann, Nora Lindemann, Kristof Meding, Eric Schulz</td>
     </tr>
     <tr>
-        <td markdown="span"> &nbsp; </td>
+        <td rowspan="2"> 17:00–18:00 </td>
     </tr>
     <tr>
         <td> &nbsp; </td>
+        <td> &nbsp; </td>
+        <td> &nbsp; </td>
+    </tr>
+    <tr>
         <td> &nbsp; </td>
         <td> &nbsp; </td>
         <td> &nbsp; </td>
