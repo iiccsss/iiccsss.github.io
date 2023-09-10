@@ -36,7 +36,7 @@ This is the summer school program for September 11–15, 2023.
     </tr>
     <tr>
         <td> 11:15–12:15 </td>
-        <td markdown="span" class="table-primary"> **Keynote I** <br> Peter Dayan </td>
+        <td markdown="span" class="table-primary"> **Peril, Prudence and Planning as Risk, Avoidance and Worry** <br> Peter Dayan </td>
         <td markdown="span" class="table-primary"> **Comparing language models to humans: Challenges & opportunities** <br> Andrew Lampinen </td>
         <td markdown="span" class="table-info">**Work on 5-min pitches**</td>
     </tr>
@@ -58,13 +58,13 @@ This is the summer school program for September 11–15, 2023.
     </tr>
     <tr>
         <td rowspan="2"> 15:15–16:15 </td>
-        <td markdown="span" rowspan="2" class="table-primary"> **Title TBA** <br> Maria Eckstein </td>
+        <td markdown="span" rowspan="2" class="table-primary"> **Reinforcement Learning: computational modeling for learning and decision making** <br> Maria Eckstein </td>
         <td markdown="span" rowspan="2" class="table-danger"> **Workshop** <br> Nicole Ludwig </td>
         <td markdown="span" rowspan="2" class="table-primary"> **Neural language models and human linguistic knowledge** <br> Jennifer Hu</td>
         <td markdown="span" class="table-warning">**Announcing hackathon winners & Closing remarks**</td>
     </tr>
     <tr>
-        <td markdown="span" rowspan="2" class="table-primary"> 16:00–17:00 **Keynote II** <br> Noah Goodman </td>
+        <td markdown="span" rowspan="2" class="table-primary"> 16:00–17:00 **Title TBA** <br> Noah Goodman </td>
     </tr>
     <tr>
         <td> 16:30–17:00 </td>
