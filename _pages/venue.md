@@ -43,6 +43,19 @@ Registration, hackathon, and all talks will take place in **Keplerstraße 2, 720
 
 During the week, participants can get lunch at the [Mensa Shedhalle](https://www.my-stuwe.de/en/refectory/refectory-shedhalle/) (Schlachthausstraße 13, 72074 Tübingen), which is a short walk away from our main venue.
 
+## City rallye
+
+The meeting point for the city rallye on Monday evening is Neckarbrücke, where participants will split into groups. At the end of the rallye, we will meet again at [Freistil 🍻](https://freistil.beer/freistil-garten/) (Wöhrdstraße 25, 72072 Tübingen).
+
+<div class="row">
+    <div class="col-lg-7 col-sm-7 m-auto">
+        <div class="map-container">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1321.3805345802816!2d9.057493019048653!3d48.518644800000004!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4799fad22e23207b%3A0xc698143cd4ade264!2sNeckarbr%C3%BCcke%20(Eberhardsbr%C3%BCcke)!5e0!3m2!1sen!2sde!4v1694361647766!5m2!1sen!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+    </div>
+</div>
+<br>
+
 ## Barbecue
 
 On Tuesday evening, all participants are cordially invited to the [barbecue organised by the Tübingen cognitive science students](/news/BBQ/).
