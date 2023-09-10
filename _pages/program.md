@@ -10,6 +10,8 @@ nav_order: 3
 
 This is the summer school program for September 11–15, 2023.
 
+All invited talks will take place in room HS001. On [Tuesday](/contributed-talks-I/) and [Wednesday](/contributed-talks-II/), contributed talks will run in parallel (grouped into two streams by topic) in rooms HS001 and SR003.
+
 <table class="table-responsive">
   <thead>
     <tr>
