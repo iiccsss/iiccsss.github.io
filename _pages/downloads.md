@@ -7,4 +7,5 @@ nav: true
 nav_order: 1
 ---
 
+* Monday  
 [Link](https://github.com/JohnMadrid/IICCSSS-workshop) to the GitHub repository for John Madrid's workshop on Monday (13:30–15:00).
