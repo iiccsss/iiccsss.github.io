@@ -4,7 +4,7 @@ title: speakers
 permalink: /speakers/
 description: Our 2023 speakers
 nav: true
-nav_order: 2
+nav_order: 3
 display_categories: [speakers, panelists]
 horizontal: false
 ---
