@@ -67,15 +67,6 @@ Understanding how human groups collaborate successfully, even when individuals m
 </thead>
 <tbody>
 <tr>
-<td markdown="span">13:30–13:50</td>
-<td markdown="span">_Viktor Bublitz_  
-
-**Monitoring nociception in the frontal EEG**   
-
-Monitoring pain and nociception in critical care patients who cannot self-report presents a substantial challenge. Clinical signs frequently lack both sensitivity and specificity, and existing technical methodologies come with inherent limitations. Accurate predictions of nociception could optimize the administration of analgesia ahead of procedures like endotracheal suctioning. In my doctoral research, I explored strategies to quantify nociception and anticipate reactions to painful interventions in intensive care settings. We particularly examined electroencephalogram (EEG) correlates that either precede or occur simultaneously with behavioral responses to noxious stimuli, such as endotracheal suctioning. Our results showed an elevation in power within the 2-5Hz band that both anticipated and matched these responses, coupled with a decrease in the alpha-band power during these events. Such patterns could be associated with the processing of noxious stimuli and might pave the way for refining and individualizing analgesia in patients unable to articulate their pain. Notably, other power bands and ratios did precede the responses in our study, but these could be attributed more to the concurrent sedation level and arousal than to nociception. Deciphering these intertwined effects is the motivation behind the research that I am currently conceptualizing for subsequent investigations.
-</td>
-</tr>
-<tr>
 <td markdown="span">13:50–14:10</td>
 <td markdown="span">_Jonas Elpelt_   
 

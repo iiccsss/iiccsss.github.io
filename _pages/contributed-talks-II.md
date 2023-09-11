@@ -73,7 +73,6 @@ Local syntactic coherence (LSC) effects have shown that the human sentence proce
 **Object tracking using an active stereo visual system**   
 
 Object tracking has many applications in robotics, autonomous vehicles, and surveillance. Among all methods, those that use active stereo systems with moving cameras stand out the most. Special emphasis in this paper is given to approaches of active stereo systems that use virtual horopters and log-polar image mapping. An active stereo system is designed that uses ordinary web cameras and servo motors. The cameras and motors are connected with plastic parts printed on a 3D printer, and the entire system runs on a personal computer. The system's real-time performance, ability to track a moving object against various backgrounds, consistency of focus on the object, and accuracy of the estimated object position were tested. Approaches using Cartesian image mapping and those using log-polar mapping were compared. Based on the obtained results, some advantages of log-polar mapping over Cartesian mapping were shown, as well as the drawbacks of the specific implementation.
-
 </td>
 </tr>
 <tr>
@@ -87,7 +86,11 @@ Object tracking has many applications in robotics, autonomous vehicles, and surv
 </tr>
 <tr>
 <td markdown="span">14:10–14:30</td>
-<td markdown="span">
+<td markdown="span">_Viktor Bublitz_  
+
+**Monitoring nociception in the frontal EEG**   
+
+Monitoring pain and nociception in critical care patients who cannot self-report presents a substantial challenge. Clinical signs frequently lack both sensitivity and specificity, and existing technical methodologies come with inherent limitations. Accurate predictions of nociception could optimize the administration of analgesia ahead of procedures like endotracheal suctioning. In my doctoral research, I explored strategies to quantify nociception and anticipate reactions to painful interventions in intensive care settings. We particularly examined electroencephalogram (EEG) correlates that either precede or occur simultaneously with behavioral responses to noxious stimuli, such as endotracheal suctioning. Our results showed an elevation in power within the 2-5Hz band that both anticipated and matched these responses, coupled with a decrease in the alpha-band power during these events. Such patterns could be associated with the processing of noxious stimuli and might pave the way for refining and individualizing analgesia in patients unable to articulate their pain. Notably, other power bands and ratios did precede the responses in our study, but these could be attributed more to the concurrent sedation level and arousal than to nociception. Deciphering these intertwined effects is the motivation behind the research that I am currently conceptualizing for subsequent investigations.
 </td>
 </tr>
 <tr>
