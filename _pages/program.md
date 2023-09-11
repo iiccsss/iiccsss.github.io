@@ -54,7 +54,7 @@ To follow the livestream of some of the talks on Zoom, follow [this link](https:
     </tr>
     <tr>
         <td> 13:30–15:00 </td>
-        <td markdown="span" class="table-danger"> **Workshop** <br> John Jairo Madrid Carvajal </td>
+        <td markdown="span" class="table-danger"> **Workshop: EEG and VR: Measuring Latencies and Identifying Stimulus Onsets** <br> John Jairo Madrid Carvajal </td>
         <td markdown="span" class="table-warning"> **[Contributed lightning talks](/contributed-talks-I/)** </td>
         <td markdown="span" class="table-warning"> **[Contributed lightning talks](/contributed-talks-II/)** </td>
         <td markdown="span" rowspan="8" class="table-info"> **Hackathon** </td>
