@@ -85,6 +85,20 @@ Object tracking has many applications in robotics, autonomous vehicles, and surv
 ​​Recent research in Neuro-inspired Machine Learning in the visual domain has resulted in CNNs that are modelled after the primate visual systems. These are usually done through structural or representational alignment of the CNNs with their primate brain counterparts. These models claim to be behaviourally comparable to human visual intelligence and correlations were found in areas like robustness to visual adversarial attacks. My work will further investigate this consequence of primate visual system alignment in CNN i.e. the connection between brain likeness and adversarial robustness.
 </td>
 </tr>
+<tr>
+<td markdown="span">14:10–14:30</td>
+<td markdown="span">
+</td>
+</tr>
+<tr>
+<td markdown="span">14:30–14:50</td>
+<td markdown="span">_Revan Rangotis_   
+
+**Drift-diffusion modelling reveals distinct decision processes for 3D and global motion stimuli in humans and macaques**   
+
+Neurophysiology localised perceptual decision signals for binocular 3D depth and motion stimuli to visual area V5/MT. Drift diffusion modelling (DDM) is widely used to investigate the underlying decision-making processes by simulating decisions as noisy evidence-accumulation which terminates once a threshold is crossed. Two key questions remain unexplored: 1. To what extent are modelled decision processes affected by the visual stimulus (here 3D depth vs. motion) and by the effector for the response (hand vs. saccades)? 2. Are the modelling parameters comparable between monkeys and humans? To answer these questions, we tested 2 male monkeys (Macaca mulatta) and 20 humans on different stimulus/effector combinations in a 2-alternative forced-choice task (2AFC). Stimuli were a 3D structure-from-motion cylinder or a random dot kinematogram (RDK), requiring perceptual decisions about binocular depth or direction of motion, respectively. Effectors comprised hand and saccadic eye movements. Linear discriminant analysis (LDA) revealed a strong separation by stimulus type but not for the effector for the human data (p<0.001, ROC analysis). Nearly identical clustering was observed for the monkey data when it was projected onto the same space with almost complete overlap. We conclude that DDM reveals distinct brain processes for perceptual decisions about visual motion and binocular 3D stimuli in humans and macaques, although perceptual signals for both have been localised to the same brain area. We found no distinction between hand and eye movement responses in either species.
+</td>
+</tr>
 </tbody>
 </table>
 
