@@ -90,6 +90,7 @@ There will be a livestream of most of the talks on Zoom [(link)](https://zoom.us
         <td> &nbsp; </td>
         <td> &nbsp; </td>
         <td> &nbsp; </td>
+        <td> &nbsp; </td>
     </tr>
     <tr>
         <td> From 19:00 onwards (Evening program) </td>
