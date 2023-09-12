@@ -25,9 +25,8 @@ nav_order: 5
 </style>
 
 
-<span style="color:#0076df"> We have reached the maximum number of registrations for IICCSSS 2023. All further registrations will be put on a waiting list. If some of the registered participants drop out before the start of the summer school, we will give their spots to people on the waiting list. </span> <span style="color:#0076df; font-weight: bold">(Please do not transfer the 20€ deposit until you receive the confirmation that you have been taken off the waiting list.) </span>
+<span style="color:#0076df"> Registration is closed. </span>
 
-<a class="btn btn-primary btn" href="https://forms.gle/BbhGNAo5tVYUUFxb8">Register here (waiting list)</a>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
