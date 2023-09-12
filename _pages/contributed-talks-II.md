@@ -48,8 +48,22 @@ Self-supervised learning is a popular and powerful method for utilizing large am
 Local syntactic coherence (LSC) effects have shown that the human sentence processor (HSP) can be misguided by a locally embedded sequence of words that could form a sentence in isolation, but must be analyzed differently in the left context of the sentence. These effects have been attributed to temporal local affixes (SOPARS, Tabor_et_al. 2004) and word-wise prediction in recurrent networks (Konieczny_et_al. 2005), among others. Large language models, such as GPT-3+, have impressive capabilities in language comprehension and production. Due to their transformer-based architecture, they should be immune to LSCs. We used the OpenAI API to retrieve the surprisal values for our test items word by word. We then reanalyzed our eye-tracking reading data on sentences with local syntactic coherence embedded in short contexts (citation omitted). Contexts were constructed to draw attention to either the local coherence meaning or the global meaning of the target sentence. While the context manipulation affected the size of the LSC effect, it did not alter GPT-3 surprises in the critical region. While GPT-3 surprise scores were good predictors of total reading time, they did not eliminate LSC effects. We conclude that HSP, unlike transformer-based LLMs, employs mechanisms of local attention.
 </td>
 </tr>
+<tr>
+<td markdown="span">14:30–14:50</td>
+<td markdown="span">_Sabine Scholle_  
+
+**Can we deepfake fMRI Data? Unpaired functional alignment for group level neural decoding**  
+
+This presentation focuses on the functional alignment of fMRI data, drawing inspiration from Daniel Anthes' thesis titled "BOLD Deepfakes: Functional Alignment for Unpaired Data using Deep Neural Networks" and delving into the foundational work of J.V. Haxby, a renowned researcher in the field of fMRI data analysis (Haxby et al., 2010). 
+
+A core challenge for cognitive neuroscience is to find similarity across neural diversity (Churchland, 1998); that is, to find shared or similar neural processes supporting the diversity of individual cognitive experience. Anatomical variability and limited structure-function correspondence across cortex (Paquola et al., 2019) make this goal challenging. To address this challenge, functional alignment is an increasingly popular family of methods for functional magnetic resonance imaging (fMRI) analysis: from the initial introduction of hyperalignment in Haxby et al. 2011, the range of associated methods has grown to include several other linear methods. The presentation explores the innovative approach proposed by Daniel Anthes of "BOLD Deepfakes," leveraging nonlinear deep neural networks to achieve one-shot functional alignment for unpaired data. 
+
+Lastly, the presentation outlines potential avenues for further improvement and regularised enhancements in the context of my bachelor thesis. These ideas include exploring novel regularisation techniques to improve the robustness and generalisation of the deep neural network models.
+</td>
+</tr>
 </tbody>
 </table>
+
 <br>
 
 ### Perception (Room SR003)
