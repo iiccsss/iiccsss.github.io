@@ -52,7 +52,7 @@ Local syntactic coherence (LSC) effects have shown that the human sentence proce
 <td markdown="span">14:30–14:50</td>
 <td markdown="span">_Sabine Scholle_  
 
-**Can we deepfake fMRI Data? Unpaired functional alignment for group level neural decoding**  
+**Can we deepfake fMRI data? Unpaired functional alignment for group level neural decoding**  
 
 This presentation focuses on the functional alignment of fMRI data, drawing inspiration from Daniel Anthes' thesis titled "BOLD Deepfakes: Functional Alignment for Unpaired Data using Deep Neural Networks" and delving into the foundational work of J.V. Haxby, a renowned researcher in the field of fMRI data analysis (Haxby et al., 2010). 
 
