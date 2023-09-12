@@ -12,7 +12,7 @@ This is the summer school program for September 11–15, 2023.
 
 All invited talks will take place in room HS001. On [Tuesday](/contributed-talks-I/) and [Wednesday](/contributed-talks-II/), contributed talks will run in parallel (grouped into two streams by topic) in rooms HS001 and SR003.
 
-To follow the livestream of some of the talks on Zoom, follow [this link](https://zoom.us/my/polina.tsvilodub).
+There will be a livestream of most of the talks on Zoom [(link)](https://zoom.us/my/polina.tsvilodub).
 
 <table class="table-responsive">
   <thead>
@@ -54,7 +54,7 @@ To follow the livestream of some of the talks on Zoom, follow [this link](https:
     </tr>
     <tr>
         <td> 13:30–15:00 </td>
-        <td markdown="span" class="table-danger"> **Workshop: EEG and VR: Measuring Latencies and Identifying Stimulus Onsets** <br> John Jairo Madrid Carvajal </td>
+        <td markdown="span" class="table-danger"> **Workshop: EEG and VR: Measuring latencies and identifying stimulus onsets** <br> John Jairo Madrid Carvajal </td>
         <td markdown="span" class="table-warning"> **[Contributed lightning talks](/contributed-talks-I/)** </td>
         <td markdown="span" class="table-warning"> **[Contributed lightning talks](/contributed-talks-II/)** </td>
         <td markdown="span" rowspan="8" class="table-info"> **Hackathon** </td>
@@ -62,8 +62,8 @@ To follow the livestream of some of the talks on Zoom, follow [this link](https:
     </tr>
     <tr>
         <td rowspan="2"> 15:15–16:15 </td>
-        <td markdown="span" rowspan="2" class="table-primary"> **Reinforcement Learning: computational modeling for learning and decision making** <br> Maria Eckstein </td>
-        <td markdown="span" rowspan="2" class="table-danger"> **Workshop** <br> Nicole Ludwig </td>
+        <td markdown="span" rowspan="2" class="table-primary"> **Reinforcement learning: Computational modeling for learning and decision making** <br> Maria Eckstein </td>
+        <td markdown="span" rowspan="2" class="table-danger"> **Workshop: Forecasting for sustainable energy systems** <br> Nicole Ludwig </td>
         <td markdown="span" rowspan="2" class="table-primary"> **Neural language models and human linguistic knowledge** <br> Jennifer Hu</td>
         <td markdown="span" class="table-warning">**Announcing hackathon winners & Closing remarks**</td>
     </tr>
@@ -78,6 +78,7 @@ To follow the livestream of some of the talks on Zoom, follow [this link](https:
     </tr>
     <tr>
         <td rowspan="2"> 17:00–18:00 </td>
+        <td> &nbsp; </td>
     </tr>
     <tr>
         <td> &nbsp; </td>
