@@ -12,4 +12,5 @@ nav_order: 1
 * Tuesday   
 [Materials](https://colab.research.google.com/drive/1mFE-UijB18O72RqQgjarryb7accvbRtJ?usp=sharing) for the **Workshop on Forecasting for Sustainable Energy Systems** by Nicole Ludwig
 * Wednesday
+
 [Link](https://github.com/marcelbinz/GPTs-and-how-to-prompt-them/tree/main) to the Github for Marcel Binz's workshop (9:30-11:00).
