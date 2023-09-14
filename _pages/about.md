@@ -22,8 +22,8 @@ In 2023, we will have a one-week in-person event from the 11th to the 15th of Se
 
 Organisation of the summer school is supported by the [Begegnungszonen](https://www.joachim-herz-stiftung.de/was-wir-tun/naturwissenschaften-begreifen/wissenschaftlicher-nachwuchs/begegnungszonen) of the [Joachim Herz Stiftung](https://www.joachim-herz-stiftung.de/en) and the Computational Cognitive Science Colloquium e.V.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/tuebingen.jpg" title="Our 2023 location" class="img-fluid rounded z-depth-1" %}
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/participants-2023.jpg" title="Our 2023 participants" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
