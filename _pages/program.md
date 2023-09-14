@@ -30,7 +30,7 @@ There will be a livestream of most of the talks on Zoom [(link)](https://zoom.us
         <td> 9:30–10:30 </td>
         <td markdown="span" class="table-warning"> **Registration** </td>
         <td markdown="span" rowspan="3" class="table-warning"> **Tour of the institutes** </td>
-        <td markdown="span" rowspan="2" class="table-danger"> **Workshop** <br> Marcel Binz </td>
+        <td markdown="span" rowspan="2" class="table-danger"> **Workshop: GPTs and how to prompt them** <br> Marcel Binz </td>
         <td markdown="span" rowspan="3" class="table-info"> **Hackathon / "Cognithon" / "Neurothon"** </td>
         <td markdown="span" rowspan="2" class="table-danger"> **Science communication seminar** </td>
     </tr>
