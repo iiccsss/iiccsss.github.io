@@ -42,7 +42,7 @@ There will be a livestream of most of the talks on Zoom [(link)](https://zoom.us
         <td> 11:15–12:15 </td>
         <td markdown="span" class="table-primary"> **Peril, Prudence and Planning as Risk, Avoidance and Worry** <br> Peter Dayan </td>
         <td markdown="span" class="table-primary"> **Comparing language models to humans: Challenges & opportunities** <br> Andrew Lampinen </td>
-        <td markdown="span" class="table-info">**Work on 5-min pitches**</td>
+        <td markdown="span" class="table-info">**Work on 3-min pitches**</td>
     </tr>
     <tr>
         <td> 12:15–13:30 </td>
@@ -58,7 +58,7 @@ There will be a livestream of most of the talks on Zoom [(link)](https://zoom.us
         <td markdown="span" class="table-warning"> **[Contributed lightning talks](/contributed-talks-I/)** </td>
         <td markdown="span" class="table-warning"> **[Contributed lightning talks](/contributed-talks-II/)** </td>
         <td markdown="span" rowspan="8" class="table-info"> **Hackathon** </td>
-        <td markdown="span" class="table-info"> **5-min pitches** </td>
+        <td markdown="span" class="table-info"> **3-min pitches** </td>
     </tr>
     <tr>
         <td rowspan="2"> 15:15–16:15 </td>
