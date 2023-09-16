@@ -10,9 +10,7 @@ nav_order: 4
 
 This is the summer school program for September 11–15, 2023.
 
-All invited talks will take place in room HS001. On [Tuesday](/contributed-talks-I/) and [Wednesday](/contributed-talks-II/), contributed talks will run in parallel (grouped into two streams by topic) in rooms HS001 and SR003.
-
-There will be a livestream of most of the talks on Zoom [(link)](https://zoom.us/my/polina.tsvilodub).
+Abstracts of all contributed talks can be found [here](/contributed-talks-I/) (Tuesday session) and [here](/contributed-talks-II/) (Wednesday session).   
 
 <table class="table-responsive">
   <thead>
