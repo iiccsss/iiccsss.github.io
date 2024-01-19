@@ -5,8 +5,12 @@ nav: true
 nav_order: 7
 dropdown: true
 children: 
+    - title: divider
+    - title: IICCSSS 2023
+      permalink: /2023/
+    - title: divider
     - title: IICCSSS 2022
-      permalink: https://kirchner-jan.github.io/IICCSSS
+      permalink: /2022/
     - title: divider
     - title: IICCSSS 2021
       permalink: /2021/
