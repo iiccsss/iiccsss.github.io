@@ -1,6 +1,6 @@
 ---
 layout: about
-title: IICCSSS
+title: 2024
 permalink: /
 subtitle: International Interdisciplinary Computational Cognitive Science Summer School
 
@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/participants-2023.jpg" title="Our 2023 participants" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/participants-2023.jpg" title="Our 2023 participants" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 

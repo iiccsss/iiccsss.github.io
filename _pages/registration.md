@@ -30,7 +30,7 @@ nav_order: 5
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/participants-2022.jpg" title="Our 2022 in-person participants" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/participants-2022.jpg" title="Our 2022 in-person participants" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
