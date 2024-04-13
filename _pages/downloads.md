@@ -5,6 +5,7 @@ title: downloads
 description: Workshop materials and slides shared by our speakers
 nav: true
 nav_order: 1
+published: false
 ---
 
 * Monday  

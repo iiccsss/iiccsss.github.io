@@ -26,4 +26,4 @@ The International Interdisciplinary Computational Cognitive Science Summer Schoo
 
 Organisation of the summer school is supported by the [Begegnungszonen](https://www.joachim-herz-stiftung.de/was-wir-tun/naturwissenschaften-begreifen/wissenschaftlicher-nachwuchs/begegnungszonen) of the [Joachim Herz Stiftung](https://www.joachim-herz-stiftung.de/en) and the Computational Cognitive Science Colloquium e.V.
 
-In 2023, IICCSSS took place in Tübingen, Germany. We thank our wonderful attendees, speakers and panelists for joining us in Tübingen and making this year's summer school a smashing success! In the coming weeks, we will share talk recordings on [our YouTube channel](https://youtube.com/@computationalcognitivescie5410). Stay tuned!
+In 2024, IICCSSS will take place in Osnabrück, Germany, from Monday, September 9th to Friday, September 13th. More details about the summer school program and speakers will be added soon. Stay tuned!
