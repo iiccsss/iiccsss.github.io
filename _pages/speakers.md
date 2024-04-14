@@ -9,4 +9,4 @@ display_categories:
 horizontal: false
 ---
 
-We will announce our 2024 speakers soon. In the meantime, check our YouTube channel for recordings of talks from the previous summer school iterations!
+We will announce our 2024 speakers soon. In the meantime, check [our YouTube channel](https://youtube.com/@computationalcognitivescie5410) for recordings of talks from the previous summer school iterations!
