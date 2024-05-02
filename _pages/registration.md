@@ -33,7 +33,7 @@ In the past, we were able to make participation in the summer school free of cha
 The event is targeted mainly at bachelor's and master's students in cognitive science, neuroscience, linguistics and related fields.
 
 ### Accommodation in Osnabrück
-We have reserved 28 spots for the summer school participants in the hostel ([Jugendherberge Osnabrück](https://www.jugendherberge.de/jugendherbergen/osnabrueck/)). These are spots in shared bedrooms ranging from 2 to 6 beds that cost €45.7/night (including breakfast).
+We have reserved 28 spots for the summer school participants in the hostel ([Jugendherberge Osnabrück](https://www.jugendherberge.de/jugendherbergen/osnabrueck/)). These are spots in shared bedrooms ranging from 2 to 6 beds that cost €42.70/night (including breakfast).
 
 <div class="row">
     <div class="col-lg-7 col-sm-7 m-auto">
