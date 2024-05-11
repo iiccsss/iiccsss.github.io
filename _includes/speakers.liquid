@@ -1,0 +1,20 @@
+<div class="col-auto mb-3">
+  <a href="{{ include.url | relative_url }}">
+    <div class="card h-100 hoverable">
+      {% if include.img %}
+        {%
+          include figure.liquid
+          loading="eager"
+          path=include.img
+          sizes = "250px"
+          alt=include.name
+        %}
+      {% endif %}
+      <div class="card-body">
+        <h5 class="card-title">{{ include.name }}</h5>
+        <h6 class="card-subtitle mb-2 text-muted">{{ include.affiliation }}</h6>
+        <p class="card-text">{{ include.contact }}</p>
+      </div>
+    </div>
+  </a>
+</div>

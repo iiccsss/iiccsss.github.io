@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Links to workshop materials can be found [here](/downloads/).
+Links to workshop materials can be found [here](/2023#materials).
