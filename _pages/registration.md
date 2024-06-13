@@ -24,16 +24,16 @@ nav_order: 5
 	}
 </style>
 
-Registration will open soon.
+<a class="btn btn-primary btn" href="">Registration will open soon!</a>
 
 ### Registration fees
-In the past, we were able to make participation in the summer school free of charge or keep registration fees low. We are working to keep it this way in 2024 as well.
+Participation in the summer school is free of charge; however, in order to confirm your registration, you will be required to pay a deposit of €20, which we will reinstate at the start of the summer school.
 
 ### Who can attend?
-The event is targeted mainly at bachelor's and master's students in cognitive science, neuroscience, linguistics and related fields.
+The event is targeted mainly at bachelor's and master's students in cognitive science, neuroscience, linguistics and related fields. We also welcome people further along on their academic journey, i.e., PhD candidates and postdocs.
 
 ### Accommodation in Osnabrück
-We have reserved 28 spots for the summer school participants in the hostel ([Jugendherberge Osnabrück](https://www.jugendherberge.de/jugendherbergen/osnabrueck/)). These are spots in shared bedrooms ranging from 2 to 6 beds that cost €42.70/night (including breakfast).
+We have reserved 28 spots for the summer school participants in the hostel [Jugendherberge Osnabrück](https://www.jugendherberge.de/jugendherbergen/osnabrueck/). These are spots in shared bedrooms ranging from 2 to 6 beds that cost €42.70/night (this price includes breakfast).
 
 <div class="row">
     <div class="col-lg-7 col-sm-7 m-auto">
@@ -45,5 +45,4 @@ We have reserved 28 spots for the summer school participants in the hostel ([Jug
 <br>
 
 ### Participant contributions: Lightning talks
-The summer school is not only meant for you to listen to our invited speakers, but also to interact with and learn from your peers! A great way to do this is to present a project you are working on as a lightning talk (~15 min). It is not necessary to commit to giving a presentation during registration, but in the registration form we will ask you to indicate how likely you are to present. We will then contact you again a little bit closer to the event, and ask you to provide more information about your talk.
-
+Participation in the summer school means not only listening to the invited speakers, but also interacting with and learning from your peers! A great way to do this is to present a project you are working on as a lightning talk (≤15 min). It is not necessary to commit to giving a lightning talk during registration, but in the registration form we will ask you to indicate how likely you are to present. We will then contact you again ahead of the event, and ask you to provide the title and abstract of your talk.
