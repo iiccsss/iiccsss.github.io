@@ -25,7 +25,7 @@ nav_order: 3
 	}
 </style>
 
-IICCSSS 2024 will take place in Osnabrück, Germany. Some relevant travel tips can be found [here](https://www.uni-osnabrueck.de/en/university/university-maps/arrival).  
+IICCSSS 2024 will take place in Osnabrück, Germany. Check out some travel tips on how to get to Osnabrück [here](https://www.uni-osnabrueck.de/en/university/university-maps/arrival).  
 We will be hosted by University of Osnabrück, and our main venue will be Building 32 (Barbarastraße 7, 49076 Osnabrück).
 
 
