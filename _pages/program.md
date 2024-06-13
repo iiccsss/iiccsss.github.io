@@ -2,18 +2,14 @@
 layout: page
 permalink: /program/
 title: program
-description: Summer school program
+description: Tentative program (still being updated!)
 nav: true
-nav_order: 4
-published: false
+nav_order: 2
+published: true
 ---
 
 
-This is the summer school program for September 11–15, 2023.
-
-Abstracts of all contributed talks can be found [here](/contributed-talks-I/) (Tuesday session) and [here](/contributed-talks-II/) (Wednesday session).   
-
-<table class="table-responsive">
+<table class="table">
   <thead>
     <tr>
       <th scope="col"></th>
@@ -28,10 +24,10 @@ Abstracts of all contributed talks can be found [here](/contributed-talks-I/) (T
     <tr>
         <td> 9:30–10:30 </td>
         <td markdown="span" class="table-warning"> **Registration** </td>
-        <td markdown="span" rowspan="3" class="table-warning"> **Tour of the institutes** </td>
-        <td markdown="span" rowspan="2" class="table-danger"> **Workshop: GPTs and how to prompt them** <br> Marcel Binz </td>
-        <td markdown="span" rowspan="3" class="table-info"> **Hackathon / "Cognithon" / "Neurothon"** </td>
-        <td markdown="span" rowspan="2" class="table-danger"> **Science communication seminar** </td>
+        <td markdown="span" rowspan="2" class="table-warning"> **Lightning talks/Poster session** </td>
+        <td markdown="span" rowspan="2" class="table-danger"> **Workshop** <br> Josephine Zerbe </td>
+        <td markdown="span" rowspan="3" class="table-info"> **Hackathon** </td>
+        <td markdown="span" rowspan="3" class="table-info"> **Project presentations** </td>
     </tr>
     <tr>
         <td> 10:30–11:00 </td>
@@ -39,9 +35,9 @@ Abstracts of all contributed talks can be found [here](/contributed-talks-I/) (T
     </tr>
     <tr>
         <td> 11:15–12:15 </td>
-        <td markdown="span" class="table-primary"> **Peril, Prudence and Planning as Risk, Avoidance and Worry** <br> Peter Dayan </td>
-        <td markdown="span" class="table-primary"> **Comparing language models to humans: Challenges & opportunities** <br> Andrew Lampinen </td>
-        <td markdown="span" class="table-info">**Work on 3-min pitches**</td>
+        <td markdown="span" class="table-primary"> **TBA** <br>  </td>
+        <td markdown="span" class="table-danger"> **Workshop** <br> Lisa-Marie Vortmann </td>
+        <td markdown="span" class="table-primary">**TBA** <br> Johannes Mehrer</td>
     </tr>
     <tr>
         <td> 12:15–13:30 </td>
@@ -52,36 +48,28 @@ Abstracts of all contributed talks can be found [here](/contributed-talks-I/) (T
         <td> Lunch </td>
     </tr>
     <tr>
-        <td> 13:30–15:00 </td>
-        <td markdown="span" class="table-danger"> **Workshop: EEG and VR: Measuring latencies and identifying stimulus onsets** <br> John Jairo Madrid Carvajal </td>
-        <td markdown="span" class="table-warning"> **[Contributed lightning talks](/contributed-talks-I/)** </td>
-        <td markdown="span" class="table-warning"> **[Contributed lightning talks](/contributed-talks-II/)** </td>
-        <td markdown="span" rowspan="8" class="table-info"> **Hackathon** </td>
-        <td markdown="span" class="table-info"> **3-min pitches** </td>
+        <td> 13:30–14:30 </td>
+        <td markdown="span" class="table-primary"> **TBA** <br> Sebastian Musslick </td>
+        <td markdown="span" rowspan="3" class="table-warning"> **Tour of the research labs** </td>
+        <td markdown="span" rowspan="2" class="table-warning"> **Lightning talks/Poster session** </td>
+        <td markdown="span" rowspan="2" class="table-primary"> **TBA** </td>
+        <td markdown="span" rowspan="2" class="table-warning"> **Closing remarks** </td>
     </tr>
     <tr>
-        <td rowspan="2"> 15:15–16:15 </td>
-        <td markdown="span" rowspan="2" class="table-primary"> **Reinforcement learning: Computational modeling for learning and decision making** <br> Maria Eckstein </td>
-        <td markdown="span" rowspan="2" class="table-danger"> **Workshop: Forecasting for sustainable energy systems** <br> Nicole Ludwig </td>
-        <td markdown="span" rowspan="2" class="table-primary"> **Neural language models and human linguistic knowledge** <br> Jennifer Hu</td>
-        <td markdown="span" class="table-warning">**Announcing hackathon winners & Closing remarks**</td>
+        <td> 14:30–15:00 </td>
+        <td markdown="span" rowspan="2" class="table-danger"> **Workshop** <br> Jannis Born </td>
     </tr>
     <tr>
-        <td markdown="span" rowspan="2" class="table-primary"> 16:00–17:00 **Title TBA** <br> Noah Goodman </td>
+        <td> 15:00–16:00 </td>
+        <td markdown="span" class="table-primary"> **TBA** <br> Tanja Schultz </td>
+        <td markdown="span" rowspan="5" class="table-info"> **Hackathon** </td>
+        <td markdown="span" class="table-primary"> **TBA** <br> Tim Kietzmann</td>
     </tr>
     <tr>
-        <td> 16:30–17:00 </td>
-        <td markdown="span" rowspan="2" class="table-primary"> **Prosaic AI alignment** <br> Jan Kirchner </td>
-        <td markdown="span" rowspan="2" class="table-danger"> **[What goes wrong in academia](/what-goes-wrong/)**</td>
-        <td markdown="span" rowspan="3" class="table-primary">16:30–18:00 <br> **Panel discussion on regulation of large language models** <br> Rebecca Beiter, Annette Leßmöllmann, Nora Lindemann, Kristof Meding, Eric Schulz</td>
-    </tr>
-    <tr>
-        <td rowspan="2"> 17:00–18:00 </td>
+        <td> 16:15–17:15 </td>
+        <td markdown="span" class="table-primary"> **TBA** <br> Kevin J. Miller </td>
         <td> &nbsp; </td>
-    </tr>
-    <tr>
-        <td> &nbsp; </td>
-        <td> &nbsp; </td>
+        <td markdown="span" class="table-primary"> **Panel discussion** <br> </td>
         <td> &nbsp; </td>
     </tr>
     <tr>
@@ -94,7 +82,7 @@ Abstracts of all contributed talks can be found [here](/contributed-talks-I/) (T
     <tr>
         <td> From 19:00 onwards (Evening program) </td>
         <td markdown="span" class="table-success"> **City rallye** </td>
-        <td markdown="span" class="table-success"> **[BBQ](/news/BBQ/)** </td>
+        <td markdown="span">  </td>
         <td markdown="span" class="table-success"> **Dinner** </td>
         <td></td>
     </tr>
@@ -105,7 +93,7 @@ Abstracts of all contributed talks can be found [here](/contributed-talks-I/) (T
 
 #### Legend
 
-<table class="table-responsive">
+<table class="table">
   <tbody>
     <tr>
         <td class="table-primary">Invited talks</td>
