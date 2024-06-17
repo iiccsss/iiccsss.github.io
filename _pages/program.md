@@ -53,7 +53,7 @@ published: true
         <td markdown="span" rowspan="3" class="bg-warning"> **Tour of the research labs** </td>
         <td markdown="span" rowspan="2" class="bg-warning"> **Lightning talks/Poster session** </td>
         <td markdown="span" rowspan="2" class="bg-primary"> **TBA** </td>
-        <td markdown="span" rowspan="2" class="bg-warning"> **TBA** </td>
+        <td markdown="span" rowspan="2" class="bg-primary"> **TBA** </td>
     </tr>
     <tr>
         <td> 14:30–15:00 </td>
@@ -82,8 +82,9 @@ published: true
     <tr>
         <td> From 19:00 onwards (Evening program) </td>
         <td markdown="span" class="bg-success"> **City rallye** </td>
-        <td markdown="span"> </td>
+        <td> &nbsp; </td>
         <td markdown="span" class="bg-success"> **Dinner** </td>
+        <td> &nbsp; </td>
     </tr>
   </tbody>
 </table>
@@ -92,7 +93,7 @@ published: true
 
 #### Legend
 
-<table class="table">
+<table class="table table-bordered">
   <tbody>
     <tr>
         <td class="bg-primary">Invited talks</td>
