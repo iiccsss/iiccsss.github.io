@@ -9,7 +9,7 @@ published: true
 ---
 
 
-<table class="table">
+<table class="table table-bordered">
   <thead>
     <tr>
       <th scope="col"></th>
@@ -23,21 +23,21 @@ published: true
   <tbody>
     <tr>
         <td> 9:30–10:30 </td>
-        <td markdown="span" class="table-warning"> **Registration** </td>
-        <td markdown="span" rowspan="2" class="table-warning"> **Lightning talks/Poster session** </td>
-        <td markdown="span" rowspan="2" class="table-danger"> **Workshop** <br> Josephine Zerbe </td>
-        <td markdown="span" rowspan="3" class="table-info"> **Hackathon** </td>
-        <td markdown="span" rowspan="3" class="table-info"> **Project presentations** </td>
+        <td markdown="span" class="bg-warning"> **Registration** </td>
+        <td markdown="span" rowspan="2" class="bg-warning"> **Lightning talks/Poster session** </td>
+        <td markdown="span" rowspan="2" class="bg-danger"> **Workshop** <br> Josephine Zerbe </td>
+        <td markdown="span" rowspan="3" class="bg-info"> **Hackathon** </td>
+        <td markdown="span" rowspan="3" class="bg-info"> **Project presentations** </td>
     </tr>
     <tr>
         <td> 10:30–11:00 </td>
-        <td markdown="span" class="table-warning"> **Opening remarks** </td>
+        <td markdown="span" class="bg-warning"> **Opening remarks** </td>
     </tr>
     <tr>
         <td> 11:15–12:15 </td>
-        <td markdown="span" class="table-primary"> **TBA** <br>  </td>
-        <td markdown="span" class="table-danger"> **Workshop** <br> Lisa-Marie Vortmann </td>
-        <td markdown="span" class="table-primary">**TBA** <br> Johannes Mehrer</td>
+        <td markdown="span" class="bg-primary"> **TBA** <br>  </td>
+        <td markdown="span" class="bg-danger"> **Workshop** <br> Lisa-Marie Vortmann </td>
+        <td markdown="span" class="bg-primary">**TBA** <br> Johannes Mehrer</td>
     </tr>
     <tr>
         <td> 12:15–13:30 </td>
@@ -49,27 +49,27 @@ published: true
     </tr>
     <tr>
         <td> 13:30–14:30 </td>
-        <td markdown="span" class="table-primary"> **TBA** <br> Sebastian Musslick </td>
-        <td markdown="span" rowspan="3" class="table-warning"> **Tour of the research labs** </td>
-        <td markdown="span" rowspan="2" class="table-warning"> **Lightning talks/Poster session** </td>
-        <td markdown="span" rowspan="2" class="table-primary"> **TBA** </td>
-        <td markdown="span" rowspan="2" class="table-warning"> **Closing remarks** </td>
+        <td markdown="span" class="bg-primary"> **TBA** <br> Sebastian Musslick </td>
+        <td markdown="span" rowspan="3" class="bg-warning"> **Tour of the research labs** </td>
+        <td markdown="span" rowspan="2" class="bg-warning"> **Lightning talks/Poster session** </td>
+        <td markdown="span" rowspan="2" class="bg-primary"> **TBA** </td>
+        <td markdown="span" rowspan="2" class="bg-warning"> **TBA** </td>
     </tr>
     <tr>
         <td> 14:30–15:00 </td>
-        <td markdown="span" rowspan="2" class="table-danger"> **Workshop** <br> Jannis Born </td>
+        <td markdown="span" rowspan="2" class="bg-danger"> **Workshop** <br> Jannis Born </td>
     </tr>
     <tr>
         <td> 15:00–16:00 </td>
-        <td markdown="span" class="table-primary"> **TBA** <br> Tanja Schultz </td>
-        <td markdown="span" rowspan="5" class="table-info"> **Hackathon** </td>
-        <td markdown="span" class="table-primary"> **TBA** <br> Tim Kietzmann</td>
+        <td markdown="span" class="bg-primary"> **TBA** <br> Tanja Schultz </td>
+        <td markdown="span" rowspan="4" class="bg-info"> **Hackathon** </td>
+        <td markdown="span" class="bg-primary"> **TBA** <br> Tim Kietzmann</td>
     </tr>
     <tr>
         <td> 16:15–17:15 </td>
-        <td markdown="span" class="table-primary"> **TBA** <br> Kevin J. Miller </td>
+        <td markdown="span" class="bg-primary"> **TBA** <br> Kevin J. Miller </td>
         <td> &nbsp; </td>
-        <td markdown="span" class="table-primary"> **Panel discussion** <br> </td>
+        <td markdown="span" class="bg-primary"> **Panel discussion** <br> </td>
         <td> &nbsp; </td>
     </tr>
     <tr>
@@ -81,10 +81,9 @@ published: true
     </tr>
     <tr>
         <td> From 19:00 onwards (Evening program) </td>
-        <td markdown="span" class="table-success"> **City rallye** </td>
-        <td markdown="span">  </td>
-        <td markdown="span" class="table-success"> **Dinner** </td>
-        <td></td>
+        <td markdown="span" class="bg-success"> **City rallye** </td>
+        <td markdown="span"> </td>
+        <td markdown="span" class="bg-success"> **Dinner** </td>
     </tr>
   </tbody>
 </table>
@@ -96,11 +95,11 @@ published: true
 <table class="table">
   <tbody>
     <tr>
-        <td class="table-primary">Invited talks</td>
-        <td class="table-warning">Participants and organisers</td>
-        <td  class="table-danger">Workshops with practical exercises</td>
-        <td class="table-info">Hackathon</td>
-        <td class="table-success">Evening program</td>
+        <td class="bg-primary">Invited talks</td>
+        <td class="bg-warning">Participants and organisers</td>
+        <td  class="bg-danger">Workshops with practical exercises</td>
+        <td class="bg-info">Hackathon</td>
+        <td class="bg-success">Evening program</td>
     </tr>
   </tbody>
 </table>
