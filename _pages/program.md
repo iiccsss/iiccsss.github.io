@@ -25,7 +25,7 @@ published: true
         <td> 9:30–10:30 </td>
         <td markdown="span" class="bg-warning"> **Registration** </td>
         <td markdown="span" rowspan="2" class="bg-warning"> **Lightning talks/Poster session** </td>
-        <td markdown="span" rowspan="2" class="bg-danger"> **Workshop** <br> Josephine Zerbe </td>
+        <td markdown="span" rowspan="2" class="bg-danger"> **Workshop** <br> Josefine Zerbe </td>
         <td markdown="span" rowspan="3" class="bg-info"> **Hackathon** </td>
         <td markdown="span" rowspan="3" class="bg-info"> **Project presentations** </td>
     </tr>

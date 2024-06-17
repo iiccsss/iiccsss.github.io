@@ -5,9 +5,7 @@ permalink: /speakers/
 description: Our 2024 invited speakers. This page is still being updated!
 nav: true
 nav_order: 4
-horizontal: false
 ---
-
 
 
 <div class="projects">
@@ -20,6 +18,7 @@ horizontal: false
       {% include people.liquid name="Sebastian Musslick" affiliation="University of Osnabrück" url="https://smusslick.com" %}
       {% include people.liquid name="Tanja Schultz" affiliation="University of Bremen" url="https://www.uni-bremen.de/csl/institut/direktorin" %}
       {% include people.liquid name="Lisa-Marie Vortmann" affiliation="University of Groningen" url="https://lisamarievortmann.com" %}
+      {% include people.liquid name="Josefine Zerbe" affiliation="MPI for Human Cognitive and Brain Sciences" url="https://www.cbs.mpg.de/person/127736/1483114" %}
       </div>
   </div>
 </div>
