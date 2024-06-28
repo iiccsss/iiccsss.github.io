@@ -24,10 +24,10 @@ nav_order: 5
 	}
 </style>
 
-<a class="btn btn-primary btn" href="https://docs.google.com/forms/d/e/1FAIpQLSeEjYg2izgcBxttCG3aYgRvPe69L7VsyzoTECD7aL-rAjlmUA/viewform?usp=sf_link">Registration will open soon!</a>
+<a class="btn btn-primary btn" href="https://docs.google.com/forms/d/e/1FAIpQLSeEjYg2izgcBxttCG3aYgRvPe69L7VsyzoTECD7aL-rAjlmUA/viewform?usp=sf_link">Register here!</a>
 
 ### Registration fees
-Participation in the summer school is free of charge; however, in order to confirm your registration, you will be required to pay a deposit of €20, which you will get back at the start of the summer school.
+Participation in the summer school is free of charge; however, in order to confirm your registration, you will be required to pay a deposit of €20, which you will get back at the start of the summer school. Reimbursement of the deposit is only possible in case of attendance.
 
 ### Who can attend?
 The event is targeted mainly at bachelor's and master's students in cognitive science, neuroscience, linguistics and related fields. We also welcome people further along on their academic journey, i.e., PhD candidates and postdocs.
