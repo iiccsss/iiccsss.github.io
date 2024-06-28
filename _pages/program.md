@@ -49,11 +49,11 @@ published: true
     </tr>
     <tr>
         <td> 13:30–14:30 </td>
-        <td markdown="span" class="bg-primary"> **TBA** <br> Sebastian Musslick </td>
+        <td markdown="span" class="bg-primary"> **Talk** <br> Sebastian Musslick </td>
         <td markdown="span" rowspan="3" class="bg-warning"> **Tour of the research labs** </td>
         <td markdown="span" rowspan="2" class="bg-warning"> **Lightning talks/Poster session** </td>
-        <td markdown="span" rowspan="2" class="bg-primary"> **TBA** </td>
-        <td markdown="span" rowspan="2" class="bg-primary"> **TBA** </td>
+        <td markdown="span" rowspan="2" class="bg-primary"> **Opening keynote <br> TBA** </td>
+        <td markdown="span" rowspan="2" class="bg-primary"> **Hackathon prizes, feedback and closing** </td>
     </tr>
     <tr>
         <td> 14:30–15:00 </td>
@@ -61,13 +61,13 @@ published: true
     </tr>
     <tr>
         <td> 15:00–16:00 </td>
-        <td markdown="span" class="bg-primary"> **TBA** <br> Tanja Schultz </td>
+        <td markdown="span" class="bg-primary"> **Talk** <br> Tanja Schultz </td>
         <td markdown="span" rowspan="4" class="bg-info"> **Hackathon** </td>
-        <td markdown="span" class="bg-primary"> **TBA** <br> Tim Kietzmann</td>
+        <td markdown="span" class="bg-primary"> **Closing keynote** <br> Tim Kietzmann</td>
     </tr>
     <tr>
         <td> 16:15–17:15 </td>
-        <td markdown="span" class="bg-primary"> **TBA** <br> Kevin J. Miller </td>
+        <td markdown="span" class="bg-primary"> **Talk** <br> Kevin J. Miller </td>
         <td> &nbsp; </td>
         <td markdown="span" class="bg-primary"> **Panel discussion** <br> </td>
         <td> &nbsp; </td>
