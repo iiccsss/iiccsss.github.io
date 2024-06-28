@@ -35,9 +35,9 @@ published: true
     </tr>
     <tr>
         <td> 11:15–12:15 </td>
-        <td markdown="span" class="bg-primary"> **TBA** <br>  </td>
+        <td markdown="span" class="bg-primary"> **Opening keynote <br> TBA** <br>  </td>
         <td markdown="span" class="bg-danger"> **Workshop** <br> Lisa-Marie Vortmann </td>
-        <td markdown="span" class="bg-primary">**TBA** <br> Johannes Mehrer</td>
+        <td markdown="span" class="bg-primary">**Talk** <br> Johannes Mehrer</td>
     </tr>
     <tr>
         <td> 12:15–13:30 </td>
@@ -52,7 +52,7 @@ published: true
         <td markdown="span" class="bg-primary"> **Talk** <br> Sebastian Musslick </td>
         <td markdown="span" rowspan="3" class="bg-warning"> **Tour of the research labs** </td>
         <td markdown="span" rowspan="2" class="bg-warning"> **Lightning talks/Poster session** </td>
-        <td markdown="span" rowspan="2" class="bg-primary"> **Opening keynote <br> TBA** </td>
+        <td markdown="span" rowspan="2" class="bg-primary"> **Seminar** </td>
         <td markdown="span" rowspan="2" class="bg-primary"> **Hackathon prizes, feedback and closing** </td>
     </tr>
     <tr>
