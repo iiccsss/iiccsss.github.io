@@ -24,13 +24,17 @@ nav_order: 5
 	}
 </style>
 
-<a class="btn btn-primary btn" href="">Registration will open soon!</a>
+<a class="btn btn-primary btn" href="https://docs.google.com/forms/d/e/1FAIpQLSeEjYg2izgcBxttCG3aYgRvPe69L7VsyzoTECD7aL-rAjlmUA/viewform?usp=sf_link">Registration will open soon!</a>
 
 ### Registration fees
 Participation in the summer school is free of charge; however, in order to confirm your registration, you will be required to pay a deposit of €20, which you will get back at the start of the summer school.
 
 ### Who can attend?
 The event is targeted mainly at bachelor's and master's students in cognitive science, neuroscience, linguistics and related fields. We also welcome people further along on their academic journey, i.e., PhD candidates and postdocs.
+
+### Travel grants
+
+We give out a limited number of travel grants of max 100 Euro each. Everyone who lives in Osnabrück is eligible; however, priority will be given to participants traveling from abroad. If you would like to apply, please register before July 31st and complete the corresponding section in the registration form. 
 
 ### Accommodation in Osnabrück
 We have reserved 28 spots for the summer school participants in the hostel [Jugendherberge Osnabrück](https://www.jugendherberge.de/jugendherbergen/osnabrueck/). These are spots in shared bedrooms ranging from 2 to 6 beds that cost €42.70/night (this price includes breakfast).
