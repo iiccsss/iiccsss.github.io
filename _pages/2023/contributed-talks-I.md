@@ -1,14 +1,14 @@
 ---
 layout: page
-permalink: /contributed-talks-I/
-title: Contributed talks on Tuesday, Sep 12
+permalink: /2023/contributed-talks-I/
+title: 'IICCSSS 2023: Contributed talks on Tuesday, Sep 12'
 description: 
 nav: false
 ---
 
 ### Computational modeling of cognition (Room HS001)
 
-<table>
+<table class="table table-bordered table-striped">
 <colgroup>
 <col width="15%" />
 <col width="85%" />
@@ -54,7 +54,7 @@ Understanding how human groups collaborate successfully, even when individuals m
 
 ### Neuroscience (Room SR003)
 
-<table>
+<table class="table table-bordered table-striped">
 <colgroup>
 <col width="15%" />
 <col width="85%" />

@@ -1,14 +1,14 @@
 ---
 layout: page
-permalink: /contributed-talks-II/
-title: Contributed talks on Wednesday, Sep 13
+permalink: /2023/contributed-talks-II/
+title: 'IICCSSS 2023: Contributed talks on Wednesday, Sep 13'
 description: 
 nav: false
 ---
 
 ### Deep learning (Room HS001)
 
-<table>
+<table class="table table-bordered table-striped">
 <colgroup>
 <col width="15%" />
 <col width="85%" />
@@ -68,7 +68,7 @@ Lastly, the presentation outlines potential avenues for further improvement and 
 
 ### Perception (Room SR003)
 
-<table>
+<table class="table table-bordered table-striped">
 <colgroup>
 <col width="15%" />
 <col width="85%" />
