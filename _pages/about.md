@@ -32,4 +32,5 @@ Organisation of the summer school is supported by [Universitätsgesellschaft Osn
     </div>
 </div>
 
-In 2024, IICCSSS will take place in Osnabrück, Germany, from Monday, September 9th to Friday, September 13th. More details about the summer school program and speakers will be added soon. Stay tuned!
+In 2024, IICCSSS will take place in Osnabrück, Germany, from Monday, September 9th to Friday, September 13th.
+In addition to the [invited talks and workshops](/speakers/), the summer school will include a tour of Osnabrück research labs, a panel discussion, two contributed talks sessions, a hackathon, and a city rallye. Full program is available [here](/program/).
