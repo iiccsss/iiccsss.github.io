@@ -6,17 +6,38 @@ description: IICCSSS is organised by a team of graduate students
 nav: false
 nav_order: 
 ---
+ 
 
 <!-- pages/organisers.md -->
 <div class="row justify-content-left">
+  <div class="col-auto mb-3">
+      <div class="card h-100" style="width: 14rem;">
+        <img src="/assets/img/organisers/manarali.jpg" class="card-img-top" alt="Manar Ali">
+          <div class="card-body">
+            <h5 class="card-title">Manar Ali</h5>
+            <h6 class="card-subtitle mb-2 text-muted">University of Osnabrück</h6>
+            <p class="card-text">maali [at] uni-osnabrueck.de</p>
+          </div>
+        </div>
+    </div>
     <div class="col-auto mb-3">
-        <div class="card h-100" style="width: 14rem;">
-          <img src="/assets/img/organisers/sabrinafrohn.jpg" class="card-img-top" alt="Sabrina Frohn">
-            <div class="card-body">
-                <h5 class="card-title">Sabrina Frohn</h5>
-                <h6 class="card-subtitle mb-2 text-muted">University of Osnabrück</h6>
-                <p class="card-text">sabrina.frohn [at] uni-osnabrueck.de</p>
-            </div>
+      <div class="card h-100" style="width: 14rem;">
+        <img src="/assets/img/organisers/nopicture.jpg" class="card-img-top" alt="Marie Bensien">
+          <div class="card-body">
+            <h5 class="card-title">Marie Bensien</h5>
+            <h6 class="card-subtitle mb-2 text-muted">University of Bremen</h6>
+            <p class="card-text">mbensien [at] uni-bremen.de</p>
+          </div>
+        </div>
+    </div>
+    <div class="col-auto mb-3">
+      <div class="card h-100" style="width: 14rem;">
+        <img src="/assets/img/organisers/sabrinafrohn.jpg" class="card-img-top" alt="Sabrina Frohn">
+          <div class="card-body">
+            <h5 class="card-title">Sabrina Frohn</h5>
+            <h6 class="card-subtitle mb-2 text-muted">University of Osnabrück</h6>
+            <p class="card-text">sabrina.frohn [at] uni-osnabrueck.de</p>
+          </div>
         </div>
     </div>
     <div class="col-auto mb-3">
@@ -46,26 +67,6 @@ nav_order:
             <h5 class="card-title">Natalia Scharfenberg</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Max Planck Institute for Biological Cybernetics & University of Osnabrück</h6>
                 <p class="card-text">n.scharfenberg [at] icloud.com</p>
-            </div>
-        </div>
-    </div>
-    <div class="col-auto mb-3">
-        <div class="card h-100" style="width: 14rem;">
-          <img src="/assets/img/organisers/katharinastein.jpg" class="card-img-top" alt="Katharina Stein">
-            <div class="card-body">
-              <h5 class="card-title">Katharina Stein</h5>
-                <h6 class="card-subtitle mb-2 text-muted">Graduate Training Centre of Neuroscience, University of Tübingen</h6>
-                <p class="card-text">k.stein [at] student.uni-tuebingen.de</p>
-            </div>
-        </div>
-    </div>
-    <div class="col-auto mb-3">
-        <div class="card h-100" style="width: 14rem;">
-          <img src="/assets/img/organisers/polinatsvilodub.jpg" class="card-img-top" alt="Polina Tsvilodub">
-            <div class="card-body">
-              <h5 class="card-title">Polina Tsvilodub</h5>
-                <h6 class="card-subtitle mb-2 text-muted">Department of Linguistics, University of Tübingen</h6>
-                <p class="card-text">polina.tsvilodub [at] uni-tuebingen.de</p>
             </div>
         </div>
     </div>
@@ -136,6 +137,26 @@ nav_order:
             </div>
             <div class="card-footer">
               <a href="https://www.twitter.com/janhkirchner" class="card-link"><i class="fab fa-twitter"></i></a>
+            </div>
+        </div>
+    </div>
+    <div class="col-auto mb-3">
+      <div class="card h-100" style="width: 14rem;">
+        <img src="/assets/img/organisers/katharinastein.jpg" class="card-img-top" alt="Katharina Stein">
+          <div class="card-body">
+            <h5 class="card-title">Katharina Stein</h5>
+              <h6 class="card-subtitle mb-2 text-muted">Graduate Training Centre of Neuroscience, University of Tübingen</h6>
+              <p class="card-text">k.stein [at] student.uni-tuebingen.de</p>
+          </div>
+      </div>
+    </div>
+    <div class="col-auto mb-3">
+        <div class="card h-100" style="width: 14rem;">
+          <img src="/assets/img/organisers/polinatsvilodub.jpg" class="card-img-top" alt="Polina Tsvilodub">
+            <div class="card-body">
+              <h5 class="card-title">Polina Tsvilodub</h5>
+                <h6 class="card-subtitle mb-2 text-muted">Department of Linguistics, University of Tübingen</h6>
+                <p class="card-text">polina.tsvilodub [at] uni-tuebingen.de</p>
             </div>
         </div>
     </div>

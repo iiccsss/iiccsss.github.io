@@ -2,7 +2,7 @@
 layout: page
 permalink: /program/
 title: program
-description: Tentative program (still being updated!)
+description: Tentative program
 nav: true
 nav_order: 2
 published: true

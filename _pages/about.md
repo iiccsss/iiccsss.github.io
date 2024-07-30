@@ -24,13 +24,13 @@ social: true  # includes social icons at the bottom of the page
 
 The International Interdisciplinary Computational Cognitive Science Summer School (IICCSSS) is an annual educational meeting for students and young researchers interested in computational approaches to brain and cognitive sciences.
 
+In 2024, IICCSSS will take place in Osnabrück, Germany, from Monday, **September 9th** to Friday, **September 13th**.
+In addition to the [invited talks and workshops](/speakers/), the summer school will include a tour of Osnabrück research labs, a panel discussion, a contributed talks session, a hackathon, and a city rallye. Full program is available [here](/program/).
+
 Organisation of the summer school is supported by [Universitätsgesellschaft Osnabrück e.V.](https://www.uni-osnabrueck.de/universitaet/foerderung-und-sponsoring/kreis-der-foerderer/universitaetsgesellschaft/), the [Begegnungszonen](https://www.joachim-herz-stiftung.de/was-wir-tun/naturwissenschaften-begreifen/wissenschaftlicher-nachwuchs/begegnungszonen) of the [Joachim Herz Stiftung](https://www.joachim-herz-stiftung.de/en), and the Computational Cognitive Science Colloquium e.V.
 
 <div class="row mt-1">
-    <div class="col-lg-6 col-sm-6 m-auto">
+    <div class="col-lg-5 col-sm-4 m-auto">
       {% include figure.liquid loading="eager" path="assets/img/sponsors/unigesellschaft.png" class="img-fluid rounded" %}
     </div>
 </div>
-
-In 2024, IICCSSS will take place in Osnabrück, Germany, from Monday, September 9th to Friday, September 13th.
-In addition to the [invited talks and workshops](/speakers/), the summer school will include a tour of Osnabrück research labs, a panel discussion, two contributed talks sessions, a hackathon, and a city rallye. Full program is available [here](/program/).
