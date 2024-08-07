@@ -51,22 +51,22 @@ nav_order:
         </div>
     </div>
     <div class="col-auto mb-3">
+      <div class="card h-100" style="width: 14rem;">
+        <img src="/assets/img/organisers/pelinkomurluoglu.jpg" class="card-img-top" alt="Pelin Kömürlüoglu">
+          <div class="card-body">
+            <h5 class="card-title">Pelin Kömürlüoglu</h5>
+            <h6 class="card-subtitle mb-2 text-muted">University of Osnabrück</h6>
+            <p class="card-text">pkoemuerlueo [at] uni-osnabrueck.de</p>
+          </div>
+        </div>
+    </div>
+    <div class="col-auto mb-3">
         <div class="card h-100" style="width: 14rem;">
           <img src="/assets/img/organisers/tobiasludwig.jpg" class="card-img-top" alt="Tobias Ludwig">
             <div class="card-body">
               <h5 class="card-title">Tobias Ludwig</h5>
                 <h6 class="card-subtitle mb-2 text-muted">University of Tübingen & Max Planck Institute for Biological Cybernetics</h6>
                 <p class="card-text">tobias.ludwig [at] uni-tuebingen.de</p>
-            </div>
-        </div>
-    </div>
-    <div class="col-auto mb-3">
-        <div class="card h-100" style="width: 14rem;">
-          <img src="/assets/img/organisers/nataliascharfenberg.jpg" class="card-img-top" alt="Natalia Scharfenberg">
-            <div class="card-body">
-            <h5 class="card-title">Natalia Scharfenberg</h5>
-                <h6 class="card-subtitle mb-2 text-muted">Max Planck Institute for Biological Cybernetics & University of Osnabrück</h6>
-                <p class="card-text">n.scharfenberg [at] icloud.com</p>
             </div>
         </div>
     </div>
@@ -139,6 +139,16 @@ nav_order:
               <a href="https://www.twitter.com/janhkirchner" class="card-link"><i class="fab fa-twitter"></i></a>
             </div>
         </div>
+    </div>
+    <div class="col-auto mb-3">
+      <div class="card h-100" style="width: 14rem;">
+        <img src="/assets/img/organisers/nataliascharfenberg.jpg" class="card-img-top" alt="Natalia Scharfenberg">
+          <div class="card-body">
+            <h5 class="card-title">Natalia Scharfenberg</h5>
+              <h6 class="card-subtitle mb-2 text-muted">Max Planck Institute for Biological Cybernetics & University of Osnabrück</h6>
+              <p class="card-text">n.scharfenberg [at] icloud.com</p>
+          </div>
+      </div>
     </div>
     <div class="col-auto mb-3">
       <div class="card h-100" style="width: 14rem;">
