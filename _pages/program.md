@@ -27,12 +27,12 @@ published: true
         <td markdown="span" rowspan="2" class="bg-warning"> **Lightning talks/Poster session** </td>
         <td markdown="span" rowspan="2" class="bg-danger"> **Workshop** <br> Josefine Zerbe </td>
         <td markdown="span" rowspan="3" class="bg-info"> **Hackathon** </td>
-        <td markdown="span" class="bg-info">**Closing keynote** <br> Tim Kietzmann</td>
+        <td markdown="span" class="bg-primary">**Closing keynote** <br> Tim Kietzmann</td>
     </tr>
     <tr>
         <td> 10:30–11:00 </td>
-        <td markdown="span" rowspan="2" class="bg-warning"> **Opening remarks** </td>
-        <td markdown="span" rowspan="2" class="bg-warning"> **Project presentations**</td> 
+        <td markdown="span" rowspan="2" class="bg-warning"> **Opening and introduction** </td>
+        <td markdown="span" rowspan="2" class="bg-info"> **Project presentations**</td> 
     </tr>
     <tr>
         <td> 11:15–12:15 </td>
@@ -54,7 +54,7 @@ published: true
         <td markdown="span" rowspan="3" class="bg-warning"> **Tour of the research labs** </td>
         <td markdown="span" rowspan="2" class="bg-warning"> **Lightning talks/Poster session** </td>
         <td markdown="span" rowspan="2" class="bg-primary"> **Seminar** </td>
-        <td markdown="span" rowspan="3" class="bg-primary"> **Hackathon prizes, feedback and closing** </td>
+        <td markdown="span" rowspan="3" class="bg-warning"> **Hackathon prizes, feedback and closing** </td>
     </tr>
     <tr>
         <td> 14:30–15:00 </td>
