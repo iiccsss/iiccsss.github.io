@@ -27,15 +27,16 @@ published: true
         <td markdown="span" rowspan="2" class="bg-warning"> **Lightning talks/Poster session** </td>
         <td markdown="span" rowspan="2" class="bg-danger"> **Workshop** <br> Josefine Zerbe </td>
         <td markdown="span" rowspan="3" class="bg-info"> **Hackathon** </td>
-        <td markdown="span" rowspan="3" class="bg-info"> **Project presentations** </td>
+        <td markdown="span" class="bg-info">**Closing keynote** <br> Tim Kietzmann</td>
     </tr>
     <tr>
         <td> 10:30–11:00 </td>
-        <td markdown="span" class="bg-warning"> **Opening remarks** </td>
+        <td markdown="span" rowspan="2" class="bg-warning"> **Opening remarks** </td>
+        <td markdown="span" rowspan="2" class="bg-warning"> **Project presentations**</td> 
     </tr>
     <tr>
         <td> 11:15–12:15 </td>
-        <td markdown="span" class="bg-primary"> **Opening keynote <br> TBA** <br>  </td>
+        <!-- <td markdown="span" class="bg-primary"> **Opening keynote <br> TBA** <br>  </td> -->
         <td markdown="span" class="bg-danger"> **Workshop** <br> Lisa-Marie Vortmann </td>
         <td markdown="span" class="bg-primary">**Talk** <br> Johannes Mehrer</td>
     </tr>
@@ -53,7 +54,7 @@ published: true
         <td markdown="span" rowspan="3" class="bg-warning"> **Tour of the research labs** </td>
         <td markdown="span" rowspan="2" class="bg-warning"> **Lightning talks/Poster session** </td>
         <td markdown="span" rowspan="2" class="bg-primary"> **Seminar** </td>
-        <td markdown="span" rowspan="2" class="bg-primary"> **Hackathon prizes, feedback and closing** </td>
+        <td markdown="span" rowspan="3" class="bg-primary"> **Hackathon prizes, feedback and closing** </td>
     </tr>
     <tr>
         <td> 14:30–15:00 </td>
@@ -63,7 +64,6 @@ published: true
         <td> 15:00–16:00 </td>
         <td markdown="span" class="bg-primary"> **Talk** <br> Tanja Schultz </td>
         <td markdown="span" rowspan="4" class="bg-info"> **Hackathon** </td>
-        <td markdown="span" class="bg-primary"> **Closing keynote** <br> Tim Kietzmann</td>
     </tr>
     <tr>
         <td> 16:15–17:15 </td>
