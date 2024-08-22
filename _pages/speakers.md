@@ -24,10 +24,12 @@ nav_order: 4
       </div>
   </div>
 
+  <hr>
+
   <h2>Bridging Brains and ANNs</h2>
 A longstanding goal of Cognitive Science is to build artificial neural networks (ANNs) that can not only predict labels of data (e.g. images) accurately, but also do so in a way that resembles brain activity. Conditioning ANN design on brain data may not only improve performance but also improve our models of the neural processes, e.g. animal vision or human speech.
  <ul>
-   <li><b>Tim Kietzmann</b> (University of Osnabrück) is a professor advocating for this "neuroconnectionist" research programme, especially for modelling recurrency in vision.</li>
+   <li><b>Tim Kietzmann</b> (University of Osnabrück) is a professor advocating for the "neuroconnectionist" research programme, especially for modelling recurrency in vision.</li>
    <li><b>Johannes Mehrer</b> (EPFL) also works with ANNs, studying differences in architecture and data bias, in order to align artificial and biological neural representations better.</li>
    <li><b>Josefine Zerbe</b> is a PhD student at the Max Planck Institute for Cognitive and Brain Sciences in Leipzig. She studies vision in neural networks and using MRI studies.</li>
  </ul>
@@ -40,10 +42,12 @@ A longstanding goal of Cognitive Science is to build artificial neural networks 
       </div>
   </div>
 
+  <hr>
+
   <h2>Automated Scientific Discovery</h2>
 Automated Scientific Discovery is an emerging research field, that tries to automate the search for computational models, e.g. for human behaviour, and thereby accelerate the progress of science.
  <ul>
-   <li><b>Sebastian Musslick</b> (University of Osnabrück) is a professor who invented the framework of a bayesian machine scientist, which automatically designs experiments, collects and analyses data, to then optimise the experiment.</li>
+   <li><b>Sebastian Musslick</b> (University of Osnabrück) invented the framework of AutoRA (Automated Research Assistant), which automatically designs experiments, collects and analyses data, to then optimise the experiment.</li>
    <li><b>Kevin Miller</b> (University College London and DeepMind) works on finding Recurrent Neural Networks models for explaining human choices in value-based decision-making.</li>
    <li><b>Jannis Born</b> works at IBM Research in Zurich on generative/language models for molecular design and other scientific discovery applications.</li>
  </ul>
