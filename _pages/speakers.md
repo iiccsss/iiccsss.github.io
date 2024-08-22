@@ -12,8 +12,10 @@ nav_order: 4
   <h2>Brain Computer Interfaces</h2>
   Brain Computer Interfaces (BCI) are techniques to connect the body with software or Neuroprosthetics, like artificial limbs. There are devices to restore senses, e.g. retinal implants for blind people, or to restore movement by analysing neural activity in the brain or at nerve endings.
 
- * <b>Tanja Schultz</b> (University of Bremen) is a leading expert on the topic, especially for reading out neural activity to output speech.
- * <b>Lisa-Marie Vortmann</b> (University of Groningen) is an assistant professor, working on attention for BCIs using methods from Virtual Reality (VR).
+ <ul>
+   <li><b>Tanja Schultz</b> (University of Bremen) is a leading expert on the topic, especially for reading out neural activity to output speech.</li>
+   <li><b>Lisa-Marie Vortmann</b> (University of Groningen) is an assistant professor, working on attention for BCIs using methods from Virtual Reality (VR).</li>
+ </ul>
 
   <div class="container">
       <div class="row row-cols-1 row-cols-md-3">
@@ -24,9 +26,11 @@ nav_order: 4
 
   <h2>Bridging Brains and ANNs</h2>
 A longstanding goal of Cognitive Science is to build artificial neural networks (ANNs) that can not only predict labels of data (e.g. images) accurately, but also do so in a way that resembles brain activity. Conditioning ANN design on brain data may not only improve performance but also improve our models of the neural processes, e.g. animal vision or human speech.
-  * <b>Tim Kietzmann</b> (University of Osnabrück) is a professor advocating for this "neuroconnectionist" research programme, especially for modelling recurrency in vision.
-  * <b>Johannes Mehrer</b> (EPFL) also works with ANNs, studying differences in architecture and data bias, in order to align artificial and biological neural representations better.
-  * <b>Josefine Zerbe</b> is a PhD student at the Max Planck Institute for Cognitive and Brain Sciences in Leipzig. She studies vision in neural networks and using MRI studies.
+ <ul>
+   <li><b>Tim Kietzmann</b> (University of Osnabrück) is a professor advocating for this "neuroconnectionist" research programme, especially for modelling recurrency in vision.</li>
+   <li><b>Johannes Mehrer</b> (EPFL) also works with ANNs, studying differences in architecture and data bias, in order to align artificial and biological neural representations better.</li>
+   <li><b>Josefine Zerbe</b> is a PhD student at the Max Planck Institute for Cognitive and Brain Sciences in Leipzig. She studies vision in neural networks and using MRI studies.</li>
+ </ul>
 
   <div class="container">
       <div class="row row-cols-1 row-cols-md-3">
@@ -38,9 +42,11 @@ A longstanding goal of Cognitive Science is to build artificial neural networks 
 
   <h2>Automated Scientific Discovery</h2>
 Automated Scientific Discovery is an emerging research field, that tries to automate the search for computational models, e.g. for human behaviour, and thereby accelerate the progress of science.
-* <b>Sebastian Musslick</b> (University of Osnabrück) is a professor who invented the framework of a bayesian machine scientist, which automatically designs experiments, collects and analyses data, to then optimise the experiment.
-* <b>Kevin Miller</b> (University College London and DeepMind) works on finding Recurrent Neural Networks models for explaining human choices in value-based decision-making.
-* <b>Jannis Born</b> works at IBM Research in Zurich on generative/language models for molecular design and other scientific discovery applications.
+ <ul>
+   <li><b>Sebastian Musslick</b> (University of Osnabrück) is a professor who invented the framework of a bayesian machine scientist, which automatically designs experiments, collects and analyses data, to then optimise the experiment.</li>
+   <li><b>Kevin Miller</b> (University College London and DeepMind) works on finding Recurrent Neural Networks models for explaining human choices in value-based decision-making.</li>
+   <li><b>Jannis Born</b> works at IBM Research in Zurich on generative/language models for molecular design and other scientific discovery applications.</li>
+ </ul>
   <div class="container">
       <div class="row row-cols-1 row-cols-md-3">
       {% include people.liquid name="Jannis Born" affiliation="IBM Research Europe" url="https://research.ibm.com/people/jannis-born" img="assets/img/organisers/jannisborn.jpg" %}
