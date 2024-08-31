@@ -22,7 +22,7 @@ nav_order:
     </div>
     <div class="col-auto mb-3">
       <div class="card h-100" style="width: 14rem;">
-        <img src="/assets/img/organisers/nopicture.jpg" class="card-img-top" alt="Marie Bensien">
+        <img src="/assets/img/organisers/mariebensien.jpg" class="card-img-top" alt="Marie Bensien">
           <div class="card-body">
             <h5 class="card-title">Marie Bensien</h5>
             <h6 class="card-subtitle mb-2 text-muted">University of Bremen</h6>
