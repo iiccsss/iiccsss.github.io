@@ -31,7 +31,7 @@ A longstanding goal of Cognitive Science is to build artificial neural networks 
  <ul>
    <li><b>Tim Kietzmann</b> (University of Osnabrück) is a professor advocating for the "neuroconnectionist" research programme, especially for modelling recurrency in vision.</li>
    <li><b>Johannes Mehrer</b> (EPFL) also works with ANNs, studying differences in architecture and data bias, in order to align artificial and biological neural representations better.</li>
-   <li><b>Josefine Zerbe</b> is a PhD student at the Max Planck Institute for Cognitive and Brain Sciences in Leipzig. She studies vision in neural networks and using MRI studies.</li>
+   <li><b>Katja Seeliger</b> is a Postdoc at the Max Planck Institute for Cognitive and Brain Sciences in Leipzig. She studies vision in neural networks and using MRI studies.</li>
  </ul>
 
   <div class="container">
@@ -58,4 +58,53 @@ Automated Scientific Discovery is an emerging research field, that tries to auto
       {% include people.liquid name="Sebastian Musslick" affiliation="University of Osnabrück" url="https://smusslick.com" img="assets/img/speakers/2024/SebastianMusslick.jpg" %}
       </div>
   </div>
+
+  <hr>
+
+
+  <h2>Special events</h2>
+  <h2>Science communication seminar</h2>  
+  What's the use of great science, if it does not reach the general public? Why work long hours at the lab, if most people will not understand what you do? Most scientists spend way too little time communicating what they have found. But how should they know if they don't get training and academia does not incentivise it?
+  <b>Katharina Stein</b> is a professional science communication trainer. She will give a workshop on how to talk in public and help you get better presenters.
+  {% include people.liquid name="Katharina Stein" affiliation="University of Tübingen" img="assets/img/organisers/katharinastein.jpg" %}
+
+  <h2>What's next? Careers in Cognitive Science</h2>
+In this year's <b>panel discussion</b>, we will discuss the different career paths that are open to cognitive scientists. We are thrilled to be joined by four accomplished professionals who have graciously agreed to share their experiences with us. We will also collect your thoughts and questions for the panelists throughout the week and incorporate them into the discussion.
+<ul>
+<li>
+<b>Lisa-Marie Vortmann</b> is an assistant professor at the University of Groningen, working on attention for BCIs using methods from Virtual Reality.
+</li>
+<li>
+<b>Niklas Wilming</b> works as an AI specialist for Rosen, an international company with more than 4.000 employees, providing asset integrity management and consulting services to businesses around the world.
+</li>
+<li>
+<b>Justin Shenk</b> has worked for Intel and multiple start-ups before founding VisioLab, a Berlin-based start-up for AI-powered visual self-checkout.
+</li>
+<li>
+<b>FeelSpace</b> is an Osnabrück-based startup developing a belt to help the blind navigate and orient themselves. We will be joined by one of their co-founders, either Susan Wache, CMO, or Silke Kärcher, CEO.
+</li>
+<li>
+<b>Thomas Klein</b> from the IICCSSS team will moderate the panel. Thomas is currently pursuing his PhD on explainable models for vision science at the MPI for Intelligent Systems in Tübingen.
+</li>
+  
+  <h2>Institute tour</h2>
+  There will be two institute tours:
+  <ol>
+    <li>"Schloss" tour
+	<ul>
+	    <li><a href="https://www.dfki.de/en/web/research/research-departments/plan-based-robot-control" target="_blank">DFKI</a> (Deutsches Forschungszentrum Künstliche Intelligenz)</li>
+ 	    <li><a href="https://sd20.org" target="_blank">Sleep and dream</a></li>
+	</ul>
+    </li>
+    <li><a href="https://www.ikw.uni-osnabrueck.de/en/home.html">IKW</a> tour</li>
+	<ul>
+	    <li>Study project: Data ethics outreach lab</li>
+            <li>Study project: Language emergence</li>
+            <li>Study project: Children language EEG lab</li>
+            <li>Comparative Biocognition</li>
+            <li>CogSci Student Journal</li>
+        </ul>
+    </li>
+  </ol>
+
 </div>
