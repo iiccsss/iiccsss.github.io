@@ -52,7 +52,7 @@ published: true
         <td> 13:30–14:30 </td>
         <td markdown="span" class="bg-primary"> **Talk** <br> Sebastian Musslick </td>
         <td markdown="span" rowspan="3" class="bg-warning"> **Tour of the research labs** </td>
-        <td markdown="span" rowspan="2" class="bg-danger"> **Workshop** </td>
+        <td markdown="span" rowspan="2" class="bg-danger"> **Workshop** Katja Seeliger</td>
         <td markdown="span" rowspan="6" class="bg-info"> **Hackathon** </td>
         <td markdown="span" rowspan="3" class="bg-warning"> **Hackathon prizes, feedback and closing** </td>
     </tr>
