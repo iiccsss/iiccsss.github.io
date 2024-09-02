@@ -70,22 +70,23 @@ Automated Scientific Discovery is an emerging research field, that tries to auto
 
   <h2>What's next? Careers in Cognitive Science</h2>
 In this year's <b>panel discussion</b>, we will discuss the different career paths that are open to cognitive scientists. We are thrilled to be joined by four accomplished professionals who have graciously agreed to share their experiences with us. We will also collect your thoughts and questions for the panelists throughout the week and incorporate them into the discussion.
-<ul>
-<li>
-<b>Lisa-Marie Vortmann</b> is an assistant professor at the University of Groningen, working on attention for BCIs using methods from Virtual Reality.
-</li>
-<li>
-<b>Niklas Wilming</b> works as an AI specialist for Rosen, an international company with more than 4.000 employees, providing asset integrity management and consulting services to businesses around the world.
-</li>
-<li>
-<b>Justin Shenk</b> has worked for Intel and multiple start-ups before founding VisioLab, a Berlin-based start-up for AI-powered visual self-checkout.
-</li>
-<li>
-<b>FeelSpace</b> is an Osnabrück-based startup developing a belt to help the blind navigate and orient themselves. We will be joined by one of their co-founders, either Susan Wache, CMO, or Silke Kärcher, CEO.
-</li>
-<li>
-<b>Thomas Klein</b> from the IICCSSS team will moderate the panel. Thomas is currently pursuing his PhD on explainable models for vision science at the MPI for Intelligent Systems in Tübingen.
-</li>
+  <ul>
+	<li>
+	<b>Lisa-Marie Vortmann</b> is an assistant professor at the University of Groningen, working on attention for BCIs using methods from Virtual Reality.
+	</li>
+	<li>
+	<b>Niklas Wilming</b> works as an AI specialist for Rosen, an international company with more than 4.000 employees, providing asset integrity management and consulting services to businesses around the world.
+	</li>
+	<li>
+	<b>Justin Shenk</b> has worked for Intel and multiple start-ups before founding VisioLab, a Berlin-based start-up for AI-powered visual self-checkout.
+	</li>
+	<li>
+	<b>FeelSpace</b> is an Osnabrück-based startup developing a belt to help the blind navigate and orient themselves. We will be joined by one of their co-founders, either Susan Wache, CMO, or Silke Kärcher, CEO.
+	</li>
+	<li>
+	<b>Thomas Klein</b> from the IICCSSS team will moderate the panel. Thomas is currently pursuing his PhD on explainable models for vision science at the MPI for Intelligent Systems in Tübingen.
+	</li>
+  </ul>
   
   <h2>Institute tour</h2>
   There will be two institute tours:
@@ -96,7 +97,7 @@ In this year's <b>panel discussion</b>, we will discuss the different career pat
  	    <li><a href="https://sd20.org" target="_blank">Sleep and dream</a></li>
 	</ul>
     </li>
-    <li><a href="https://www.ikw.uni-osnabrueck.de/en/home.html">IKW</a> tour</li>
+    <li><a href="https://www.ikw.uni-osnabrueck.de/en/home.html">IKW</a> tour
 	<ul>
 	    <li>Study project: Data ethics outreach lab</li>
             <li>Study project: Language emergence</li>
