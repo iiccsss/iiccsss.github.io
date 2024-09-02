@@ -98,16 +98,16 @@ In this year's <b>panel discussion</b>, we will discuss the different career pat
     <li>"Schloss" tour
 	<ul>
 	    <li><a href="https://www.dfki.de/en/web/research/research-departments/plan-based-robot-control" target="_blank">DFKI</a> (Deutsches Forschungszentrum Künstliche Intelligenz)</li>
- 	    <li><a href="https://sd20.org" target="_blank">Sleep and dream</a></li>
+ 	    <li><a href="https://www.sleepdream.uni-osnabrueck.de/" target="_blank">Sleep and dream</a></li>
 	</ul>
     </li>
-    <li><a href="https://www.ikw.uni-osnabrueck.de/en/home.html">IKW</a> tour
+    <li><a href="https://www.ikw.uni-osnabrueck.de/en/home.html" target="_blank">IKW</a> tour
 	<ul>
 	    <li>Study project: Data ethics outreach lab</li>
-            <li>Study project: Language emergence</li>
-            <li>Study project: Children language EEG lab</li>
-            <li>Comparative Biocognition</li>
-            <li>CogSci Student Journal</li>
+            <li>Study project: MicrocosmAI</li>
+            <li>Study project: <a href="https://www.ikw.uni-osnabrueck.de/en/research_groups/psycho_and_neurolinguistics/overview.html">Psycho- and Neurolinguistics lab</a></li>
+            <li><a href="https://www.comparative-biocognition.de/">Comparative Biocognition</a></li>
+            <li><a href="https://cogsci-journal.uni-osnabrueck.de/">CogSci Student Journal</a></li>
         </ul>
     </li>
   </ol>
