@@ -65,9 +65,9 @@ Automated Scientific Discovery is an emerging research field, that tries to auto
   <h2>Special events</h2>
   <h2>Science communication seminar</h2>  
   What's the use of great science, if it does not reach the general public? Why work long hours at the lab, if most people will not understand what you do? Most scientists spend way too little time communicating what they have found. But how should they know if they don't get training and academia does not incentivise it?
+<b>Katharina Stein</b> is a professional science communication trainer. She will give a workshop on how to talk in public and help you get better presenters.
   <div class="container">
       <div class="row row-cols-1 row-cols-md-3">
-	<b>Katharina Stein</b> is a professional science communication trainer. She will give a workshop on how to talk in public and help you get better presenters.
 	{% include people.liquid name="Katharina Stein" affiliation="University of Tübingen" img="assets/img/organisers/katharinastein.jpg" %}
       </div>
   </div>
