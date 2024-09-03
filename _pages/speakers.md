@@ -37,7 +37,7 @@ A longstanding goal of Cognitive Science is to build artificial neural networks 
   <div class="container">
       <div class="row row-cols-1 row-cols-md-3">
       {% include people.liquid name="Tim Kietzmann" affiliation="University of Osnabrück" url="https://kietzmannlab.org" img="assets/img/speakers/2024/TimKietzmann.jpg" %}
-      {% include people.liquid name="Johannes Mehrer" affiliation="EPFL" url="https://people.epfl.ch/johannes.mehrer?lang=en" img="assets/img/speakers/2024/JohannesMehrer.jpg" %}
+      {% include people.liquid name="Johannes Mehrer" affiliation="EPFL" url="https://people.epfl.ch/johannes.mehrer?lang=en" img="assets/img/speakers/2024/JohannesMehrer.jpeg" %}
       {% include people.liquid name="Katja Seeliger" affiliation="MPI for Human Cognitive and Brain Sciences" url="seelikat.github.io" img="assets/img/speakers/2024/KatjaSeeliger.jpg" %}
       </div>
   </div>
