@@ -103,11 +103,11 @@ In this year's <b>panel discussion</b>, we will discuss the different career pat
     </li>
     <li><a href="https://www.ikw.uni-osnabrueck.de/en/home.html" target="_blank">IKW</a> tour
 	<ul>
-	    <li>Study project: Data ethics outreach lab</li>
-            <li>Study project: MicrocosmAI</li>
-            <li>Study project: <a href="https://www.ikw.uni-osnabrueck.de/en/research_groups/psycho_and_neurolinguistics/overview.html">Psycho- and Neurolinguistics lab</a></li>
-            <li><a href="https://www.comparative-biocognition.de/">Comparative Biocognition</a></li>
-            <li><a href="https://cogsci-journal.uni-osnabrueck.de/">CogSci Student Journal</a></li>
+	    <li><a href="https://www.ikw.uni-osnabrueck.de/en/research_groups/ethics_of_ai/data_ethics_outreach_lab.html" target="_blank">Data ethics outreach lab</a></li>
+            <li><a href="https://www.ikw-cms.uni-osnabrueck.de/research_groups/ai_exhibition_at_museum_fuer_industriekultur/microcosmai.html" target="_blank">MicrocosmAI</a></li>
+            <li><a href="https://www.ikw.uni-osnabrueck.de/en/research_groups/psycho_and_neurolinguistics/overview.html" target="_blank">Psycho- and Neurolinguistics lab</a></li>
+            <li><a href="https://www.comparative-biocognition.de/" target="_blank">Comparative Biocognition</a></li>
+            <li><a href="https://cogsci-journal.uni-osnabrueck.de/" target="_blank">CogSci Student Journal</a></li>
         </ul>
     </li>
   </ol>
