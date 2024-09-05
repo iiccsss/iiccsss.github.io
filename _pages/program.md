@@ -24,9 +24,9 @@ published: true
     <tr>
         <td> 9:30–10:30 </td>
         <td markdown="span" class="bg-warning"> **Registration** </td>
-        <td markdown="span" rowspan="2" class="bg-warning"> **Lightning talks/Poster session** </td>
+        <td markdown="span" rowspan="2" class="bg-warning"> **Lightning talks** <br> (32/109 + 110) </td>
         <td markdown="span" rowspan="2" class="bg-danger"> **Science communication workshop** </td>
-        <td markdown="span" rowspan="3" class="bg-info"> **Hackathon** </td>
+        <td markdown="span" rowspan="3" class="bg-info"> **Hackathon** <br> (32 rooms 102, 109, 110, 131) </td>
         <td markdown="span" class="bg-primary">**Closing keynote** <br> Tim Kietzmann</td>
     </tr>
     <tr>
@@ -80,9 +80,9 @@ published: true
     </tr>
     <tr>
         <td> From 19:00 onwards (Evening program) </td>
-        <td markdown="span" class="bg-success"> **City rallye** </td>
+        <td markdown="span" class="bg-success"> **City rallye** (meeting point: Domplatz)</td>
         <td> &nbsp; </td>
-        <td markdown="span" class="bg-success"> **Dinner** </td>
+        <td markdown="span" class="bg-success"> **Dinner** (Weinkrüger, Marienstr. 18)</td>
         <td> &nbsp; </td>
     </tr>
   </tbody>
