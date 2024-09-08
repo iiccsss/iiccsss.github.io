@@ -64,8 +64,7 @@ Automated Scientific Discovery is an emerging research field, that tries to auto
 
   <h1>Special events</h1>
   <h2>Science communication seminar</h2>  
-  What's the use of great science, if it does not reach the general public? Why work long hours at the lab, if most people will not understand what you do? Most scientists spend way too little time communicating what they have found. But how should they know if they don't get training and academia does not incentivise it?
-<b>Katharina Stein</b> is a professional science communication trainer. She will give a workshop on how to talk to the public and help you become better presenters in general.
+What's the value of groundbreaking research if it never leaves the walls of academia? Why spend countless hours on experiments when few will understand their significance? Many early-career researchers struggle to communicate their work to a broader audience—simply because they've never been trained to do so. <b>Katharina Stein</b>, who has been working in science communication for several years, will lead a workshop designed specifically for students and young researchers. In this session, you'll get tips on how to craft and deliver your message effectively, making your science accessible and impactful for the world beyond the lab.
 <br>
   <div class="container">
       <div class="row row-cols-1 row-cols-md-3">
