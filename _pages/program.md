@@ -67,8 +67,8 @@ published: true
     <tr>
         <td> 16:15–17:15 </td>
         <td markdown="span" class="bg-primary"> **Talk** <br> Kevin J. Miller </td>
-        <td> &nbsp; </td>
         <td markdown="span" class="bg-primary"> **Panel discussion** <br> </td>
+        <td> &nbsp; </td>
         <td> &nbsp; </td>
     </tr>
     <tr>
