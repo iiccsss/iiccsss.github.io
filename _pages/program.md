@@ -36,7 +36,6 @@ published: true
     </tr>
     <tr>
         <td> 11:15–12:15 </td>
-        <!-- <td markdown="span" class="bg-primary"> **Opening keynote <br> TBA** <br>  </td> -->
         <td markdown="span" class="bg-danger"> **Workshop** <br> Lisa-Marie Vortmann </td>
         <td markdown="span" class="bg-primary">**Talk** <br> Johannes Mehrer</td>
     </tr>
@@ -67,7 +66,6 @@ published: true
     <tr>
         <td> 16:15–17:15 </td>
         <td markdown="span" class="bg-primary"> **Talk** <br> Kevin J. Miller </td>
-        <td> &nbsp; </td>
         <td markdown="span" class="bg-primary"> **Panel discussion** <br> </td>
         <td> &nbsp; </td>
     </tr>
