@@ -79,7 +79,7 @@ published: true
         <td> &nbsp; </td>
     </tr>
     <tr>
-        <td> From 19:00 onwards (Evening program) </td>
+        <td> From 18:30 onwards (Evening program) </td>
         <td markdown="span" class="bg-success"> **City rallye** (meeting point: Domplatz)</td>
         <td> &nbsp; </td>
         <td markdown="span" class="bg-success"> **Dinner** (Weinkrüger, Marienstr. 18)</td>
