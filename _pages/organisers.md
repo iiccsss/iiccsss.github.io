@@ -41,6 +41,16 @@ nav_order:
         </div>
     </div>
     <div class="col-auto mb-3">
+      <div class="card h-100" style="width: 14rem;">
+        <img src="/assets/img/organisers/felixhammer.jpg" class="card-img-top" alt="Felix Hammer">
+        <div class="card-body">
+          <h5 class="card-title">Felix Hammer</h5>
+          <h6 class="card-subtitle mb-2 text-muted">University of Osnabrück</h6>
+          <p class="card-text">fhammer [at] uos.de</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-auto mb-3">
         <div class="card h-100" style="width: 14rem;">
           <img src="/assets/img/organisers/thomasklein.jpg" class="card-img-top" alt="Thomas Klein">
             <div class="card-body">
@@ -70,7 +80,7 @@ nav_order:
             </div>
         </div>
     </div>
-    <div class="col-auto mb-5">
+    <div class="col-auto mb-3">
         <div class="card h-100" style="width: 14rem;">
           <img src="/assets/img/organisers/ninawiedemann.jpg" class="card-img-top" alt="Nina Wiedemann">
             <div class="card-body">
