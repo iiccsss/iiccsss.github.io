@@ -2,7 +2,7 @@
 layout: page
 permalink: /program/
 title: program
-description: Tentative program
+description: The program for 2024 is shown below. The 2025 program will become availble in spring.
 nav: true
 nav_order: 2
 published: true
