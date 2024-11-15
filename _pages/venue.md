@@ -39,8 +39,8 @@ IICCSSS 2025 will take place in Darmstadt, Germany. Further details will follow.
 
 ### Joint dinner
 As every year we plan to have a dinner with the speakers and participants. Further details will follow.
-<!-- 
-We hope that both speakers and summer school participants will join us for dinner at [Weinkrüger](https://www.weinkrüger.de) (Marienstraße 18, 49074 Osnabrück) on Wednesday, 11 September, at 18.30.
+<!--<p>
+We hope that both speakers and summer school participants will join us for dinner at [Weinkrüger](https://www.weinkrüger.de) (Marienstraße 18, 49074 Osnabrück) on Wednesday, 11 September, at 18.30.</p>
 
 
 
