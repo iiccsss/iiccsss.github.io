@@ -2,7 +2,7 @@
 layout: page
 title: speakers & topics
 permalink: /speakers/
-description: In 2024, we invited speakers for 3 topics
+description: The speakers & topics for 2024 are shown below. The 2025 program will become availble in spring.
 nav: true
 nav_order: 4
 ---
