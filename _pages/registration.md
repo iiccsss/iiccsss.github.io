@@ -25,8 +25,8 @@ nav_order: 5
 </style>
 
 <!--<a class="btn btn-primary btn" href="https://docs.google.com/forms/d/e/1FAIpQLSeEjYg2izgcBxttCG3aYgRvPe69L7VsyzoTECD7aL-rAjlmUA/viewform?usp=sf_link">Register here!</a>-->
-We are currently planning the 2025 iteration which will take place in Darmstadt. 
-The registration will open in spring 2025.
+We are currently planning the 2025 iteration which will take place in Darmstadt from 1st to 5th of September. 
+The registration will open in May 2025.
 
 ### Registration fees
 Participation in the summer school is free of charge; however, in order to confirm your registration, you will be required to pay a deposit of €20, which you will get back at the start of the summer school. Reimbursement of the deposit is only possible in case of attendance.

@@ -2,7 +2,7 @@
 layout: page
 permalink: /venue/
 title: venue
-description: IICCSSS 2025 will be hosted by University of Darmstadt, Germany
+description: University of Darmstadt
 nav: true
 nav_order: 3
 
@@ -25,7 +25,7 @@ nav_order: 3
 	}
 </style>
 
-IICCSSS 2025 will take place in Darmstadt, Germany. Further details will follow. 
+The summer school will take place at TU Darmstadt. Further details will follow. 
 
 <!-- <div class="row">
     <div class="col-lg-7 col-sm-7 m-auto">
@@ -38,6 +38,7 @@ IICCSSS 2025 will take place in Darmstadt, Germany. Further details will follow.
 
 
 ### Joint dinner
+
 As every year we plan to have a dinner with the speakers and participants. Further details will follow.
 
 <!-- <div class="row">
