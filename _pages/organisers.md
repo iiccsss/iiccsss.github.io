@@ -10,13 +10,101 @@ nav_order:
 
 <!-- pages/organisers.md -->
 <div class="row justify-content-left">
-  <div class="col-auto mb-3">
+    <div class="col-auto mb-3">
+        <div class="card h-100" style="width: 14rem;">
+          <img src="/assets/img/organisers/thomasklein.jpg" class="card-img-top" alt="Thomas Klein">
+            <div class="card-body">
+              <h5 class="card-title">Thomas Klein</h5>
+              <h6 class="card-subtitle mb-2 text-muted">University of Tübingen & Max Planck Institute for Intelligent Systems</h6>
+                <p class="card-text">t.klein [at] uni-tuebingen.de</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-auto mb-3">
+        <div class="card h-100" style="width: 14rem;">
+          <img src="/assets/img/organisers/RabeaTuron.jpg" class="card-img-top" alt="Rabea Turon">
+            <div class="card-body">
+              <h5 class="card-title">Rabea Turon</h5>
+                <h6 class="card-subtitle mb-2 text-muted">Centre for Cognitive Science, Technical University of Darmstadt</h6>
+                <p class="card-text">rabea.turon[at]tu-darmstadt.de</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-auto mb-3">
+        <div class="card h-100" style="width: 14rem;">
+          <img src="/assets/img/organisers/ninawiedemann.jpg" class="card-img-top" alt="Nina Wiedemann">
+            <div class="card-body">
+              <h5 class="card-title">Nina Wiedemann</h5>
+                <h6 class="card-subtitle mb-2 text-muted">ETH Zürich, Zurich Center for Neuroeconomics</h6>
+                <p class="card-text">wnina [at] ethz.ch</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-auto mb-3">
+        <div class="card h-100" style="width: 14rem;">
+          <img src="/assets/img/organisers/YarikMoeller.jpg" class="card-img-top" alt="Yarik Möller">
+            <div class="card-body">
+              <h5 class="card-title">Yarik Möller</h5>
+                <h6 class="card-subtitle mb-2 text-muted">University of Tübingen</h6>
+                <p class="card-text">yarik.moeller[at]student.uni-tuebingen.de</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-auto mb-3">
+        <div class="card h-100" style="width: 14rem;">
+          <img src="/assets/img/organisers/CelineHonekamp.jpg" class="card-img-top" alt="Celine Honekamp">
+            <div class="card-body">
+              <h5 class="card-title">Celine Honekamp</h5>
+                <h6 class="card-subtitle mb-2 text-muted">Centre for Cognitive Science, Technical University of Darmstadt</h6>
+                <p class="card-text">Celine.Honekamp[at]tu-darmstadt.de</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-auto mb-3">
       <div class="card h-100" style="width: 14rem;">
         <img src="/assets/img/organisers/manarali.jpg" class="card-img-top" alt="Manar Ali">
           <div class="card-body">
             <h5 class="card-title">Manar Ali</h5>
             <h6 class="card-subtitle mb-2 text-muted">University of Osnabrück</h6>
             <p class="card-text">maali [at] uni-osnabrueck.de</p>
+          </div>
+        </div>
+    </div>
+</div>
+
+## Former organisers
+
+<div class="row justify-content-left">
+    <div class="col-auto mb-3">
+        <div class="card h-100" style="width: 14rem;">
+          <img src="/assets/img/organisers/tobiasludwig.jpg" class="card-img-top" alt="Tobias Ludwig">
+            <div class="card-body">
+              <h5 class="card-title">Tobias Ludwig</h5>
+                <h6 class="card-subtitle mb-2 text-muted">University of Tübingen & Max Planck Institute for Biological Cybernetics</h6>
+                <p class="card-text">tobias.ludwig [at] uni-tuebingen.de</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-auto mt-3 mb-3">
+        <div class="card h-100" style="width: 14rem;">
+          <img src="/assets/img/organisers/jannisborn.jpg" class="card-img-top" alt="Jannis Born">
+            <div class="card-body">
+              <h5 class="card-title">Jannis Born</h5>
+              <h6 class="card-subtitle mb-2 text-muted">ETH Zürich & IBM Research</h6>
+                <p class="card-text">jborn [at] ethz.ch</p>
+            </div>
+            <div class="card-footer">
+              <a href="https://www.linkedin.com/in/jannis-born-319054121/" class="card-link"><i class="fab fa-linkedin"></i></a>
+            </div>
+        </div>
+    </div>
+        <div class="col-auto mb-3">
+      <div class="card h-100" style="width: 14rem;">
+        <img src="/assets/img/organisers/pelinkomurluoglu.jpg" class="card-img-top" alt="Pelin Kömürlüoglu">
+          <div class="card-body">
+            <h5 class="card-title">Pelin Kömürlüoglu</h5>
+            <h6 class="card-subtitle mb-2 text-muted">University of Osnabrück</h6>
+            <p class="card-text">pkoemuerlueo [at] uni-osnabrueck.de</p>
           </div>
         </div>
     </div>
@@ -49,74 +137,6 @@ nav_order:
           <p class="card-text">fhammer [at] uos.de</p>
         </div>
       </div>
-    </div>
-    <div class="col-auto mb-3">
-        <div class="card h-100" style="width: 14rem;">
-          <img src="/assets/img/organisers/thomasklein.jpg" class="card-img-top" alt="Thomas Klein">
-            <div class="card-body">
-              <h5 class="card-title">Thomas Klein</h5>
-              <h6 class="card-subtitle mb-2 text-muted">University of Tübingen & Max Planck Institute for Intelligent Systems</h6>
-                <p class="card-text">t.klein [at] uni-tuebingen.de</p>
-            </div>
-        </div>
-    </div>
-    <div class="col-auto mb-3">
-      <div class="card h-100" style="width: 14rem;">
-        <img src="/assets/img/organisers/pelinkomurluoglu.jpg" class="card-img-top" alt="Pelin Kömürlüoglu">
-          <div class="card-body">
-            <h5 class="card-title">Pelin Kömürlüoglu</h5>
-            <h6 class="card-subtitle mb-2 text-muted">University of Osnabrück</h6>
-            <p class="card-text">pkoemuerlueo [at] uni-osnabrueck.de</p>
-          </div>
-        </div>
-    </div>
-    <div class="col-auto mb-3">
-        <div class="card h-100" style="width: 14rem;">
-          <img src="/assets/img/organisers/tobiasludwig.jpg" class="card-img-top" alt="Tobias Ludwig">
-            <div class="card-body">
-              <h5 class="card-title">Tobias Ludwig</h5>
-                <h6 class="card-subtitle mb-2 text-muted">University of Tübingen & Max Planck Institute for Biological Cybernetics</h6>
-                <p class="card-text">tobias.ludwig [at] uni-tuebingen.de</p>
-            </div>
-        </div>
-    </div>
-    <div class="col-auto mb-3">
-        <div class="card h-100" style="width: 14rem;">
-          <img src="/assets/img/organisers/ninawiedemann.jpg" class="card-img-top" alt="Nina Wiedemann">
-            <div class="card-body">
-              <h5 class="card-title">Nina Wiedemann</h5>
-                <h6 class="card-subtitle mb-2 text-muted">ETH Zürich, Zurich Center for Neuroeconomics</h6>
-                <p class="card-text">wnina [at] ethz.ch</p>
-            </div>
-        </div>
-    </div>
-</div>
-
-## Former organisers
-
-<div class="row justify-content-left">
-    <div class="col-auto mt-3 mb-3">
-        <div class="card h-100" style="width: 14rem;">
-          <img src="/assets/img/organisers/saraalrawi.jpg" class="card-img-top" alt="Sara Al-Rawi">
-            <div class="card-body">
-                <h5 class="card-title">Sara Al-Rawi</h5>
-                <h6 class="card-subtitle mb-2 text-muted">Medical Biometry and Statistics, Freiburg University Hospital</h6>
-                <p class="card-text">alrawi [at] imbi.uni-freiburg.de</p>
-            </div>
-        </div>
-    </div>
-    <div class="col-auto mt-3 mb-3">
-        <div class="card h-100" style="width: 14rem;">
-          <img src="/assets/img/organisers/jannisborn.jpg" class="card-img-top" alt="Jannis Born">
-            <div class="card-body">
-              <h5 class="card-title">Jannis Born</h5>
-              <h6 class="card-subtitle mb-2 text-muted">ETH Zürich & IBM Research</h6>
-                <p class="card-text">jborn [at] ethz.ch</p>
-            </div>
-            <div class="card-footer">
-              <a href="https://www.linkedin.com/in/jannis-born-319054121/" class="card-link"><i class="fab fa-linkedin"></i></a>
-            </div>
-        </div>
     </div>
     <div class="col-auto mt-3 mb-3">
         <div class="card h-100" style="width: 14rem;">
