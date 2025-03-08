@@ -20,14 +20,14 @@ nav_order:
             </div>
         </div>
     </div>
-    <div class="col-auto mb-3">
-        <div class="card h-100" style="width: 14rem;">
-          <img src="/assets/img/organisers/RabeaTuron.jpg" class="card-img-top" alt="Rabea Turon">
-            <div class="card-body">
-              <h5 class="card-title">Rabea Turon</h5>
-                <h6 class="card-subtitle mb-2 text-muted">Centre for Cognitive Science, Technical University of Darmstadt</h6>
-                <p class="card-text">rabea.turon[at]tu-darmstadt.de</p>
-            </div>
+        <div class="col-auto mb-3">
+      <div class="card h-100" style="width: 14rem;">
+        <img src="/assets/img/organisers/manarali.jpg" class="card-img-top" alt="Manar Ali">
+          <div class="card-body">
+            <h5 class="card-title">Manar Ali</h5>
+            <h6 class="card-subtitle mb-2 text-muted">University of Osnabrück</h6>
+            <p class="card-text">maali [at] uni-osnabrueck.de</p>
+          </div>
         </div>
     </div>
     <div class="col-auto mb-3">
@@ -36,7 +36,17 @@ nav_order:
             <div class="card-body">
               <h5 class="card-title">Nina Wiedemann</h5>
                 <h6 class="card-subtitle mb-2 text-muted">ETH Zürich, Zurich Center for Neuroeconomics</h6>
-                <p class="card-text">wnina [at] ethz.ch</p>
+                <p class="card-text">nwiedemann [at] ethz.ch</p>
+            </div>
+        </div>
+    </div>
+     <div class="col-auto mb-3">
+        <div class="card h-100" style="width: 14rem;">
+          <img src="/assets/img/organisers/RabeaTuron.jpg" class="card-img-top" alt="Rabea Turon">
+            <div class="card-body">
+              <h5 class="card-title">Rabea Turon</h5>
+                <h6 class="card-subtitle mb-2 text-muted">Centre for Cognitive Science, Technical University of Darmstadt</h6>
+                <p class="card-text">rabea.turon[at]tu-darmstadt.de</p>
             </div>
         </div>
     </div>
@@ -70,16 +80,6 @@ nav_order:
         </div>
     </div>
     <div class="col-auto mb-3">
-      <div class="card h-100" style="width: 14rem;">
-        <img src="/assets/img/organisers/manarali.jpg" class="card-img-top" alt="Manar Ali">
-          <div class="card-body">
-            <h5 class="card-title">Manar Ali</h5>
-            <h6 class="card-subtitle mb-2 text-muted">University of Osnabrück</h6>
-            <p class="card-text">maali [at] uni-osnabrueck.de</p>
-          </div>
-        </div>
-    </div>
-    <div class="col-auto mb-3">
         <div class="card h-100" style="width: 14rem;">
           <img src="/assets/img/organisers/SwantjeMahncke.jpg" class="card-img-top" alt="Swantje Mahncke">
             <div class="card-body">
@@ -104,7 +104,7 @@ nav_order:
             <div class="card-body">
               <h5 class="card-title">Kai Streiling</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Centre for Cognitive Science, Technical University of Darmstadt</h6>
-                <p class="card-text">fabian.tatai[at]tu-darmstadt.de</p>
+                <p class="card-text">kai.streiling[at]tu-darmstadt.de</p>
             </div>
         </div>
     </div>
