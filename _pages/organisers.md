@@ -61,6 +61,15 @@ nav_order:
         </div>
     </div>
     <div class="col-auto mb-3">
+        <div class="card h-100" style="width: 14rem;">
+            <div class="card-body">
+              <h5 class="card-title">Lingyue Chen</h5>
+                <h6 class="card-subtitle mb-2 text-muted">Centre for Cognitive Science, Technical University of Darmstadt</h6>
+                <p class="card-text">lingyue.chen[at]tu-darmstadt.de</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-auto mb-3">
       <div class="card h-100" style="width: 14rem;">
         <img src="/assets/img/organisers/manarali.jpg" class="card-img-top" alt="Manar Ali">
           <div class="card-body">
@@ -68,6 +77,45 @@ nav_order:
             <h6 class="card-subtitle mb-2 text-muted">University of Osnabrück</h6>
             <p class="card-text">maali [at] uni-osnabrueck.de</p>
           </div>
+        </div>
+    </div>
+    <div class="col-auto mb-3">
+        <div class="card h-100" style="width: 14rem;">
+          <img src="/assets/img/organisers/SwantjeMahncke.jpg" class="card-img-top" alt="Swantje Mahncke">
+            <div class="card-body">
+              <h5 class="card-title">Swantje Mahncke</h5>
+                <h6 class="card-subtitle mb-2 text-muted">Centre for Cognitive Science, Technical University of Darmstadt</h6>
+                <p class="card-text">swantje.mahncke[at]tu-darmstadt.de</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-auto mb-3">
+        <div class="card h-100" style="width: 14rem;">
+          <img src="/assets/img/organisers/photo_JolandeFooken.jpg" class="card-img-top" alt="Jolande Fooken">
+            <div class="card-body">
+              <h5 class="card-title">Jolande Fooken</h5>
+                <h6 class="card-subtitle mb-2 text-muted">Centre for Cognitive Science, Technical University of Darmstadt</h6>
+                <p class="card-text">jolande.fooken[at]tu-darmstadt.de</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-auto mb-3">
+        <div class="card h-100" style="width: 14rem;">
+            <div class="card-body">
+              <h5 class="card-title">Kai Streiling</h5>
+                <h6 class="card-subtitle mb-2 text-muted">Centre for Cognitive Science, Technical University of Darmstadt</h6>
+                <p class="card-text">fabian.tatai[at]tu-darmstadt.de</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-auto mb-3">
+        <div class="card h-100" style="width: 14rem;">
+          <img src="/assets/img/organisers/FabianTatai.jpeg" class="card-img-top" alt="Fabian Tatai">
+            <div class="card-body">
+              <h5 class="card-title">Fabian Tatai</h5>
+                <h6 class="card-subtitle mb-2 text-muted">Centre for Cognitive Science, Technical University of Darmstadt</h6>
+                <p class="card-text">fabian.tatai[at]tu-darmstadt.de</p>
+            </div>
         </div>
     </div>
 </div>
