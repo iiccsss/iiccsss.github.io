@@ -12750,5 +12750,30 @@ ul.stepper li.completed a .label {
     transform: rotate(180deg)
 }
 
+/* Custom named colors for schedule. */
+
+.schedule-talk {
+    background-color: #4285f4 !important
+}
+
+.schedule-participants {
+    background-color: #fb3 !important
+}
+
+.schedule-workshop {
+    background-color: #ff3547 !important
+}
+
+.schedule-hackathon {
+    background-color: #33b5e5 !important
+}
+
+.schedule-evening {
+    background-color: #00c851 !important
+}
+
+.schedule-break {
+    background-color: #91949c !important
+}
 
 /*# sourceMappingURL=mdb.min.css.map*/
