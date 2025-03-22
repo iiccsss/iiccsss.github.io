@@ -1,8 +1,8 @@
 ---
 layout: page
-title: speakers & topics
+title: speakers
 permalink: /speakers/
-description: The list of speakers and topics will become available soon!
+description: Speakers for IICCSSS 2025 are researchers from diverse subfields of computational cognitive science
 nav: true
 nav_order: 4
 ---
