@@ -230,7 +230,6 @@ defaults:
 # -----------------------------------------------------------------------------
 
 jekyll-minifier:
-  exclude: ["robots.txt"]
   uglifier_args:
     harmony: true
   compress_javascript: false # set to false since we are using terser as the js minifier
