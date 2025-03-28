@@ -25,7 +25,7 @@ published: true
         <td> 9:30–10:30 </td>
         <td markdown="span" class="schedule-participants"> **Registration** </td>
         <td markdown="span" class="schedule-participants"> **Lightning talks** </td>
-        <td markdown="span" class="schedule-workshop"> **Talk** <br> Loes van Dam </td>
+        <td markdown="span" class="schedule-workshop"> **Workshop** <br> Loes van Dam </td>
         <td markdown="span" rowspan="3" class="schedule-hackathon"> **Hackathon** </td>
         <td markdown="span" class="schedule-hackathon"> **Project Presentations** </td>
     </tr>

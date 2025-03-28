@@ -11442,7 +11442,7 @@ a.text-dark:hover {
     }
 
     abbr[title]::after {
-        content: " (" attr(title) ")"
+        content: " ("attr(title) ")"
     }
 
     pre {
@@ -11521,6 +11521,30 @@ a.text-dark:hover {
         color: inherit;
         border-color: #dee2e6
     }
+}
+
+.schedule-talk {
+    background-color: #4285f4 !important
+}
+
+.schedule-participants {
+    background-color: #fb3 !important
+}
+
+.schedule-workshop {
+    background-color: #ff3547 !important
+}
+
+.schedule-hackathon {
+    background-color: #33b5e5 !important
+}
+
+.schedule-evening {
+    background-color: #00c851 !important
+}
+
+.schedule-break {
+    background-color: #91949c !important
 }
 
 /*# sourceMappingURL=bootstrap.min.css.map */
