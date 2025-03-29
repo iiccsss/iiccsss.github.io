@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: none
 title: past iterations
 nav: true
 nav_order: 7
