@@ -68,6 +68,11 @@ jobs:
           export JEKYLL_ENV=production
           bundle exec jekyll build
 
+      - name: Serve site locally 🌐
+        run: |
+          python3 -m http.server 4000 --directory _site &
+          sleep 3  # give the server time to start
+
       - name: Check for broken links 🔗
         uses: lycheeverse/lychee-action@v2.1.0
         with:
