@@ -14,6 +14,5 @@ published: true
     </div>
 </div>
 
-Eric Schulz is leading the Computational Principles of Intelligence group at MPI Tübingen. His group develops computational models of human intelligence, 
+Eric Schulz is leading the Computational Principles of Intelligence group at MPI Tübingen. His group develops computational models of human intelligence,
 with the goal to build formal theories of how people generalize from little data, explore efficiently, and find approximate solutions to complex problems.
-              

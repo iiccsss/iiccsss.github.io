@@ -15,5 +15,5 @@ published: true
 </div>
 
 Nicole Ludwig is the PI of the independent research group “Machine Learning in Sustainable Energy Systems” within the Cluster of Excellence – Machine Learning for Science at the University of Tübingen.
-Her research focuses on machine learning for problems related to sustainable energy systems, and she is especially interested in uncertainty 
+Her research focuses on machine learning for problems related to sustainable energy systems, and she is especially interested in uncertainty
 and the relationship between weather, climate and the energy system.

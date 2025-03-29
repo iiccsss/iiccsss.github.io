@@ -2,7 +2,7 @@
 layout: page
 permalink: /registration/
 title: registration
-description: 
+description:
 nav: true
 nav_order: 5
 ---
@@ -25,19 +25,24 @@ nav_order: 5
 </style>
 
 <!--<a class="btn btn-primary btn" href="https://docs.google.com/forms/d/e/1FAIpQLSeEjYg2izgcBxttCG3aYgRvPe69L7VsyzoTECD7aL-rAjlmUA/viewform?usp=sf_link">Register here!</a>-->
-We are currently planning the 2025 iteration which will take place in Darmstadt from 1st to 5th of September. 
+
+We are currently planning the 2025 iteration which will take place in Darmstadt from 1st to 5th of September.
 The registration will open in May 2025.
 
 ### Registration fees
+
 Participation in the summer school is free of charge; however, in order to confirm your registration, you will be required to pay a deposit of €20, which you will get back at the start of the summer school. Reimbursement of the deposit is only possible in case of attendance.
 
 ### Who can attend?
+
 The event is targeted mainly at bachelor's and master's students in cognitive science, neuroscience, linguistics and related fields. We also welcome people further along on their academic journey, i.e., PhD candidates and postdocs.
 
 ### Travel grants
-We give out a limited number of travel grants of max 100 Euro each. Everyone who does not live in Osnabrück is eligible; however, priority will be given to participants traveling from abroad. If you would like to apply, please register before July 31st and complete the corresponding section in the registration form. 
+
+We give out a limited number of travel grants of max 100 Euro each. Everyone who does not live in Osnabrück is eligible; however, priority will be given to participants traveling from abroad. If you would like to apply, please register before July 31st and complete the corresponding section in the registration form.
 
 ### Accommodation in Darmstadt
+
 The 2025 conference will take place in Darmstadt, further details will follow.
 
 <!--We have reserved 28 spots for the summer school participants in the hostel [Jugendherberge Osnabrück](https://www.jugendherberge.de/jugendherbergen/osnabrueck/). These are spots in shared bedrooms ranging from 2 to 6 beds that cost €42.70/night (this price includes breakfast).-->
@@ -52,4 +57,5 @@ The 2025 conference will take place in Darmstadt, further details will follow.
 <br>
 
 ### Participant contributions: Lightning talks
+
 Participation in the summer school means not only listening to the invited speakers, but also interacting with and learning from your peers! A great way to do this is to present a project you are working on as a lightning talk (≤15 min). It is not necessary to commit to giving a lightning talk during registration, but in the registration form we will ask you to indicate how likely you are to present. We will then contact you again ahead of the event, and ask you to provide the title and abstract of your talk.

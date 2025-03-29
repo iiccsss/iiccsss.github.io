@@ -5,7 +5,6 @@ title: venue
 description: University of Darmstadt
 nav: true
 nav_order: 3
-
 ---
 
 <style>
@@ -25,7 +24,7 @@ nav_order: 3
 	}
 </style>
 
-The summer school will take place at TU Darmstadt. Further details will follow. 
+The summer school will take place at TU Darmstadt. Further details will follow.
 
 <!-- <div class="row">
     <div class="col-lg-7 col-sm-7 m-auto">
@@ -35,7 +34,6 @@ The summer school will take place at TU Darmstadt. Further details will follow.
     </div>
 </div> -->
 <br>
-
 
 ### Joint dinner
 
@@ -50,4 +48,3 @@ We hope that both speakers and summer school participants will join us for dinne
     </div>
 </div> -->
 <br>
-

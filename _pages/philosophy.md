@@ -2,9 +2,9 @@
 layout: page
 permalink: /philosophy/
 title: philosophy
-description: 
+description:
 nav: false
-nav_order: 
+nav_order:
 ---
 
 ## Is this event for me?
