@@ -57,5 +57,5 @@ jobs:
                  --exclude-path _posts/2018-12-22-distill.md \
                  --exclude-path _posts/2023-04-24-videos.md \
                  --exclude-path _books/the_godfather.md \
-                 --exclude-path _includes/** \
+                 --exclude-path '_includes/**' \
                  --verbose --no-progress './**/*.md' './**/*.html'
