@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: redirect
 title: about us
 nav: true
 nav_order: 6
