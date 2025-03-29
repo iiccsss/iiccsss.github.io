@@ -1,6 +1,6 @@
 # 2023 IICCSSS Website
-The original [al-folio](https://github.com/alshedivat/al-folio) README continues below.
 
+The original [al-folio](https://github.com/alshedivat/al-folio) README continues below.
 
 <details>
   <summary>al-folio</summary>
@@ -243,7 +243,7 @@ $ docker-compose -f docker-local.yml up
 
 #### Local Setup (Standard)
 
-Assuming you have [Ruby](https://www.ruby-lang.org/en/downloads/) and [Bundler](https://bundler.io/) installed on your system (*hint: for ease of managing ruby gems, consider using [rbenv](https://github.com/rbenv/rbenv)*).
+Assuming you have [Ruby](https://www.ruby-lang.org/en/downloads/) and [Bundler](https://bundler.io/) installed on your system (_hint: for ease of managing ruby gems, consider using [rbenv](https://github.com/rbenv/rbenv)_).
 
 ```bash
 $ bundle install
@@ -282,7 +282,6 @@ Starting version [v0.3.5](https://github.com/alshedivat/al-folio/releases/tag/v0
 3. Make any other changes to your webpage, commit, and push. This will automatically trigger the **Deploy** action.
 4. Wait for a few minutes and let the action complete. You can see the progress in the **Actions** tab. If completed successfully, in addition to the `master` branch, your repository should now have a newly built `gh-pages` branch.
 5. Finally, in the **Settings** of your repository, in the Pages section, set the branch to `gh-pages` (**NOT** to `master`). For more details, see [Configuring a publishing source for your GitHub Pages site](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#choosing-a-publishing-source).
-
 
 <details><summary>(click to expand) <strong>Manual deployment to GitHub Pages:</strong></summary>
 
@@ -348,9 +347,9 @@ If you installed **al-folio** as described above, you can configure a [GitHub ac
 ```yaml
 name: Sync from template
 on:
-    # cronjob trigger
+  # cronjob trigger
   schedule:
-  - cron:  "0 0 1 * *"
+    - cron: "0 0 1 * *"
   # manual trigger
   workflow_dispatch:
 jobs:
@@ -406,8 +405,8 @@ If you have a different question, please ask using [Discussions](https://github.
    (Relevant issue: [130](https://github.com/alshedivat/al-folio/issues/130).)
 
 3. **Q:** My webpage works locally.
-    But after deploying, it is not displayed correctly (CSS and JS is not loaded properly).
-    How do I fix that? <br>
+   But after deploying, it is not displayed correctly (CSS and JS is not loaded properly).
+   How do I fix that? <br>
    **A:** Make sure to correctly specify the `url` and `baseurl` paths in `_config.yml`.
    Set `url` to `https://<your-github-username>.github.io` or to `https://<your.custom.domain>` if you are using a custom domain.
    If you are deploying a personal or organization website, leave `baseurl` blank.
@@ -416,8 +415,8 @@ If you have a different question, please ask using [Discussions](https://github.
 4. **Q:** Atom feed doesn't work. Why?
    <br>
    **A:** Make sure to correctly specify the `url` and `baseurl` paths in `_config.yml`.
-  RSS Feed plugin works with these correctly set up fields: `title`, `url`, `description` and `author`.
-  Make sure to fill them in an appropriate way and try again.
+   RSS Feed plugin works with these correctly set up fields: `title`, `url`, `description` and `author`.
+   Make sure to fill them in an appropriate way and try again.
 
 5. **Q:** My site doesn't work when I enable `related_blog_posts`. Why? <br>
    **A:** This is probably due to the [classifier reborn](https://github.com/jekyll/classifier-reborn) plugin, which is used to calculate
@@ -481,7 +480,7 @@ If the entry matches one of the combinations of the last names and the first nam
 
 There are several custom bibtex keywords that you can use to affect how the entries are displayed on the webpage:
 
-- `abbr`: Adds an abbreviation to the left of the entry. You can add links to these by creating a venue.yaml-file in the _data folder and adding entries that match.
+- `abbr`: Adds an abbreviation to the left of the entry. You can add links to these by creating a venue.yaml-file in the \_data folder and adding entries that match.
 - `abstract`: Adds an "Abs" button that expands a hidden text field when clicked to show the abstract text
 - `arxiv`: Adds a link to the Arxiv website (Note: only add the arxiv identifier here - the link is generated automatically)
 - `bibtex_show`: Adds a "Bib" button that expands a hidden text field with the full bibliography entry
@@ -498,15 +497,16 @@ There are several custom bibtex keywords that you can use to affect how the entr
 
 You can implement your own buttons by editing the bib.html file.
 
-</details>
-=======
+# </details>
+
       - [Code quality checks](#code-quality-checks)
-  - [FAQ](#faq)
-  - [Contributing](#contributing)
-    - [Maintainers](#maintainers)
-    - [All Contributors](#all-contributors)
-  - [Star History](#star-history)
-  - [License](#license)
+
+- [FAQ](#faq)
+- [Contributing](#contributing)
+  - [Maintainers](#maintainers)
+  - [All Contributors](#all-contributors)
+- [Star History](#star-history)
+- [License](#license)
 
 ## Getting started
 
@@ -558,7 +558,8 @@ Your publications' page is generated automatically from your BibTex bibliography
 You can add extra information to a publication, like a PDF file in the [assets/pdf/](assets/pdf/) directory and add the path to the PDF file in the BibTeX entry with the `pdf` field. Some of the supported fields are: `abstract`, `altmetric`, `arxiv`, `bibtex_show`, `blog`, `code`, `dimensions`, `doi`, `eprint`, `html`, `isbn`, `pdf`, `pmid`, `poster`, `slides`, `supp`, `video`, and `website`.
 
 [![Publications Preview](readme_preview/publications.png)](https://alshedivat.github.io/al-folio/publications/)
->>>>>>> original/main
+
+> > > > > > > original/main
 
 ---
 
@@ -625,30 +626,23 @@ You may also use the following codes for displaying this in any other pages.
 <!-- code for GitHub users -->
 {% if site.data.repositories.github_users %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.html username=user %}
-  {% endfor %}
+  {% for user in site.data.repositories.github_users %} {% include repository/repo_user.html username=user %} {% endfor %}
 </div>
 {% endif %}
 
 <!-- code for GitHub trophies -->
-{% if site.repo_trophies.enabled %}
-{% for user in site.data.repositories.github_users %}
-  {% if site.data.repositories.github_users.size > 1 %}
-  <h4>{{ user }}</h4>
-  {% endif %}
-  <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% include repository/repo_trophies.html username=user %}
-  </div>
-{% endfor %}
+{% if site.repo_trophies.enabled %} {% for user in site.data.repositories.github_users %} {% if site.data.repositories.github_users.size > 1 %}
+<h4>{{ user }}</h4>
 {% endif %}
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% include repository/repo_trophies.html username=user %}
+</div>
+{% endfor %} {% endif %}
 
 <!-- code for GitHub repositories -->
 {% if site.data.repositories.github_repos %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.html repository=repo %}
-  {% endfor %}
+  {% for repo in site.data.repositories.github_repos %} {% include repository/repo.html repository=repo %} {% endfor %}
 </div>
 {% endif %}
 ```

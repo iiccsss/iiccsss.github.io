@@ -17,9 +17,10 @@ published: true
 Noah D. Goodman is an Associate Professor of Psychology and Computer Science, and Linguistics (by courtesy), at Stanford University where he leads the[ Computation & Cognition lab](https://cocolab.stanford.edu/).
 
 His research interests include:
-* Computational models of cognition.
-* Probabilistic programming languages.
-* Natural language semantics and pragmatics.
-* Concepts, categorization, and intuitive theories.
-* Social cognition: reasoning about others’ traits, states, and actions.
-* Cognitive development, especially the acquisition of abstract knowledge.
+
+- Computational models of cognition.
+- Probabilistic programming languages.
+- Natural language semantics and pragmatics.
+- Concepts, categorization, and intuitive theories.
+- Social cognition: reasoning about others’ traits, states, and actions.
+- Cognitive development, especially the acquisition of abstract knowledge.

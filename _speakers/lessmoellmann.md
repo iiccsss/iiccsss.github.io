@@ -15,4 +15,3 @@ published: true
 </div>
 
 Prof. Dr. Annette Leßmöllmann studied Linguistics, Philosophy and History in Vienna and Berlin. She holds a PhD in Linguistics from Hamburg University, for which she investigated the linguistics of shape-adjectives ("Warum der Ball rund ist: eine linguistische Analyse von Formadjektiven"). Since 2013, she has been a Professor of Science Communication with a focus on Linguistics at Karlsruher Institut für Technologie (KIT), where she teaches in the Bachelor- and Master-programmes "Science – Media – Communication". She is also involved with RHET AI, the Center for Rhetorical Science Communication Research on Artificial Intelligence.
-

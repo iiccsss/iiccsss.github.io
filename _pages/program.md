@@ -8,7 +8,6 @@ nav_order: 2
 published: true
 ---
 
-
 <table class="table table-bordered">
   <thead>
     <tr>
