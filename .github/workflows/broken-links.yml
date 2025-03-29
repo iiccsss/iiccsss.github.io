@@ -77,4 +77,4 @@ jobs:
         uses: lycheeverse/lychee-action@v2.1.0
         with:
           fail: true
-          args: --user-agent 'curl/7.54' --exclude '.*\.webp$' --verbose --no-progress http://localhost:4000 #./_site/**/*.html
+          args: --user-agent 'curl/7.54' --verbose --no-progress http://localhost:4000 #./_site/**/*.html
