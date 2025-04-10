@@ -26,7 +26,7 @@ published: true
         <td markdown="span" class="schedule-participants"> **Lightning talks** </td>
         <td markdown="span" class="schedule-workshop"> **Workshop** <br> Loes van Dam </td>
         <td markdown="span" rowspan="3" class="schedule-hackathon"> **Hackathon** </td>
-        <td markdown="span" rowspan="2" class="schedule-hackathon"> **Project Presentations** </td>
+        <td markdown="span" rowspan="3" class="schedule-hackathon"> **Project Presentations** </td>
     </tr>
     <tr>
         <td> 10:30 – 10:45 </td>
@@ -39,7 +39,6 @@ published: true
         <td markdown="span" class="schedule-participants"> **Introduction and Welcome Games** </td>
         <td markdown="span" class="schedule-talk"> **Talk** <br> TBA </td>
         <td markdown="span" class="schedule-talk"> **Talk** <br> Alexander Gail </td>
-        <td markdown="span" class="schedule-talk"> **Talk** <br> TBA </td>
     </tr>
     <tr>
         <td> 11:45 – 13:30 </td>
@@ -55,10 +54,11 @@ published: true
         <td markdown="span" rowspan="3" class="schedule-workshop"> **Workshop** <br> Vildan Salikutluk </td>
         <td markdown="span" class="schedule-participants"> **Poster Session** </td>
         <td markdown="span" rowspan="7" class="schedule-hackathon"> **Hackathon** </td>
-        <td markdown="span" class="schedule-talk"> **Closing Remarks** </td>
+        <td markdown="span" class="schedule-talk"> **Talk** <br> Ute Schmid </td>
     </tr>
     <tr>
         <td> 14:30 – 14:45 </td>
+        <td markdown="span" class="schedule-break"> **Break** </td>
         <td markdown="span" class="schedule-break"> **Break** </td>
         <td markdown="span" class="schedule-break"> **Break** </td>
     </tr>
@@ -66,6 +66,7 @@ published: true
       <td> 14:45 – 15:00 </td>
       <td markdown="span" rowspan="2" class="schedule-talk"> **Talk** <br> Martin Hebart </td>
       <td markdown="span" rowspan="2" class="schedule-talk"> **Talk** <br> TBA </td>
+      <td markdown="span" class="schedule-talk"> **Closing Remarks** </td>
     </tr>
     <tr>
         <td> 15:45 – 15:45 </td>
