@@ -34,6 +34,12 @@ nav_order: 4
         img="assets/img/speakers/male_placeholder.jpg"
     %}
     {% include people.liquid
+        name="Katharina Lüth"
+        affiliation="University Osnabrück"
+        url="https://www.ikw.uni-osnabrueck.de/en/research_groups/neuroinformatics/people/msc_katharina_lueth.html"
+        img="assets/img/speakers/female_placeholder.jpg"
+    %}
+    {% include people.liquid
         name="Vildan Salikutluk"
         affiliation="TU Darmstadt"
         url="https://www.psychologie.tu-darmstadt.de/models-of-higher-cognition/mod/members_mhc/members_mhc_detail_59392.en.jsp"

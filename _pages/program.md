@@ -37,7 +37,7 @@ published: true
     <tr>
         <td> 10:45 – 11:45 </td>
         <td markdown="span" class="schedule-participants"> **Introduction and Welcome Games** </td>
-        <td markdown="span" class="schedule-talk"> **Talk** <br> TBA </td>
+        <td markdown="span" class="schedule-talk"> **Talk** <br> Katharina Lüth </td>
         <td markdown="span" class="schedule-talk"> **Talk** <br> Alexander Gail </td>
     </tr>
     <tr>
