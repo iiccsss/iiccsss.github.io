@@ -24,7 +24,7 @@ nav_order: 3
 	}
 </style>
 
-The summer school will take place at TU Darmstadt. Further details will follow.
+The summer school will take place at TU Darmstadt. We will use standard lecture halls and seminar rooms for the summer school. Further details (address, room numbers) will follow.
 
 <!-- <div class="row">
     <div class="col-lg-7 col-sm-7 m-auto">
@@ -37,7 +37,7 @@ The summer school will take place at TU Darmstadt. Further details will follow.
 
 ### Joint dinner
 
-As every year we plan to have a dinner with the speakers and participants. Further details will follow.
+As every year we plan to have a dinner with the speakers and participants. This year's dinner will take place at the amazing Hacienda Mexian Restaurant (https://haciendarestaurant.de/). There will be a menu with several choices for starter, main course, and dessert, and with one drink included, for 33 Euro, corresponding to the deposit (see [registration](https://www.iiccsss.org/registration/)). You can sign up for the dinner in the registration form (if you cannot make it, please let us know until 1 week before the summer school, and you will get the deposit back as everyone not taking part in the dinner).
 
 <!-- <div class="row">
 We hope that both speakers and summer school participants will join us for dinner at [Weinkrüger](https://www.weinkrüger.de) (Marienstraße 18, 49074 Osnabrück) on Wednesday, 11 September, at 18.30.
