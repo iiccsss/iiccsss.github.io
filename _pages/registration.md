@@ -39,7 +39,7 @@ The event is targeted mainly at bachelor's and master's students in cognitive sc
 
 ### Travel grants
 
-We give out a limited number of travel grants of max 100 Euro each. Everyone who does not live in Osnabrück is eligible; however, priority will be given to participants traveling from abroad. If you would like to apply, please register before July 31st and complete the corresponding section in the registration form.
+We give out a limited number of travel grants. Everyone who does not live in Darmstadt is eligible; however, priority will be given to participants traveling from abroad. If you would like to apply, please register before June 31st and complete the corresponding section in the registration form.
 
 ### Accommodation in Darmstadt
 
