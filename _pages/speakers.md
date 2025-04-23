@@ -2,7 +2,7 @@
 layout: page
 title: speakers
 permalink: /speakers/
-description: Speakers for IICCSSS 2025 are researchers from diverse subfields of computational cognitive science
+description: Speakers for IICCSSS 2025 are researchers from diverse subfields of computational cognitive science.
 nav: true
 nav_order: 4
 ---
@@ -36,8 +36,8 @@ nav_order: 4
     {% include people.liquid
         name="Katharina Lüth"
         affiliation="University Osnabrück"
-        url="https://www.ikw.uni-osnabrueck.de/en/research_groups/neuroinformatics/people/msc_katharina_lueth.html"
-        img="assets/img/speakers/female_placeholder.jpg"
+        url="https://katharinalueth.com"
+        img="assets/img/speakers/2025/katharinalueth.jpg"
     %}
     {% include people.liquid
         name="Vildan Salikutluk"
