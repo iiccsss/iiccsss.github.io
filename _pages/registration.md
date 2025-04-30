@@ -24,10 +24,10 @@ nav_order: 5
 	}
 </style>
 
-<!--<a class="btn btn-primary btn" href="https://docs.google.com/forms/d/e/1FAIpQLSeEjYg2izgcBxttCG3aYgRvPe69L7VsyzoTECD7aL-rAjlmUA/viewform?usp=sf_link">Register here!</a>-->
+<a class="btn btn-primary btn" href="https://forms.office.com/e/XWMc4McidD">Register here!</a>
 
-We are currently planning the 2025 iteration which will take place in Darmstadt from 1st to 5th of September.
-The registration will open in May 2025.
+<!-- We are currently planning the 2025 iteration which will take place in Darmstadt from 1st to 5th of September. -->
+<!-- The registration will open in May 2025. -->
 
 ### Registration fees
 
