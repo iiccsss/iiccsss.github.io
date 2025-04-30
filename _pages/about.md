@@ -30,7 +30,9 @@ In the past years, the summer school was supported by [Universitätsgesellschaft
 
 ### Key dates
 
-- 2025/05/01 (tentative): Registration opens
+- 2025/05/01: Registration opens
+- 2025/06/30: Deadline for travel grant applications
+- 2025/07/15: Registration deadline (if there is enough space, further registrations will be considered on a rolling basis)
 - 2025/09/01: Start of the summer school!
 
 ### Speakers
@@ -39,3 +41,6 @@ In the past years, the summer school was supported by [Universitätsgesellschaft
 - Martin Hebart (University of Gießen, MPI Leipzig)
 - Loes van Dam (TU Darmstadt)
 - Alexander Gail (University Göttingen)
+- Katharina Lüth (University Osnabrück)
+- Vildan Salikutlik (TU Darmstadt)
+- Ute Schmid (University of Bamberg)
