@@ -51,7 +51,7 @@ published: true
     <tr>
         <td> 13:30 – 14:30 </td>
         <td markdown="span" class="schedule-talk"> **Talk** <br> Constantin Rothkopf </td>
-        <td markdown="span" rowspan="3" class="schedule-workshop"> **Workshop** <br> Vildan Salikutluk </td>
+        <td markdown="span" rowspan="1" class="schedule-talk"> **Talk** <br> Vildan Salikutluk </td>
         <td markdown="span" class="schedule-participants"> **Poster Session** </td>
         <td markdown="span" rowspan="7" class="schedule-hackathon"> **Hackathon** </td>
         <td markdown="span" class="schedule-talk"> **Talk** <br> Ute Schmid </td>
@@ -61,16 +61,17 @@ published: true
         <td markdown="span" class="schedule-break"> **Break** </td>
         <td markdown="span" class="schedule-break"> **Break** </td>
         <td markdown="span" class="schedule-break"> **Break** </td>
+        <td markdown="span" class="schedule-break"> **Break** </td>
     </tr>
     <tr>
       <td> 14:45 – 15:00 </td>
       <td markdown="span" rowspan="2" class="schedule-talk"> **Talk** <br> Martin Hebart </td>
+      <td markdown="span" rowspan="4" class="schedule-participants"> **Lab Tours** </td>
       <td markdown="span" rowspan="2" class="schedule-talk"> **Talk** <br> TBA </td>
       <td markdown="span" class="schedule-talk"> **Closing Remarks** </td>
     </tr>
     <tr>
-        <td> 15:45 – 15:45 </td>
-        <td markdown="span" rowspan="3" class="schedule-participants"> **Lab Tours** </td>
+        <td> 15:00 – 15:45 </td>
     </tr>
     <tr>
         <td> 15:45 – 16:00 </td>
