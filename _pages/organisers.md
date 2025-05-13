@@ -59,6 +59,16 @@ nav_order:
             </div>
         </div>
     </div>
+        <div class="col-auto mb-3">
+        <div class="card h-100" style="width: 14rem;">
+          <img src="/assets/img/organisers/VictoriaPierz.jpg" class="card-img-top" alt="Victoria Pierz">
+            <div class="card-body">
+              <h5 class="card-title">Victoria Pierz</h5>
+                <h6 class="card-subtitle mb-2 text-muted">University of Tübingen</h6>
+                <p class="card-text">victoria.pierz[at]student.uni-tuebingen.de</p>
+            </div>
+        </div>
+    </div>
     <div class="col-auto mb-3">
         <div class="card h-100" style="width: 14rem;">
           <img src="/assets/img/organisers/CelineHonekamp.jpg" class="card-img-top" alt="Celine Honekamp">
