@@ -30,7 +30,7 @@ We are currently planning the 2025 iteration which will take place in Darmstadt 
 
 ### Registration fees
 
-Participation in the summer school is free of charge; however, in order to confirm your registration, you will be required to pay a deposit of €33, which you will get back at the start of the summer school. Reimbursement of the deposit is only possible in case of attendance. If you join the conference dinner on Wednesday, the deposit will be used to cover the dinner. 
+Participation in the summer school is free of charge; however, in order to confirm your registration, you will be required to pay a deposit of €33, which you will get back at the start of the summer school. Reimbursement of the deposit is only possible in case of attendance. If you join the conference dinner on Wednesday, the deposit will be used to cover the dinner.
 
 ### Who can attend?
 
