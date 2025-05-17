@@ -11,22 +11,12 @@ nav_order:
 <div class="row justify-content-left">
     <div class="col-auto mb-3">
         <div class="card h-100" style="width: 14rem;">
-          <img src="/assets/img/organisers/thomasklein.jpg" class="card-img-top" alt="Thomas Klein">
+          <img src="/assets/img/organisers/thomasklein.jpeg" class="card-img-top" alt="Thomas Klein">
             <div class="card-body">
               <h5 class="card-title">Thomas Klein</h5>
               <h6 class="card-subtitle mb-2 text-muted">University of Tübingen & Max Planck Institute for Intelligent Systems</h6>
                 <p class="card-text">t.klein [at] uni-tuebingen.de</p>
             </div>
-        </div>
-    </div>
-        <div class="col-auto mb-3">
-      <div class="card h-100" style="width: 14rem;">
-        <img src="/assets/img/organisers/manarali.jpg" class="card-img-top" alt="Manar Ali">
-          <div class="card-body">
-            <h5 class="card-title">Manar Ali</h5>
-            <h6 class="card-subtitle mb-2 text-muted">University of Osnabrück</h6>
-            <p class="card-text">maali [at] uni-osnabrueck.de</p>
-          </div>
         </div>
     </div>
     <div class="col-auto mb-3">
@@ -81,15 +71,6 @@ nav_order:
     </div>
     <div class="col-auto mb-3">
         <div class="card h-100" style="width: 14rem;">
-            <div class="card-body">
-              <h5 class="card-title">Lingyue Chen</h5>
-                <h6 class="card-subtitle mb-2 text-muted">Centre for Cognitive Science, Technical University of Darmstadt</h6>
-                <p class="card-text">lingyue.chen[at]tu-darmstadt.de</p>
-            </div>
-        </div>
-    </div>
-    <div class="col-auto mb-3">
-        <div class="card h-100" style="width: 14rem;">
           <img src="/assets/img/organisers/SwantjeMahncke.jpg" class="card-img-top" alt="Swantje Mahncke">
             <div class="card-body">
               <h5 class="card-title">Swantje Mahncke</h5>
@@ -110,21 +91,32 @@ nav_order:
     </div>
     <div class="col-auto mb-3">
         <div class="card h-100" style="width: 14rem;">
-            <div class="card-body">
-              <h5 class="card-title">Kai Streiling</h5>
-                <h6 class="card-subtitle mb-2 text-muted">Centre for Cognitive Science, Technical University of Darmstadt</h6>
-                <p class="card-text">kai.streiling[at]tu-darmstadt.de</p>
-            </div>
-        </div>
-    </div>
-    <div class="col-auto mb-3">
-        <div class="card h-100" style="width: 14rem;">
           <img src="/assets/img/organisers/FabianTatai.jpeg" class="card-img-top" alt="Fabian Tatai">
             <div class="card-body">
               <h5 class="card-title">Fabian Tatai</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Centre for Cognitive Science, Technical University of Darmstadt</h6>
                 <p class="card-text">fabian.tatai[at]tu-darmstadt.de</p>
             </div>
+        </div>
+    </div>
+        <div class="col-auto mb-3">
+        <div class="card h-100" style="width: 14rem;">
+         <img src="/assets/img/speakers/female_placeholder.png" class="card-img-top" alt="Lingyue Chen">
+            <div class="card-body">
+              <h5 class="card-title">Lingyue Chen</h5>
+                <h6 class="card-subtitle mb-2 text-muted">Centre for Cognitive Science, Technical University of Darmstadt</h6>
+                <p class="card-text">lingyue.chen[at]tu-darmstadt.de</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-auto mb-3">
+        <div class="card h-100" style="width: 14rem;">
+          <img src="/assets/img/speakers/male_placeholder.png" class="card-img-top" alt="Kai Streiling">
+          <div class="card-body">
+            <h5 class="card-title">Kai Streiling</h5>
+              <h6 class="card-subtitle mb-2 text-muted">Centre for Cognitive Science, Technical University of Darmstadt</h6>
+              <p class="card-text">kai.streiling[at]tu-darmstadt.de</p>
+          </div>
         </div>
     </div>
 </div>
@@ -155,7 +147,17 @@ nav_order:
             </div>
         </div>
     </div>
-        <div class="col-auto mb-3">
+    <div class="col-auto mb-3">
+      <div class="card h-100" style="width: 14rem;">
+        <img src="/assets/img/organisers/manarali.jpg" class="card-img-top" alt="Manar Ali">
+          <div class="card-body">
+            <h5 class="card-title">Manar Ali</h5>
+            <h6 class="card-subtitle mb-2 text-muted">University of Osnabrück</h6>
+            <p class="card-text">maali [at] uni-osnabrueck.de</p>
+          </div>
+        </div>
+    </div>
+    <div class="col-auto mb-3">
       <div class="card h-100" style="width: 14rem;">
         <img src="/assets/img/organisers/pelinkomurluoglu.jpg" class="card-img-top" alt="Pelin Kömürlüoglu">
           <div class="card-body">
