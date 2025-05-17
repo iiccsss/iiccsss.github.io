@@ -13,7 +13,7 @@ nav_order: 4
         name="Constantin Rothkopf"
         affiliation="TU Darmstadt"
         url="https://www.pip.tu-darmstadt.de/members_pip/publications.en.jsp"
-        img="assets/img/speakers/male_placeholder.jpg"
+        img="assets/img/speakers/2025/constantinrothkopf.jpg"
     %}
     {% include people.liquid
         name="Martin Hebart"
