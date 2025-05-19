@@ -26,6 +26,14 @@ The International Interdisciplinary Computational Cognitive Science Summer Schoo
 
 **In 2025, IICCSSS will take place in Darmstadt, from 1st to 5th of September 2025**. In addition to [invited talks and workshops](/speakers/), the summer school will include a tour of research labs, a panel discussion, a contributed talks session, a hackathon, and a city rallye. Full program will soon be available [here](/program/).
 
+**IICCSSS 2025 is co-organized by [ELIZA](https://www.tu-darmstadt.de/forschen/forschungsfelder/information_intelligence_ii/eliza/eliza.en.jsp)**. The Konrad Zuse School of Excellence in Learning and Intelligent Systems (ELIZA) is a graduate school in the field of AI, funded by the German Academic Exchange Service (DAAD).
+
+<div style="text-align: center;">
+  <a href="https://www.tu-darmstadt.de/forschen/forschungsfelder/information_intelligence_ii/eliza/eliza.en.jsp" target="_blank" rel="noopener noreferrer">
+    <img src="assets/img/eliza_logo.svg" alt="ELIZA" height="150">
+  </a>
+</div>
+
 In the past years, the summer school was supported by [Universitätsgesellschaft Osnabrück e.V.](https://www.uni-osnabrueck.de/universitaet/foerderung-und-sponsoring/kreis-der-foerderer/universitaetsgesellschaft/), the [Begegnungszonen](https://www.joachim-herz-stiftung.de/was-wir-tun/naturwissenschaften-begreifen/wissenschaftlicher-nachwuchs/begegnungszonen) of the [Joachim Herz Stiftung](https://www.joachim-herz-stiftung.de/en), and the Computational Cognitive Science Colloquium e.V.
 
 ### Key dates
