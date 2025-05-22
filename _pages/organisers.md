@@ -2,13 +2,25 @@
 layout: page
 title: organisers
 permalink: /organisers/
-description: IICCSSS is organised by a team of graduate students
+description: IICCSSS 2025 is co-organised by a team of graduate students, and ELIZA.
 nav: false
 nav_order:
 ---
 
 <!-- pages/organisers.md -->
 <div class="row justify-content-left">
+    <div class="col-auto mb-3">
+        <div class="card h-100" style="width: 14rem;">
+          <a href="https://www.tu-darmstadt.de/forschen/forschungsfelder/information_intelligence_ii/eliza/eliza.en.jsp" target="_blank" rel="noopener noreferrer">
+            <img src="/assets/img/eliza_profile.png" class="card-img-top" alt="ELIZA">
+          </a>
+            <div class="card-body">
+              <h5 class="card-title">ELIZA</h5>
+              <h6 class="card-subtitle mb-2 text-muted">Konrad Zuse School of Excellence in Learning and Intelligent Systems</h6>
+                <p class="card-text"></p>
+            </div>
+        </div>
+    </div>
     <div class="col-auto mb-3">
         <div class="card h-100" style="width: 14rem;">
           <img src="/assets/img/organisers/thomasklein.jpeg" class="card-img-top" alt="Thomas Klein">
