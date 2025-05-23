@@ -26,7 +26,7 @@ nav_order: 5
 
 <a class="btn btn-primary btn" href="https://forms.office.com/e/XWMc4McidD">Register here!</a>
 
-IICCSSS 2025 will take place in Darmstadt from 1st to 5th of September. The registration is open!.
+IICCSSS 2025 will take place in Darmstadt from 1st to 5th of September. Registration is open!
 
 ### Registration fees
 
