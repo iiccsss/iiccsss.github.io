@@ -39,6 +39,12 @@ nav_order: 4
         url="https://katharinalueth.com"
         img="assets/img/speakers/2025/katharinalueth.jpg"
     %}
+        {% include people.liquid
+        name="Vignesh Prasad"
+        affiliation="TU Darmstadt"
+        url="https://www.ias.informatik.tu-darmstadt.de/Team/VigneshPrasad"
+        img="assets/img/speakers/2025/vigneshprasad.png"
+    %}
     {% include people.liquid
         name="Vildan Salikutluk"
         affiliation="TU Darmstadt"

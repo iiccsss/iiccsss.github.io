@@ -67,7 +67,7 @@ published: true
       <td> 14:45 – 15:00 </td>
       <td markdown="span" rowspan="2" class="schedule-talk"> **Talk** <br> Martin Hebart </td>
       <td markdown="span" rowspan="4" class="schedule-participants"> **Lab Tours** </td>
-      <td markdown="span" rowspan="2" class="schedule-talk"> **Talk** <br> TBA </td>
+      <td markdown="span" rowspan="2" class="schedule-talk"> **Talk** <br> Vignesh Prasad </td>
       <td markdown="span" class="schedule-talk"> **Closing Remarks** </td>
     </tr>
     <tr>
