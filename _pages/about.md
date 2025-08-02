@@ -40,7 +40,6 @@ In the past years, the summer school was supported by [Universitätsgesellschaft
 
 - 2025/05/01: Registration opens
 - 2025/06/30: Deadline for travel grant applications
-- 2025/07/15: Registration deadline (if there is enough space, further registrations will be considered on a rolling basis)
 - 2025/09/01: Start of the summer school!
 
 ### Speakers

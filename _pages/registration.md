@@ -40,8 +40,10 @@ The event is targeted mainly at Bachelor's and Master's students in cognitive sc
 
 ### Travel grants
 
+**UPDATE**: Application for travel grants is closed.
+
 We give out a limited number of travel grants. Everyone who does not live in Darmstadt is eligible; however, priority will be given to participants traveling from abroad. If you would like to apply, please register before June 30th and complete the corresponding section in the registration form. 
-We are still working on the details of the travel grant and will inform you once the exact conditions are finalized. We will almost certainly **not** be able to cover flights. In earlier iterations, we were able to offer 10 travel grants of €100 each and hope that it will be similar this year. If your attendance is contingent on receiving such a travel grant, and you’re unsure what to do, just sign up for now and let us know via mail.
+<!-- We are still working on the details of the travel grant and will inform you once the exact conditions are finalized. We will almost certainly **not** be able to cover flights. In earlier iterations, we were able to offer 10 travel grants of €100 each and hope that it will be similar this year. If your attendance is contingent on receiving such a travel grant, and you’re unsure what to do, just sign up for now and let us know via mail. -->
 
 
 ### Accommodation in Darmstadt
