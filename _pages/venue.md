@@ -2,7 +2,7 @@
 layout: page
 permalink: /venue/
 title: venue
-description: University of Darmstadt
+description: The summer school will take place at TU Darmstadt
 nav: true
 nav_order: 3
 ---
@@ -24,13 +24,11 @@ nav_order: 3
 	}
 </style>
 
-The summer school will take place at TU Darmstadt. 
-
-Main Venue:
+### Main Venue
 S1|03, Altes Hauptgebäude, Hochschulstraße 1, 64289 Darmstadt
-Talks: room 223 
-Break: room 126
-Hackathon: rooms 100, 116, 104 and 113
+- Talks: room 223 
+- Break: room 126
+- Hackathon: rooms 100, 116, 104 and 113
 
 <div class="row">
     <div class="col-lg-7 col-sm-7 m-auto">
@@ -40,10 +38,10 @@ Hackathon: rooms 100, 116, 104 and 113
     </div>
 </div>
 
-One of the lab tours & poster session:
+### Poster Session & One Lab Tour:
 S1|15, Institute for Psychology, Alexanderstr. 10, 64283 Darmstadt
-Poster session: room 127
-One of the lab tours will be here.
+- Poster session: room 127
+- One lab tour will start here
 
 <div class="row">
     <div class="col-lg-7 col-sm-7 m-auto">
@@ -52,13 +50,6 @@ One of the lab tours will be here.
  		</div>
     </div>
 </div>
-<!-- <div class="row">
-    <div class="col-lg-7 col-sm-7 m-auto">
-        <div class="map-container">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2440.662773365469!2d8.022473112870856!3d52.28582397188382!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b9e5dc94d63ad7%3A0x30139733bba9a7a9!2sOsnabrueck%20University%20Building%2032%20-%20Physics!5e0!3m2!1sen!2snl!4v1717098419326!5m2!1sen!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-        </div>
-    </div>
-</div> -->
 <br>
 
 ### Joint dinner
