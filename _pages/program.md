@@ -22,11 +22,11 @@ published: true
   <tbody>
     <tr>
         <td> 9:30 – 10:30 </td>
-        <td markdown="span" class="schedule-participants"> **Registration** </td>
-        <td markdown="span" class="schedule-participants"> **Lightning talks** </td>
-        <td markdown="span" class="schedule-talk"> **Talk** <br> Loes van Dam </td>
-        <td markdown="span" rowspan="3" class="schedule-hackathon"> **Hackathon** </td>
-        <td markdown="span" rowspan="3" class="schedule-hackathon"> **Project Presentations** </td>
+        <td markdown="span" class="schedule-participants"> **Registration** <br> (Room 126) </td>
+        <td markdown="span" class="schedule-participants"> **Lightning talks** <br> (Room 223) </td>
+        <td markdown="span" class="schedule-talk"> **Talk** <br> Loes van Dam (Room 223) </td>
+        <td markdown="span" rowspan="3" class="schedule-hackathon"> **Hackathon** <br> (Rooms 100, 104, 113, 116)</td>
+        <td markdown="span" rowspan="3" class="schedule-hackathon"> **Project Presentations** <br> (Room 223)</td>
     </tr>
     <tr>
         <td> 10:30 – 10:45 </td>
@@ -37,8 +37,8 @@ published: true
     <tr>
         <td> 10:45 – 11:45 </td>
         <td markdown="span" class="schedule-participants"> **Introduction and Welcome Games** </td>
-        <td markdown="span" class="schedule-talk"> **Talk** <br> Katharina Lüth </td>
-        <td markdown="span" class="schedule-talk"> **Talk** <br> Alexander Gail </td>
+        <td markdown="span" class="schedule-talk"> **Talk** <br> Katharina Lüth <br> (Room 223)</td>
+        <td markdown="span" class="schedule-talk"> **Talk** <br> Alexander Gail <br> (Room 223)</td>
     </tr>
     <tr>
         <td> 11:45 – 13:30 </td>
@@ -50,11 +50,11 @@ published: true
     </tr>
     <tr>
         <td> 13:30 – 14:30 </td>
-        <td markdown="span" class="schedule-talk"> **Talk** <br> Constantin Rothkopf </td>
-        <td markdown="span" rowspan="1" class="schedule-talk"> **Talk** <br> Vildan Salikutluk </td>
-        <td markdown="span" class="schedule-participants"> **Poster Session** </td>
-        <td markdown="span" rowspan="7" class="schedule-hackathon"> **Hackathon** </td>
-        <td markdown="span" class="schedule-talk"> **Talk** <br> Ute Schmid </td>
+        <td markdown="span" class="schedule-talk"> **Talk** <br> Constantin Rothkopf <br> (Room 223) </td>
+        <td markdown="span" rowspan="1" class="schedule-talk"> **Talk** <br> Vildan Salikutluk <br> (Room 223)</td>
+        <td markdown="span" class="schedule-participants"> **Poster Session** <br> (Psychology Institute, Room 127)</td>
+        <td markdown="span" rowspan="7" class="schedule-hackathon"> **Hackathon** <br> (Rooms 100, 104, 113, 116)</td>
+        <td markdown="span" class="schedule-talk"> **Talk** <br> Ute Schmid <br> (Room 223)</td>
     </tr>
     <tr>
         <td> 14:30 – 14:45 </td>
@@ -65,9 +65,9 @@ published: true
     </tr>
     <tr>
       <td> 14:45 – 15:00 </td>
-      <td markdown="span" rowspan="2" class="schedule-talk"> **Talk** <br> Martin Hebart </td>
+      <td markdown="span" rowspan="2" class="schedule-talk"> **Talk** <br> Martin Hebart <br> (Room 223)</td>
       <td markdown="span" rowspan="4" class="schedule-participants"> **Lab Tours** </td>
-      <td markdown="span" rowspan="2" class="schedule-talk"> **Talk** <br> Vignesh Prasad </td>
+      <td markdown="span" rowspan="2" class="schedule-talk"> **Talk** <br> Vignesh Prasad <br> (Room 223)</td>
       <td markdown="span" class="schedule-talk"> **Closing Remarks** </td>
     </tr>
     <tr>
@@ -80,8 +80,8 @@ published: true
     </tr>
     <tr>
         <td> 16:00 – 17:00 </td>
-        <td markdown="span" class="schedule-hackathon"> **Hackathon Introduction** </td>
-        <td markdown="span" class="schedule-talk"> **Panel discussion** </td>
+        <td markdown="span" class="schedule-hackathon"> **Hackathon Introduction** <br> (Room 223)</td>
+        <td markdown="span" class="schedule-talk"> **Panel discussion** <br> (Room 223)</td>
     </tr>
     <tr>
         <td> 17:00 – 18:00 </td>
