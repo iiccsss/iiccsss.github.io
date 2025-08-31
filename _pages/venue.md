@@ -24,7 +24,7 @@ nav_order: 3
 	}
 </style>
 
-### Main Venue
+### Main Venue (Talks, Breaks, Hackathon)
 S1|03, Altes Hauptgebäude, Hochschulstraße 1, 64289 Darmstadt
 - Talks: room 223 
 - Break: room 126
@@ -37,6 +37,7 @@ S1|03, Altes Hauptgebäude, Hochschulstraße 1, 64289 Darmstadt
  		</div>
     </div>
 </div>
+<br>
 
 ### Poster Session & One Lab Tour:
 S1|15, Institute for Psychology, Alexanderstr. 10, 64283 Darmstadt
