@@ -123,7 +123,7 @@ nav_order:
     </div>
     <div class="col-auto mb-3">
         <div class="card h-100" style="width: 14rem;">
-          <img src="/assets/img/speakers/male_placeholder.png" class="card-img-top" alt="Kai Streiling">
+          <img src="/assets/img/organisers/kaistreiling.jpg" class="card-img-top" alt="Kai Streiling">
           <div class="card-body">
             <h5 class="card-title">Kai Streiling</h5>
               <h6 class="card-subtitle mb-2 text-muted">Centre for Cognitive Science, Technical University of Darmstadt</h6>

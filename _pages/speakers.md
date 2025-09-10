@@ -19,7 +19,7 @@ nav_order: 4
         name="Martin Hebart"
         affiliation="University of Gießen, MPI Leipzig"
         url="http://martin-hebart.de/"
-        img="assets/img/speakers/male_placeholder.jpg"
+        img="assets/img/speakers/2025/martinhebart.jpg"
     %}
     {% include people.liquid
         name="Loes van Dam"
