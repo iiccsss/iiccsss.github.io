@@ -18,23 +18,23 @@ social: true # includes social icons at the bottom of the page
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/participants-2024.jpg" title="Our 2024 participants" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/participants-2025.jpg" title="Our 2025 participants" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
 The International Interdisciplinary Computational Cognitive Science Summer School (IICCSSS) is an annual educational meeting for students and young researchers interested in computational approaches to brain and cognitive sciences.
 
-**In 2025, IICCSSS will take place in Darmstadt, from 1st to 5th of September 2025**. In addition to [invited talks and workshops](/speakers/), the summer school will include a tour of research labs, a panel discussion, a contributed talks session, a hackathon, and a city rallye. 
+**In 2025, IICCSSS took place in Darmstadt, from 1st to 5th of September 2025**. In addition to [invited talks and workshops](/speakers/), the summer school included a tour of research labs, a panel discussion, a hackathon, and a city rallye, as well as poster- and talk sessions contributed by attendees.
 
-Full program is available [here](/program/).
+The full program is available [here](/program/).
 
-<!-- **IICCSSS 2025 is co-organized by [ELIZA](https://www.tu-darmstadt.de/forschen/forschungsfelder/information_intelligence_ii/eliza/eliza.en.jsp)**. The Konrad Zuse School of Excellence in Learning and Intelligent Systems (ELIZA) is a graduate school in the field of AI, funded by the German Academic Exchange Service (DAAD).
+**IICCSSS 2025 was co-organized by [ELIZA](https://www.tu-darmstadt.de/forschen/forschungsfelder/information_intelligence_ii/eliza/eliza.en.jsp)**. The Konrad Zuse School of Excellence in Learning and Intelligent Systems (ELIZA) is a graduate school in the field of AI, funded by the German Academic Exchange Service (DAAD).
 
 <div style="text-align: center;">
   <a href="https://www.tu-darmstadt.de/forschen/forschungsfelder/information_intelligence_ii/eliza/eliza.en.jsp" target="_blank" rel="noopener noreferrer">
     <img src="assets/img/eliza_logo.svg" alt="ELIZA" height="150">
   </a>
-</div>-->
+</div>
 
 In the past years, the summer school was supported by [Universitätsgesellschaft Osnabrück e.V.](https://www.uni-osnabrueck.de/universitaet/foerderung-und-sponsoring/kreis-der-foerderer/universitaetsgesellschaft/), the [Begegnungszonen](https://www.joachim-herz-stiftung.de/was-wir-tun/naturwissenschaften-begreifen/wissenschaftlicher-nachwuchs/begegnungszonen) of the [Joachim Herz Stiftung](https://www.joachim-herz-stiftung.de/en), and the Computational Cognitive Science Colloquium e.V.
 
@@ -51,5 +51,6 @@ In the past years, the summer school was supported by [Universitätsgesellschaft
 - Loes van Dam (TU Darmstadt)
 - Alexander Gail (University Göttingen)
 - Katharina Lüth (University Osnabrück)
+- Vignesh Prasad (TU Darmstadt)
 - Vildan Salikutlik (TU Darmstadt)
 - Ute Schmid (University of Bamberg)
