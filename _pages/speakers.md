@@ -25,13 +25,13 @@ nav_order: 4
         name="Loes van Dam"
         affiliation="TU Darmstadt"
         url="https://www.humanw.tu-darmstadt.de/kontakt_details_71552.en.jsp"
-        img="assets/img/speakers/female_placeholder.jpg"
+        img="assets/img/speakers/2025/loesvandam.jpg"
     %}
     {% include people.liquid
         name="Alexander Gail"
         affiliation="University Göttingen"
         url="https://www.uni-goettingen.de/de/57950.html"
-        img="assets/img/speakers/male_placeholder.jpg"
+        img="assets/img/speakers/2025/alexandergail.jpg"
     %}
     {% include people.liquid
         name="Katharina Lüth"
@@ -49,7 +49,7 @@ nav_order: 4
         name="Vildan Salikutluk"
         affiliation="TU Darmstadt"
         url="https://www.psychologie.tu-darmstadt.de/models-of-higher-cognition/mod/members_mhc/members_mhc_detail_59392.en.jsp"
-        img="assets/img/speakers/female_placeholder.jpg"
+        img="assets/img/speakers/2025/vildansalikutluk.jpg"
     %}
     {% include people.liquid 
         name="Ute Schmid"
