@@ -33,7 +33,7 @@ In the past years, the summer school was supported by [Universitätsgesellschaft
 ### Key dates
 
 - Begin of Registration: TBA
-- 2025/08/017: Start of the summer school!
+- 2026/08/17: Start of the summer school!
 
 ### Speakers
 
