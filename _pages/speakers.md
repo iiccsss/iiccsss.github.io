@@ -2,7 +2,7 @@
 layout: page
 title: speakers
 permalink: /speakers/
-description: Speakers for IICCSSS 2025 are researchers from diverse subfields of computational cognitive science.
+description: Speakers for IICCSSS 2026 are researchers from diverse subfields of computational cognitive science.
 nav: true
 nav_order: 4
 ---
