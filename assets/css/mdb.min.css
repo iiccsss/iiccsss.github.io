@@ -3391,14 +3391,12 @@ a.waves-light {
 }
 
 
-.btn .fab.right,
-.btn .far.right {
+.btn .fab.right {
     margin-left: .3rem
 }
 
 
-.btn .fab.left,
-.btn .far.left {
+.btn .fab.left {
     margin-right: .3rem
 }
 
@@ -3692,8 +3690,7 @@ a.btn:not([href]):not([tabindex]):hover {
 }
 
 
-.navbar .nav-item .nav-link .fab,
-.navbar .nav-item .nav-link .far {
+.navbar .nav-item .nav-link .fab {
     padding-right: 3px;
     padding-left: 3px
 }
