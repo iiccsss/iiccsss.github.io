@@ -28,6 +28,12 @@ nav_order: 4
         img="assets/img/speakers/male_placeholder.jpg"
     %}
     {% include people.liquid
+        name="Camille Gontier"
+        affiliation="University of Pittsburgh"
+        url="https://camillegontier.github.io/"
+        img="assets/img/speakers/male_placeholder.jpg"
+    %}
+    {% include people.liquid
         name="Michael Hahn"
         affiliation="Saarland University"
         url="https://www.mhahn.info/"
@@ -38,12 +44,6 @@ nav_order: 4
         affiliation="New York University"
         url="https://scholar.google.com/citations?user=HjcivZcAAAAJ&hl=en"
         img="assets/img/speakers/female_placeholder.jpg"
-    %}
-    {% include people.liquid
-        name="Nico Schuck"
-        affiliation="University of Hamburg"
-        url="https://schucklab.gitlab.io/"
-        img="assets/img/speakers/male_placeholder.jpg"
     %}
     {% include people.liquid
         name="Polina Tsvilodub"
