@@ -11,18 +11,6 @@ nav_order:
 <div class="row justify-content-left">
     <div class="col-auto mb-3">
         <div class="card h-100" style="width: 14rem;">
-          <a href="https://www.tu-darmstadt.de/forschen/forschungsfelder/information_intelligence_ii/eliza/eliza.en.jsp" target="_blank" rel="noopener noreferrer">
-            <img src="/assets/img/eliza_profile.png" class="card-img-top" alt="ELIZA">
-          </a>
-            <div class="card-body">
-              <h5 class="card-title">ELIZA</h5>
-              <h6 class="card-subtitle mb-2 text-muted">Konrad Zuse School of Excellence in Learning and Intelligent Systems</h6>
-                <p class="card-text"></p>
-            </div>
-        </div>
-    </div>
-    <div class="col-auto mb-3">
-        <div class="card h-100" style="width: 14rem;">
           <img src="/assets/img/organisers/thomasklein.jpeg" class="card-img-top" alt="Thomas Klein">
             <div class="card-body">
               <h5 class="card-title">Thomas Klein</h5>
@@ -129,6 +117,46 @@ nav_order:
               <h6 class="card-subtitle mb-2 text-muted">Centre for Cognitive Science, Technical University of Darmstadt</h6>
               <p class="card-text">kai.streiling[at]tu-darmstadt.de</p>
           </div>
+        </div>
+    </div>
+    <div class="col-auto mb-3">
+        <div class="card h-100" style="width: 14rem;">
+          <img src="/assets/img/organisers/erikzeiner.png" class="card-img-top" alt="Erik Zeiner">
+            <div class="card-body">
+              <h5 class="card-title">Erik Zeiner</h5>
+              <h6 class="card-subtitle mb-2 text-muted">University of Tübingen</h6>
+                <p class="card-text">erik.zeiner[at]uni-tuebingen.de</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-auto mb-3">
+        <div class="card h-100" style="width: 14rem;">
+          <img src="/assets/img/organisers/maltekrambeer.png" class="card-img-top" alt="Malte Krambeer">
+            <div class="card-body">
+              <h5 class="card-title">Malte Krambeer</h5>
+              <h6 class="card-subtitle mb-2 text-muted">GTC Tübingen</h6>
+                <p class="card-text">maltekrambeer[at]gmail.com</p>
+            </div>
+        </div>
+    </div>    
+    <div class="col-auto mb-3">
+        <div class="card h-100" style="width: 14rem;">
+          <img src="/assets/img/organisers/female_placeholder.png" class="card-img-top" alt="Rebecca Gadzekpo">
+            <div class="card-body">
+              <h5 class="card-title">Rebecca Gadzekpo</h5>
+              <h6 class="card-subtitle mb-2 text-muted">University of Tübingen</h6>
+                <p class="card-text">rebecca.gadzekpo[at]student.uni-tuebingen.de</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-auto mb-3">
+        <div class="card h-100" style="width: 14rem;">
+          <img src="/assets/img/organisers/male_placeholder.png" class="card-img-top" alt="Martin Gruber">
+            <div class="card-body">
+              <h5 class="card-title">Martin Gruber</h5>
+              <h6 class="card-subtitle mb-2 text-muted">University of Tübingen</h6>
+                <p class="card-text">martin.gruber[at]student.uni-tuebingen.de</p>
+            </div>
         </div>
     </div>
 </div>
