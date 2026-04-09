@@ -42,6 +42,6 @@ In the past years, the summer school was supported by [Universitätsgesellschaft
 - Camille Gontier (University of Pittsburgh)
 - Michael Hahn (Saarland University)
 - Sarah Master (New York University)
-<!--- Nico Schuck (University of Hamburg)-->
+- Nico Schuck (University of Hamburg)
 - Polina Tsvilodub (University of Tübingen)
 - Hong Yu Wong (CIN Tübingen)

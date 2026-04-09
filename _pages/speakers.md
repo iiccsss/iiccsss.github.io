@@ -19,7 +19,7 @@ nav_order: 4
         name="Svenja Brodt"
         affiliation="MPI Tübingen"
         url="https://gaislab.info/team/svenja-brodt"
-        img="assets/img/speakers/female_placeholder.jpg"
+        img="assets/img/speakers/2026/svenjaBrodt.jpg"
     %}
     {% include people.liquid
         name="Fausto Carcassi"
@@ -44,6 +44,12 @@ nav_order: 4
         affiliation="New York University"
         url="https://scholar.google.com/citations?user=HjcivZcAAAAJ&hl=en"
         img="assets/img/speakers/female_placeholder.jpg"
+    %}
+    {% include people.liquid
+        name="Nico Schuck"
+        affiliation="University of Hamburg"
+        url="https://schucklab.gitlab.io/"
+        img="assets/img/speakers/male_placeholder.jpg"
     %}
     {% include people.liquid
         name="Polina Tsvilodub"
