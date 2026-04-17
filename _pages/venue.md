@@ -25,11 +25,12 @@ nav_order: 3
 </style>
 
 ### Main Venue (Talks, Breaks, Hackathon)
-Keplerstraße 2, 72074 Tübingen  
+
+Keplerstraße 2, 72074 Tübingen
 
 <!--
 S1|03, Altes Hauptgebäude, Hochschulstraße 1, 64289 Darmstadt
-- Talks: room 223 
+- Talks: room 223
 - Break: room 126
 - Hackathon: rooms 100, 116, 104 and 113
 -->
@@ -60,7 +61,7 @@ S1|15, Institute for Psychology, Alexanderstr. 10, 64283 Darmstadt
 <br>
 ### Joint dinner
 
-As every year we plan to have a dinner with the speakers and participants. This year's dinner will take place at the amazing Hacienda Mexian Restaurant (https://haciendarestaurant.de/). There will be a menu with several choices for starter, main course, and dessert, and with one drink included, for 33 Euro, corresponding to the deposit (see [registration](https://www.iiccsss.org/registration/)). 
+As every year we plan to have a dinner with the speakers and participants. This year's dinner will take place at the amazing Hacienda Mexian Restaurant (https://haciendarestaurant.de/). There will be a menu with several choices for starter, main course, and dessert, and with one drink included, for 33 Euro, corresponding to the deposit (see [registration](https://www.iiccsss.org/registration/)).
 -->
 
 <!--You can sign up for the dinner in the registration form (if you cannot make it, please let us know until 1 week before the summer school, and you will get the deposit back as everyone not taking part in the dinner).-->
@@ -72,5 +73,5 @@ We hope that both speakers and summer school participants will join us for dinne
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2441.170134235371!2d8.038416112870486!3d52.27661317188168!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b9e594e2f751db%3A0x720a968a5a99d360!2sWeinkr%C3%BCger!5e0!3m2!1sen!2sde!4v1725744298095!5m2!1sen!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
     </div>
-</div> 
+</div>
 <br> -->

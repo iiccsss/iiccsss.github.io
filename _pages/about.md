@@ -36,6 +36,7 @@ In the past years, the summer school was supported by [Universitätsgesellschaft
 - 2026/08/17: Start of the summer school!
 
 ### Speakers
+
 - Victoria Bosch (University of Osnabrück)
 - Svenja Brodt (MPI Tübingen)
 - Fausto Carcassi (University of Amsterdam)
