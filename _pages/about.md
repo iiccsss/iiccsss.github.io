@@ -28,7 +28,7 @@ The International Interdisciplinary Computational Cognitive Science Summer Schoo
 
 For reference, the full program of IICCSSS 2025 is available [here](/program/).
 
-In the past years, the summer school was supported by [Universitätsgesellschaft Osnabrück e.V.](https://www.uni-osnabrueck.de/universitaet/foerderung-und-sponsoring/kreis-der-foerderer/universitaetsgesellschaft/), the [Begegnungszonen](https://www.joachim-herz-stiftung.de/was-wir-tun/naturwissenschaften-begreifen/wissenschaftlicher-nachwuchs/begegnungszonen) of the [Joachim Herz Stiftung](https://www.joachim-herz-stiftung.de/en), [Eliza](https://www.tu-darmstadt.de/forschen/forschungsfelder/information_intelligence_ii/eliza/eliza.en.jsp), and the Computational Cognitive Science Colloquium e.V.
+In the past years, the summer school was supported by [Universitätsgesellschaft Osnabrück e.V.](https://www.uni-osnabrueck.de/universitaet/foerderung-und-sponsoring/kreis-der-foerderer/universitaetsgesellschaft/), the [Joachim Herz Stiftung](https://www.joachim-herz-stiftung.de/en), [Eliza](https://www.tu-darmstadt.de/forschen/forschungsfelder/information_intelligence_ii/eliza/eliza.en.jsp), and the Computational Cognitive Science Colloquium e.V.
 
 ### Key dates
 
