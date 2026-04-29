@@ -109,9 +109,14 @@ nav_order:
             </div>
         </div>
     </div>
+</div>
+
+## Former organisers
+
+<div class="row justify-content-left">
     <div class="col-auto mb-3">
         <div class="card h-100" style="width: 14rem;">
-          <img src="/assets/img/organisers/YarikMoeller.jpg" class="card-img-top" alt="Yarik Möller">
+          <img src="/assets/img/organisers/YarikMoeller_bw.jpg" class="card-img-top" alt="Yarik Möller">
             <div class="card-body">
               <h5 class="card-title">Yarik Möller</h5>
                 <h6 class="card-subtitle mb-2 text-muted">University of Tübingen</h6>
@@ -119,11 +124,6 @@ nav_order:
             </div>
         </div>
     </div>
-</div>
-
-## Former organisers
-
-<div class="row justify-content-left">
     <div class="col-auto mb-3">
         <div class="card h-100" style="width: 14rem;">
           <img src="/assets/img/organisers/ninawiedemann_bw.jpg" class="card-img-top" alt="Nina Wiedemann">

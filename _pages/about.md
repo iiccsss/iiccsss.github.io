@@ -32,7 +32,9 @@ In the past years, the summer school was supported by [Universitätsgesellschaft
 
 ### Key dates
 
-- Begin of Registration: TBA
+- 2026/05/01: Begin of Registration
+- 2026/06/01: Travel grant application closes
+- 2026/06/30: End of Registration
 - 2026/08/17: Start of the summer school!
 
 ### Speakers
