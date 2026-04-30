@@ -49,7 +49,7 @@ published: true
     </tr>
     <tr>
         <td> 10:45 – 11:15 </td>
-        <td markdown="span" class="schedule-hackathon"> **Hackathon** <br> (Introduction of Hacks) <br> </td>
+        <td markdown="span" class="schedule-hackathon"> **Hackathon** <br> (Introduction of Hackathon) <br> </td>
     </tr>
     <tr>
         <td> 11:15 – 11:45 </td>
