@@ -45,21 +45,22 @@ S1|03, Altes Hauptgebäude, Hochschulstraße 1, 64289 Darmstadt
 </div>
 <br>
 
-<!--
-### Poster Session & One Lab Tour:
-S1|15, Institute for Psychology, Alexanderstr. 10, 64283 Darmstadt
-- Poster session: room 127
-- One lab tour will start here
+### Poster Session:
+
+Brechtbau, Wilhelmstraße 50, 72074 Tübingen
+
+<!-- - Poster session: room 127 -->
 
 <div class="row">
     <div class="col-lg-7 col-sm-7 m-auto">
         <div class="map-container">
-			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d642.8097139200956!2d8.658805565561657!3d49.87554087680483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bd70660bc3880f%3A0x7b2a2341441e5128!2sS1%7C15%20Institut%20f%C3%BCr%20Psychologie!5e0!3m2!1sen!2sde!4v1756667752543!5m2!1sen!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
- 		</div>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2642.3242765074197!2d9.060793276109399!3d48.5270169239696!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4799e5320a8e5749%3A0x4ac6e5f6d7452cc6!2sNeuphilologikum%20(Brechtbau)%2C%20Wilhelmstra%C3%9Fe%2050%2C%2072074%20T%C3%BCbingen!5e0!3m2!1sde!2sde!4v1777545772267!5m2!1sde!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
     </div>
 </div>
 <br>
-### Joint dinner
+
+<!-- ### Joint dinner
 
 As every year we plan to have a dinner with the speakers and participants. This year's dinner will take place at the amazing Hacienda Mexian Restaurant (https://haciendarestaurant.de/). There will be a menu with several choices for starter, main course, and dessert, and with one drink included, for 33 Euro, corresponding to the deposit (see [registration](https://www.iiccsss.org/registration/)).
 -->

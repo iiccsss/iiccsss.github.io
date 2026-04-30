@@ -26,7 +26,7 @@ The International Interdisciplinary Computational Cognitive Science Summer Schoo
 
 **In 2026, IICCSSS will take place in Tübingen, from 17th to 21st of August 2026**. In addition to [invited talks and workshops](/speakers/), the summer school will include a tour of research labs, a panel discussion, a hackathon, and a city rallye, as well as poster- and talk sessions contributed by attendees.
 
-For reference, the full program of IICCSSS 2025 is available [here](/program/).
+The full program of IICCSSS 2026 is available [here](/program/).
 
 In the past years, the summer school was supported by [Universitätsgesellschaft Osnabrück e.V.](https://www.uni-osnabrueck.de/universitaet/foerderung-und-sponsoring/kreis-der-foerderer/universitaetsgesellschaft/), the [Joachim Herz Stiftung](https://www.joachim-herz-stiftung.de/en), [Eliza](https://www.tu-darmstadt.de/forschen/forschungsfelder/information_intelligence_ii/eliza/eliza.en.jsp), and the Computational Cognitive Science Colloquium e.V.
 
