@@ -2,7 +2,7 @@
 layout: page
 permalink: /program/
 title: program
-description: This is the program for IICCSSS 2025.
+description: This is the program for IICCSSS 2026.
 nav: true
 nav_order: 2
 published: true
