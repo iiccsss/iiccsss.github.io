@@ -24,9 +24,7 @@ nav_order: 5
 	}
 </style>
 
-<!--
-<a class="btn btn-primary btn" href="https://forms.office.com/e/XWMc4McidD">Register here!</a>
--->
+<a class="btn btn-primary btn" href="https://docs.google.com/forms/d/e/1FAIpQLSczmE6aWx8yO5IYQX20L3k9rtQy-uYbvOvtsFr-OSp2yQ0Z-Q/viewform?usp=header">Register here!</a>
 
 ### Registration fees
 
