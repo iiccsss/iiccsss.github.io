@@ -78,7 +78,7 @@ Please transfer the deposit by **June 30th** to secure your spot, otherwise we w
 
 **IBAN: DE20 8306 5408 0004 2587 62**
 
-As the recipient, put "Computational Cognitive Science e.V." and most importantly, as a note put "Deposit " and your full name, e.g. “Deposit Hermoine Granger”.
+As the recipient, put "Computational Cognitive Science Colloquium e.V." and most importantly, as a note put "Deposit " and your full name, e.g. “Deposit Hermoine Granger”.
 
 If that's not possible, you can also PayPal us using the email info@iiccsss.org, and please put a note with "Deposit" + your full name, e.g. “Deposit Ronald Weasley”.
 
