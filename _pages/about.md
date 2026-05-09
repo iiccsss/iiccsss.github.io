@@ -34,7 +34,7 @@ This year's IICCSSS is supported by [IMPRS](https://imprs-mmfd.tuebingen.mpg.de/
     {% include figure.liquid path="assets/img/IMPRS_Logo.png" %}
 </div>
 
-In the past years, the summer school was supported by [Universitätsgesellschaft Osnabrück e.V.](https://www.uni-osnabrueck.de/universitaet/foerderung-und-sponsoring/kreis-der-foerderer/universitaetsgesellschaft/), the [Joachim Herz Stiftung](https://www.joachim-herz-stiftung.de/en), [Eliza](https://www.tu-darmstadt.de/forschen/forschungsfelder/information_intelligence_ii/eliza/eliza.en.jsp), and the Computational Cognitive Science Colloquium e.V. 
+In the past years, the summer school was supported by [Universitätsgesellschaft Osnabrück e.V.](https://www.uni-osnabrueck.de/universitaet/foerderung-und-sponsoring/kreis-der-foerderer/universitaetsgesellschaft/), the [Joachim Herz Stiftung](https://www.joachim-herz-stiftung.de/en), [Eliza](https://www.tu-darmstadt.de/forschen/forschungsfelder/information_intelligence_ii/eliza/eliza.en.jsp), and the Computational Cognitive Science Colloquium e.V.
 
 ### Key dates
 
