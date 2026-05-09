@@ -13,7 +13,7 @@ nav_order: 4
         name="Victoria Bosch"
         affiliation="University of Osnabrück"
         url=""
-        img="assets/img/speakers/female_placeholder.jpg"
+        img="assets/img/speakers/2026/victoriaBosch.jpg"
     %}
     {% include people.liquid
         name="Svenja Brodt"
@@ -49,7 +49,7 @@ nav_order: 4
         name="Nico Schuck"
         affiliation="University of Hamburg"
         url="https://schucklab.gitlab.io/"
-        img="assets/img/speakers/male_placeholder.jpg"
+        img="assets/img/speakers/2026/nicoSchuck.jpg"
     %}
     {% include people.liquid
         name="Polina Tsvilodub"
