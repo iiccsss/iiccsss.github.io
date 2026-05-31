@@ -76,7 +76,8 @@ If you clicked on _submit_ and the following screen was shown, your registration
 
 Please transfer the deposit by **June 30th** to secure your spot, otherwise we will have to give your spot to someone else on the waiting list.
 
-**IBAN: DE20 8306 5408 0004 2587 62**
+**IBAN: DE20 8306 5408 0004 2587 62**  
+**BIC: GENODEF1SLR**
 
 As the recipient, put "Computational Cognitive Science Colloquium e.V." and most importantly, as a note put "Deposit " and your full name, e.g. “Deposit Hermoine Granger”.
 
