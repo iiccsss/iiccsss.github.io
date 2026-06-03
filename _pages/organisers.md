@@ -101,11 +101,11 @@ nav_order:
     </div>
     <div class="col-auto mb-3">
         <div class="card h-100" style="width: 14rem;">
-          <img src="/assets/img/organisers/female_placeholder.png" class="card-img-top" alt="Gemma Seghi">
+          <img src="/assets/img/organisers/gemmaseghi.png" class="card-img-top" alt="Gemma Seghi">
             <div class="card-body">
               <h5 class="card-title">Gemma Seghi</h5>
               <h6 class="card-subtitle mb-2 text-muted">University of Tübingen</h6>
-                <p class="card-text"></p>
+                <p class="card-text">gemma.seghi[at]uni-tuebingen.de</p>
             </div>
         </div>
     </div>

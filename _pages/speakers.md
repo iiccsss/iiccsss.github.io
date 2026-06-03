@@ -31,7 +31,7 @@ nav_order: 4
         name="Camille Gontier"
         affiliation="University of Pittsburgh"
         url="https://camillegontier.github.io/"
-        img="assets/img/speakers/male_placeholder.jpg"
+        img="assets/img/speakers/2026/camilleGontier.jpg"
     %}
     {% include people.liquid
         name="Michael Hahn"
@@ -55,7 +55,7 @@ nav_order: 4
         name="Polina Tsvilodub"
         affiliation="University of Tübingen"
         url="https://polina-tsvilodub.github.io/home/"
-        img="assets/img/speakers/female_placeholder.jpg"
+        img="assets/img/speakers/2026/polinaTsvilodub.jpeg"
     %}
     {% include people.liquid
         name="Hong Yu Wong"
