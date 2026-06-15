@@ -25,7 +25,7 @@ nav_order: 4
         name="Fausto Carcassi"
         affiliation="University of Amsterdam, ILLC"
         url="https://faustocarcassi.com/"
-        img="assets/img/speakers/male_placeholder.jpg"
+        img="assets/img/speakers/2026/faustoCarcassi.png"
     %}
     {% include people.liquid
         name="Camille Gontier"
@@ -61,7 +61,7 @@ nav_order: 4
         name="Hong Yu Wong"
         affiliation="CIN Tuebingen"
         url="https://sites.google.com/site/whywong/"
-        img="assets/img/speakers/male_placeholder.jpg"
+        img="assets/img/speakers/2026/hongYuWong.jpg"
     %}
     </div>
 </div>
