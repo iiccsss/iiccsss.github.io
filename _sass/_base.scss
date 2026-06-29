@@ -287,6 +287,15 @@ ul.task-list input[type="checkbox"] {
     color: var(--global-text-color);
   }
 
+  .logo-brand {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  .navbar-brand img {
+    max-height: 40px;
+  }
+
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);
 
@@ -393,6 +402,10 @@ ul.task-list input[type="checkbox"] {
   &:hover {
     color: var(--global-hover-color);
   }
+}
+
+[data-theme="light"] #site-logo {
+  content: url("/assets/img/logo-light.svg");
 }
 
 // Social (bottom)

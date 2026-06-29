@@ -43,13 +43,19 @@ nav_order: 4
         name="Sarah Master"
         affiliation="New York University"
         url="https://scholar.google.com/citations?user=HjcivZcAAAAJ&hl=en"
-        img="assets/img/speakers/female_placeholder.jpg"
+        img="assets/img/speakers/2026/sarahMaster.jpeg"
     %}
     {% include people.liquid
         name="Nico Schuck"
         affiliation="University of Hamburg"
         url="https://schucklab.gitlab.io/"
         img="assets/img/speakers/2026/nicoSchuck.jpg"
+    %}
+    {% include people.liquid
+        name="Claudio Tennie"
+        affiliation="University of Tübingen"
+        url="https://sites.google.com/view/claudiotennie"
+        img="assets/img/speakers/2026/claudioTennie.jpeg"
     %}
     {% include people.liquid
         name="Polina Tsvilodub"

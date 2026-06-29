@@ -81,7 +81,7 @@ published: true
     </tr>
     <tr>
         <td> 14:15 – 14:30 </td>
-        <td markdown="span" rowspan="5" class="schedule-workshop"> **Workshop** <br> Hong Yu Wong <br> </td>
+        <td markdown="span" rowspan="5" class="schedule-workshop"> **Workshop** <br> Hong Yu Wong & Claudio Tennie <br> </td>
         <td markdown="span" rowspan="2" class="schedule-break"> **Break** </td>
     </tr>
     <tr>

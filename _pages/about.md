@@ -52,5 +52,6 @@ In the past years, the summer school was supported by [Universitätsgesellschaft
 - Michael Hahn (Saarland University)
 - Sarah Master (New York University)
 - Nico Schuck (University of Hamburg)
+- Claudio Tennie (University of Tübingen)
 - Polina Tsvilodub (University of Tübingen)
 - Hong Yu Wong (CIN Tübingen)

@@ -94,3 +94,12 @@ If you choose to attend the conference dinner, we will use your deposit to pay f
 ### Can I store my luggage somewhere?
 
 You can store your luggage at the event location until the end of the event on Monday and on Friday.
+
+### What about merch?
+
+Of course, we also offer to buy T-shirts with this year's logo! Registered participants can preorder merch and pick it up at the summer school. The T-shirts are available in a variety of colors, below are two examples. (The square is just for reference 10x10cm and will not be on the tshirt.)
+
+<div style="display: flex; gap: 10px;">
+  <img src="../assets/img/merch2026tshirtblue.png" width="300" alt=""/>
+  <img src="../assets/img/merch2026tshirtwhite.png" width="300" alt=""/>
+</div>
