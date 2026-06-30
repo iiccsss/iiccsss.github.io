@@ -97,7 +97,7 @@ You can store your luggage at the event location until the end of the event on M
 
 ### What about merch?
 
-Of course, we also offer to buy T-shirts with this year's logo! Registered participants can preorder merch and pick it up at the summer school. The T-shirts are available in a variety of colors, below are two examples. (The square is just for reference 10x10cm and will not be on the tshirt.)
+Of course, we also offer to buy T-shirts with this year's logo! Registered participants can preorder merch and pick it up at the summer school. The T-shirts are high quality 100% cotton (organically grown) with the logo embroided and available in a variety of colors, below are two examples. (The square is just for reference 10x10cm and will not be on the tshirt.)
 
 <div style="display: flex; gap: 10px;">
   <img src="../assets/img/merch2026tshirtblue.png" width="300" alt=""/>
