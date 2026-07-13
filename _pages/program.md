@@ -24,7 +24,7 @@ published: true
         <td> 9:00 – 9:30 </td>
         <td markdown="span" rowspan="2" class="schedule-participants"> **Registration** <br>  </td>
         <td markdown="span" rowspan="2" class="schedule-participants"> **Lightning talks** <br>  </td>
-        <td markdown="span" rowspan="2" class="schedule-talk"> **Talk** <br> Victoria Bosch </td>
+        <td markdown="span" rowspan="2" class="schedule-talk"> **Talk** <br> Victoria Bosch <br> *CorText: Brain-language fusion enables interactive neural readout and in-silico experimentation* </td>
         <td markdown="span" rowspan="4" class="schedule-workshop"> **Workshop** <br> Camille Gontier </td>
         <td markdown="span" rowspan="6" class="schedule-hackathon"> **Project Presentations** <br> </td>
     </tr>
@@ -41,7 +41,7 @@ published: true
         <td> 10:15 – 10:30 </td>
         <td markdown="span" rowspan="3" class="schedule-participants"> **Introduction and Welcome Games** </td>
         <td markdown="span" rowspan="4" class="schedule-workshop"> **Workshop** <br> Sarah Master <br> </td>
-        <td markdown="span" rowspan="3" class="schedule-talk"> **Talk** <br> Polina Tsvilodub <br> </td>
+        <td markdown="span" rowspan="3" class="schedule-talk"> **Talk** <br> Polina Tsvilodub <br> *Goal-directed language use in humans and machines* </td>
     </tr>
     <tr>
         <td> 10:30 – 10:45 </td>
@@ -64,7 +64,7 @@ published: true
     </tr>
     <tr>
         <td> 13:00 – 13:30 </td>
-        <td markdown="span" rowspan="2" class="schedule-talk"> **Talk** <br> Michael Hahn <br> </td>
+        <td markdown="span" rowspan="2" class="schedule-talk"> **Talk** <br> Michael Hahn <br> *On the Mechanistic Interpretation of Large Language Models* </td>
         <td markdown="span" rowspan="3" class="schedule-participants"> **Poster Session** <br> </td>
         <td markdown="span" rowspan="16" class="schedule-hackathon"> **Hackathon** <br> </td>
         <td> &nbsp; </td>
@@ -77,11 +77,11 @@ published: true
     <tr>
         <td> 14:00 – 14:15 </td>
         <td markdown="span" class="schedule-break"> **Break** </td>
-        <td markdown="span" rowspan="4" class="schedule-talk"> **Talk** <br> Nico Schuck <br> </td>
+        <td markdown="span" rowspan="4" class="schedule-talk"> **Talk** <br> Nico Schuck <br> *Caught between Generalization and Interference: Non-local representation learning in deep neural networks and the human brain* </td>
     </tr>
     <tr>
         <td> 14:15 – 14:30 </td>
-        <td markdown="span" rowspan="5" class="schedule-workshop"> **Workshop** <br> Hong Yu Wong & Claudio Tennie <br> </td>
+        <td markdown="span" rowspan="5" class="schedule-workshop"> **Workshop** <br> Hong Yu Wong<br> *First Contact: How Do We Recognize an Alien Mind?* </td>
         <td markdown="span" rowspan="2" class="schedule-break"> **Break** </td>
     </tr>
     <tr>

@@ -52,12 +52,6 @@ nav_order: 4
         img="assets/img/speakers/2026/nicoSchuck.jpg"
     %}
     {% include people.liquid
-        name="Claudio Tennie"
-        affiliation="University of Tübingen"
-        url="https://sites.google.com/view/claudiotennie"
-        img="assets/img/speakers/2026/claudioTennie.jpeg"
-    %}
-    {% include people.liquid
         name="Polina Tsvilodub"
         affiliation="University of Tübingen"
         url="https://polina-tsvilodub.github.io/home/"
