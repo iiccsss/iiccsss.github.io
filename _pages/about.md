@@ -48,7 +48,7 @@ In the past years, the summer school was supported by [Universitätsgesellschaft
 - Victoria Bosch (University of Osnabrück)
 - Svenja Brodt (MPI Tübingen)
 - Fausto Carcassi (University of Amsterdam)
-- Camille Gontier (University of Pittsburgh)
+- Camille Gontier (Inria, University of Strasbourg)
 - Michael Hahn (Saarland University)
 - Sarah Master (New York University)
 - Nico Schuck (University of Hamburg)

@@ -29,7 +29,7 @@ nav_order: 4
     %}
     {% include people.liquid
         name="Camille Gontier"
-        affiliation="University of Pittsburgh"
+        affiliation="Inria, University of Strasbourg"
         url="https://camillegontier.github.io/"
         img="assets/img/speakers/2026/camilleGontier.jpg"
     %}
@@ -37,7 +37,7 @@ nav_order: 4
         name="Michael Hahn"
         affiliation="Saarland University"
         url="https://www.mhahn.info/"
-        img="assets/img/speakers/male_placeholder.jpg"
+        img="assets/img/speakers/2026/michaelHahn.jpg"
     %}
     {% include people.liquid
         name="Sarah Master"

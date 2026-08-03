@@ -25,7 +25,7 @@ published: true
         <td markdown="span" rowspan="2" class="schedule-participants"> **Registration** <br>  </td>
         <td markdown="span" rowspan="2" class="schedule-participants"> **Lightning talks** <br>  </td>
         <td markdown="span" rowspan="2" class="schedule-talk"> **Talk** <br> Victoria Bosch <br> *CorText: Brain-language fusion enables interactive neural readout and in-silico experimentation* </td>
-        <td markdown="span" rowspan="4" class="schedule-workshop"> **Workshop** <br> Camille Gontier </td>
+        <td markdown="span" rowspan="4" class="schedule-workshop"> **Workshop** <br> Camille Gontier <br> *EEG data management, preprocessing, and analysis for studying sustained attention* </td>
         <td markdown="span" rowspan="6" class="schedule-hackathon"> **Project Presentations** <br> </td>
     </tr>
     <tr>
@@ -40,7 +40,7 @@ published: true
     <tr>
         <td> 10:15 – 10:30 </td>
         <td markdown="span" rowspan="3" class="schedule-participants"> **Introduction and Welcome Games** </td>
-        <td markdown="span" rowspan="4" class="schedule-workshop"> **Workshop** <br> Sarah Master <br> </td>
+        <td markdown="span" rowspan="4" class="schedule-workshop"> **Workshop** <br> Sarah Master <br> *Leveraging Artificial and Human Intelligence to Understand Human RL* </td>
         <td markdown="span" rowspan="3" class="schedule-talk"> **Talk** <br> Polina Tsvilodub <br> *Goal-directed language use in humans and machines* </td>
     </tr>
     <tr>
