@@ -41,7 +41,7 @@ published: true
         <td> 10:15 – 10:30 </td>
         <td markdown="span" rowspan="3" class="schedule-participants"> **Introduction and Welcome Games** </td>
         <td markdown="span" rowspan="4" class="schedule-workshop"> **Workshop** <br> Sarah Master <br> *Leveraging Artificial and Human Intelligence to Understand Human RL* </td>
-        <td markdown="span" rowspan="3" class="schedule-talk"> **Talk** <br> Polina Tsvilodub <br> *Goal-directed language use in humans and machines* </td>
+        <td markdown="span" rowspan="3" class="schedule-workshop"> **Workshop** <br> Hong Yu Wong<br> *First Contact: How Do We Recognize an Alien Mind?* </td>
     </tr>
     <tr>
         <td> 10:30 – 10:45 </td>
@@ -66,7 +66,7 @@ published: true
         <td> 13:00 – 13:30 </td>
         <td markdown="span" rowspan="2" class="schedule-talk"> **Talk** <br> Michael Hahn <br> *On the Mechanistic Interpretation of Large Language Models* </td>
         <td markdown="span" rowspan="3" class="schedule-participants"> **Poster Session** <br> </td>
-        <td markdown="span" rowspan="16" class="schedule-hackathon"> **Hackathon** <br> </td>
+        <td markdown="span" rowspan="17" class="schedule-hackathon"> **Hackathon** <br> </td>
         <td> &nbsp; </td>
     </tr>
     <tr>
@@ -81,7 +81,7 @@ published: true
     </tr>
     <tr>
         <td> 14:15 – 14:30 </td>
-        <td markdown="span" rowspan="5" class="schedule-workshop"> **Workshop** <br> Hong Yu Wong<br> *First Contact: How Do We Recognize an Alien Mind?* </td>
+        <td markdown="span" rowspan="4" class="schedule-talk"> **Talk** <br> Polina Tsvilodub <br> *Language use in humans and machines* </td>
         <td markdown="span" rowspan="2" class="schedule-break"> **Break** </td>
     </tr>
     <tr>
@@ -90,26 +90,28 @@ published: true
     </tr>
     <tr>
         <td> 14:45 – 15:00 </td>
-        <td markdown="span" rowspan="8" class="schedule-participants"> **Lab Tours** </td>
-        <td markdown="span" rowspan="3" class="schedule-talk"> **Talk** <br> Svenja Brodt <br> </td>
+        <td markdown="span" rowspan="9" class="schedule-participants"> **Lab Tours** </td>
+        <td markdown="span" rowspan="4" class="schedule-talk"> **Talk** <br> Svenja Brodt <br> *Rapid neocortical learning and the role of reactivation across brain states* </td>
     </tr>
     <tr>
         <td> 15:00 – 15:15 </td>
         <td markdown="span" class="schedule-participants"> **Closing Remarks** </td>
     </tr>
+   <tr>
+        <td> 15:15 – 15:30 </td>
+        <td markdown="span" class="schedule-break"> **Break** </td>
+    </tr>
     <tr>
-        <td> 15:15 – 15:45 </td>
-        <td> &nbsp; </td>
+        <td> 15:30 – 15:45 </td>
+        <td markdown="span" rowspan="3" class="schedule-hackathon"> **Hackathon** <br> Topic Introduction <br> </td>
     </tr>
     <tr>
         <td> 15:45 – 16:00 </td>
-        <td markdown="span" class="schedule-break"> **Break** </td>
         <td markdown="span" class="schedule-break"> **Break** </td>
         <td> &nbsp; </td>
     </tr>
     <tr>
         <td> 16:00 – 16:30 </td>
-        <td markdown="span" rowspan="2" class="schedule-hackathon"> **Hackathon** <br> Topic Introduction <br> </td>
         <td markdown="span" rowspan="2" class="schedule-talk"> **Panel discussion** <br> </td>
         <td> &nbsp; </td>
     </tr>
