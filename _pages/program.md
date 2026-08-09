@@ -71,7 +71,7 @@ published: true
     </tr>
     <tr>
         <td> 13:30 – 14:00 </td>
-        <td markdown="span" rowspan="3" class="schedule-talk"> **Talk** <br> Fausto Carcassi <br> </td>
+        <td markdown="span" rowspan="3" class="schedule-talk"> **Talk** <br> Fausto Carcassi <br> *Some ways to use library learning for cognitive science* </td>
         <td> &nbsp; </td>
     </tr>
     <tr>
