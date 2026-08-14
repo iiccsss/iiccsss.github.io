@@ -64,7 +64,7 @@ published: true
     </tr>
     <tr>
         <td> 13:00 – 13:30 </td>
-        <td markdown="span" rowspan="2" class="schedule-talk"> **Talk** <br> Michael Hahn <br> *On the Mechanistic Interpretation of Large Language Models* </td>
+        <td markdown="span" rowspan="2" class="schedule-talk"> **Talk** <br> Michael Hahn <br> *Computational Mechanisms inside Large Language Models* </td>
         <td markdown="span" rowspan="3" class="schedule-participants"> **Poster Session** <br> </td>
         <td markdown="span" rowspan="17" class="schedule-hackathon"> **Hackathon** <br> </td>
         <td> &nbsp; </td>
