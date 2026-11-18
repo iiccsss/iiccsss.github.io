@@ -1,4 +1,4 @@
-# 2023 IICCSSS Website
+# IICCSSS Website
 
 The original [al-folio](https://github.com/alshedivat/al-folio) README continues below.
 
