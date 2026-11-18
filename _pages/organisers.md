@@ -11,18 +11,6 @@ nav_order:
 <div class="row justify-content-left">
     <div class="col-auto mb-3">
         <div class="card h-100" style="width: 14rem;">
-          <a href="https://www.tu-darmstadt.de/forschen/forschungsfelder/information_intelligence_ii/eliza/eliza.en.jsp" target="_blank" rel="noopener noreferrer">
-            <img src="/assets/img/eliza_profile.png" class="card-img-top" alt="ELIZA">
-          </a>
-            <div class="card-body">
-              <h5 class="card-title">ELIZA</h5>
-              <h6 class="card-subtitle mb-2 text-muted">Konrad Zuse School of Excellence in Learning and Intelligent Systems</h6>
-                <p class="card-text"></p>
-            </div>
-        </div>
-    </div>
-    <div class="col-auto mb-3">
-        <div class="card h-100" style="width: 14rem;">
           <img src="/assets/img/organisers/thomasklein.jpeg" class="card-img-top" alt="Thomas Klein">
             <div class="card-body">
               <h5 class="card-title">Thomas Klein</h5>
@@ -32,36 +20,6 @@ nav_order:
         </div>
     </div>
     <div class="col-auto mb-3">
-        <div class="card h-100" style="width: 14rem;">
-          <img src="/assets/img/organisers/ninawiedemann.jpg" class="card-img-top" alt="Nina Wiedemann">
-            <div class="card-body">
-              <h5 class="card-title">Nina Wiedemann</h5>
-                <h6 class="card-subtitle mb-2 text-muted">ETH Zürich, Zurich Center for Neuroeconomics</h6>
-                <p class="card-text">nwiedemann [at] ethz.ch</p>
-            </div>
-        </div>
-    </div>
-     <div class="col-auto mb-3">
-        <div class="card h-100" style="width: 14rem;">
-          <img src="/assets/img/organisers/RabeaTuron.jpg" class="card-img-top" alt="Rabea Turon">
-            <div class="card-body">
-              <h5 class="card-title">Rabea Turon</h5>
-                <h6 class="card-subtitle mb-2 text-muted">Centre for Cognitive Science, Technical University of Darmstadt</h6>
-                <p class="card-text">rabea.turon[at]tu-darmstadt.de</p>
-            </div>
-        </div>
-    </div>
-    <div class="col-auto mb-3">
-        <div class="card h-100" style="width: 14rem;">
-          <img src="/assets/img/organisers/YarikMoeller.jpg" class="card-img-top" alt="Yarik Möller">
-            <div class="card-body">
-              <h5 class="card-title">Yarik Möller</h5>
-                <h6 class="card-subtitle mb-2 text-muted">University of Tübingen</h6>
-                <p class="card-text">yarik.moeller[at]student.uni-tuebingen.de</p>
-            </div>
-        </div>
-    </div>
-        <div class="col-auto mb-3">
         <div class="card h-100" style="width: 14rem;">
           <img src="/assets/img/organisers/VictoriaPierz.jpg" class="card-img-top" alt="Victoria Pierz">
             <div class="card-body">
@@ -73,62 +31,82 @@ nav_order:
     </div>
     <div class="col-auto mb-3">
         <div class="card h-100" style="width: 14rem;">
-          <img src="/assets/img/organisers/CelineHonekamp.jpg" class="card-img-top" alt="Celine Honekamp">
+          <img src="/assets/img/organisers/tobiasludwig.jpg" class="card-img-top" alt="Tobias Ludwig">
             <div class="card-body">
-              <h5 class="card-title">Celine Honekamp</h5>
-                <h6 class="card-subtitle mb-2 text-muted">Centre for Cognitive Science, Technical University of Darmstadt</h6>
-                <p class="card-text">Celine.Honekamp[at]tu-darmstadt.de</p>
+              <h5 class="card-title">Tobias Ludwig</h5>
+                <h6 class="card-subtitle mb-2 text-muted">University of Tübingen & Max Planck Institute for Biological Cybernetics</h6>
+                <p class="card-text">tobias.ludwig [at] uni-tuebingen.de</p>
             </div>
         </div>
     </div>
     <div class="col-auto mb-3">
         <div class="card h-100" style="width: 14rem;">
-          <img src="/assets/img/organisers/SwantjeMahncke.jpg" class="card-img-top" alt="Swantje Mahncke">
+          <img src="/assets/img/organisers/erikzeiner.png" class="card-img-top" alt="Erik Zeiner">
             <div class="card-body">
-              <h5 class="card-title">Swantje Mahncke</h5>
-                <h6 class="card-subtitle mb-2 text-muted">Centre for Cognitive Science, Technical University of Darmstadt</h6>
-                <p class="card-text">swantje.mahncke[at]tu-darmstadt.de</p>
+              <h5 class="card-title">Erik Zeiner</h5>
+              <h6 class="card-subtitle mb-2 text-muted">University of Tübingen</h6>
+                <p class="card-text">erik.zeiner[at]uni-tuebingen.de</p>
             </div>
         </div>
     </div>
     <div class="col-auto mb-3">
         <div class="card h-100" style="width: 14rem;">
-          <img src="/assets/img/organisers/photo_JolandeFooken.jpg" class="card-img-top" alt="Jolande Fooken">
+          <img src="/assets/img/organisers/maltekrambeer.png" class="card-img-top" alt="Malte Krambeer">
             <div class="card-body">
-              <h5 class="card-title">Jolande Fooken</h5>
-                <h6 class="card-subtitle mb-2 text-muted">Centre for Cognitive Science, Technical University of Darmstadt</h6>
-                <p class="card-text">jolande.fooken[at]tu-darmstadt.de</p>
+              <h5 class="card-title">Malte Krambeer</h5>
+              <h6 class="card-subtitle mb-2 text-muted">GTC Tübingen</h6>
+                <p class="card-text">maltekrambeer[at]gmail.com</p>
+            </div>
+        </div>
+    </div>    
+    <div class="col-auto mb-3">
+        <div class="card h-100" style="width: 14rem;">
+          <img src="/assets/img/organisers/rebeccaGadzekpo.jpg" class="card-img-top" alt="Rebecca Gadzekpo">
+            <div class="card-body">
+              <h5 class="card-title">Rebecca Gadzekpo</h5>
+              <h6 class="card-subtitle mb-2 text-muted">University of Tübingen</h6>
+                <p class="card-text">rebecca.gadzekpo[at]student.uni-tuebingen.de</p>
             </div>
         </div>
     </div>
     <div class="col-auto mb-3">
         <div class="card h-100" style="width: 14rem;">
-          <img src="/assets/img/organisers/FabianTatai.jpeg" class="card-img-top" alt="Fabian Tatai">
+          <img src="/assets/img/organisers/male_placeholder.png" class="card-img-top" alt="Martin Gruber">
             <div class="card-body">
-              <h5 class="card-title">Fabian Tatai</h5>
-                <h6 class="card-subtitle mb-2 text-muted">Centre for Cognitive Science, Technical University of Darmstadt</h6>
-                <p class="card-text">fabian.tatai[at]tu-darmstadt.de</p>
-            </div>
-        </div>
-    </div>
-        <div class="col-auto mb-3">
-        <div class="card h-100" style="width: 14rem;">
-         <img src="/assets/img/speakers/female_placeholder.png" class="card-img-top" alt="Lingyue Chen">
-            <div class="card-body">
-              <h5 class="card-title">Lingyue Chen</h5>
-                <h6 class="card-subtitle mb-2 text-muted">Centre for Cognitive Science, Technical University of Darmstadt</h6>
-                <p class="card-text">lingyue.chen[at]tu-darmstadt.de</p>
+              <h5 class="card-title">Martin Gruber</h5>
+              <h6 class="card-subtitle mb-2 text-muted">University of Tübingen</h6>
+                <p class="card-text">martin.gruber[at]student.uni-tuebingen.de</p>
             </div>
         </div>
     </div>
     <div class="col-auto mb-3">
         <div class="card h-100" style="width: 14rem;">
-          <img src="/assets/img/organisers/kaistreiling.jpg" class="card-img-top" alt="Kai Streiling">
-          <div class="card-body">
-            <h5 class="card-title">Kai Streiling</h5>
-              <h6 class="card-subtitle mb-2 text-muted">Centre for Cognitive Science, Technical University of Darmstadt</h6>
-              <p class="card-text">kai.streiling[at]tu-darmstadt.de</p>
-          </div>
+          <img src="/assets/img/organisers/amelie_rueeck.jpg" class="card-img-top" alt="Amelie Rüeck">
+            <div class="card-body">
+              <h5 class="card-title">Amelie Rüeck</h5>
+              <h6 class="card-subtitle mb-2 text-muted">University of Tübingen</h6>
+                <p class="card-text">amelie.rueeck[at]uni-tuebingen.de</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-auto mb-3">
+        <div class="card h-100" style="width: 14rem;">
+          <img src="/assets/img/organisers/dunjaMilovanovic.jpg" class="card-img-top" alt="Dunja Milovanović">
+            <div class="card-body">
+              <h5 class="card-title">Dunja Milovanović</h5>
+              <h6 class="card-subtitle mb-2 text-muted">University of Tübingen</h6>
+                <p class="card-text">dunjamilovanovic279[at]gmail.com</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-auto mb-3">
+        <div class="card h-100" style="width: 14rem;">
+          <img src="/assets/img/organisers/gemmaseghi.png" class="card-img-top" alt="Gemma Seghi">
+            <div class="card-body">
+              <h5 class="card-title">Gemma Seghi</h5>
+              <h6 class="card-subtitle mb-2 text-muted">University of Tübingen</h6>
+                <p class="card-text">gemma.seghi[at]uni-tuebingen.de</p>
+            </div>
         </div>
     </div>
 </div>
@@ -138,12 +116,92 @@ nav_order:
 <div class="row justify-content-left">
     <div class="col-auto mb-3">
         <div class="card h-100" style="width: 14rem;">
-          <img src="/assets/img/organisers/tobiasludwig.jpg" class="card-img-top" alt="Tobias Ludwig">
+          <img src="/assets/img/organisers/YarikMoeller_bw.jpg" class="card-img-top" alt="Yarik Möller">
             <div class="card-body">
-              <h5 class="card-title">Tobias Ludwig</h5>
-                <h6 class="card-subtitle mb-2 text-muted">University of Tübingen & Max Planck Institute for Biological Cybernetics</h6>
-                <p class="card-text">tobias.ludwig [at] uni-tuebingen.de</p>
+              <h5 class="card-title">Yarik Möller</h5>
+                <h6 class="card-subtitle mb-2 text-muted">University of Tübingen</h6>
+                <p class="card-text">yarik.moeller[at]student.uni-tuebingen.de</p>
             </div>
+        </div>
+    </div>
+    <div class="col-auto mb-3">
+        <div class="card h-100" style="width: 14rem;">
+          <img src="/assets/img/organisers/ninawiedemann_bw.jpg" class="card-img-top" alt="Nina Wiedemann">
+            <div class="card-body">
+              <h5 class="card-title">Nina Wiedemann</h5>
+                <h6 class="card-subtitle mb-2 text-muted">ETH Zürich, Zurich Center for Neuroeconomics</h6>
+                <p class="card-text">nwiedemann [at] ethz.ch</p>
+            </div>
+        </div>
+    </div>
+     <div class="col-auto mb-3">
+        <div class="card h-100" style="width: 14rem;">
+          <img src="/assets/img/organisers/RabeaTuron_bw.jpg" class="card-img-top" alt="Rabea Turon">
+            <div class="card-body">
+              <h5 class="card-title">Rabea Turon</h5>
+                <h6 class="card-subtitle mb-2 text-muted">Centre for Cognitive Science, Technical University of Darmstadt</h6>
+                <p class="card-text">rabea.turon[at]tu-darmstadt.de</p>
+            </div>
+        </div>
+    </div>
+        <div class="col-auto mb-3">
+        <div class="card h-100" style="width: 14rem;">
+          <img src="/assets/img/organisers/CelineHonekamp_bw.jpg" class="card-img-top" alt="Celine Honekamp">
+            <div class="card-body">
+              <h5 class="card-title">Celine Honekamp</h5>
+                <h6 class="card-subtitle mb-2 text-muted">Centre for Cognitive Science, Technical University of Darmstadt</h6>
+                <p class="card-text">Celine.Honekamp[at]tu-darmstadt.de</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-auto mb-3">
+        <div class="card h-100" style="width: 14rem;">
+          <img src="/assets/img/organisers/SwantjeMahncke_bw.jpg" class="card-img-top" alt="Swantje Mahncke">
+            <div class="card-body">
+              <h5 class="card-title">Swantje Mahncke</h5>
+                <h6 class="card-subtitle mb-2 text-muted">Centre for Cognitive Science, Technical University of Darmstadt</h6>
+                <p class="card-text">swantje.mahncke[at]tu-darmstadt.de</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-auto mb-3">
+        <div class="card h-100" style="width: 14rem;">
+          <img src="/assets/img/organisers/photo_JolandeFooken_bw.jpg" class="card-img-top" alt="Jolande Fooken">
+            <div class="card-body">
+              <h5 class="card-title">Jolande Fooken</h5>
+                <h6 class="card-subtitle mb-2 text-muted">Centre for Cognitive Science, Technical University of Darmstadt</h6>
+                <p class="card-text">jolande.fooken[at]tu-darmstadt.de</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-auto mb-3">
+        <div class="card h-100" style="width: 14rem;">
+          <img src="/assets/img/organisers/FabianTatai_bw.jpeg" class="card-img-top" alt="Fabian Tatai">
+            <div class="card-body">
+              <h5 class="card-title">Fabian Tatai</h5>
+                <h6 class="card-subtitle mb-2 text-muted">Centre for Cognitive Science, Technical University of Darmstadt</h6>
+                <p class="card-text">fabian.tatai[at]tu-darmstadt.de</p>
+            </div>
+        </div>
+    </div>
+        <div class="col-auto mb-3">
+        <div class="card h-100" style="width: 14rem;">
+         <img src="/assets/img/organisers/female_placeholder_bw.png" class="card-img-top" alt="Lingyue Chen">
+            <div class="card-body">
+              <h5 class="card-title">Lingyue Chen</h5>
+                <h6 class="card-subtitle mb-2 text-muted">Centre for Cognitive Science, Technical University of Darmstadt</h6>
+                <p class="card-text">lingyue.chen[at]tu-darmstadt.de</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-auto mb-3">
+        <div class="card h-100" style="width: 14rem;">
+          <img src="/assets/img/organisers/kaistreiling_bw.jpg" class="card-img-top" alt="Kai Streiling">
+          <div class="card-body">
+            <h5 class="card-title">Kai Streiling</h5>
+              <h6 class="card-subtitle mb-2 text-muted">Centre for Cognitive Science, Technical University of Darmstadt</h6>
+              <p class="card-text">kai.streiling[at]tu-darmstadt.de</p>
+          </div>
         </div>
     </div>
     <div class="col-auto mt-3 mb-3">
@@ -151,8 +209,8 @@ nav_order:
           <img src="/assets/img/organisers/jannisborn.jpg" class="card-img-top" alt="Jannis Born">
             <div class="card-body">
               <h5 class="card-title">Jannis Born</h5>
-              <h6 class="card-subtitle mb-2 text-muted">ETH Zürich & IBM Research</h6>
-                <p class="card-text">jborn [at] ethz.ch</p>
+              <h6 class="card-subtitle mb-2 text-muted">IBM Research</h6>
+                <p class="card-text">jab [at] zurich.ibm.com</p>
             </div>
             <div class="card-footer">
               <a href="https://www.linkedin.com/in/jannis-born-319054121/" class="card-link"><i class="fab fa-linkedin"></i></a>
@@ -233,7 +291,7 @@ nav_order:
           <img src="/assets/img/organisers/jankirchner.jpg" class="card-img-top" alt="Jan Kirchner">
             <div class="card-body">
               <h5 class="card-title">Jan Kirchner</h5>
-                <h6 class="card-subtitle mb-2 text-muted">OpenAI</h6>
+                <h6 class="card-subtitle mb-2 text-muted">Anthropic</h6>
                 <p class="card-text">kirchner.jan [at] icloud.com</p>
             </div>
             <div class="card-footer">
@@ -276,8 +334,8 @@ nav_order:
           <img src="/assets/img/organisers/lukasvogelsang.jpg" class="card-img-top" alt="Lukas Vogelsang">
             <div class="card-body">
               <h5 class="card-title">Lukas Vogelsang</h5>
-                <h6 class="card-subtitle mb-2 text-muted">École polytechnique fédérale de Lausanne, Laboratory of Psychophysics</h6>
-                <p class="card-text">lukasvog [at] ethz.ch</p>
+                <h6 class="card-subtitle mb-2 text-muted">Massachusetts Institute of Technology</h6>
+                <p class="card-text">lvogelsang [at] uos.de</p>
               </div>
               <div class="card-footer">
                 <a href="https://www.linkedin.com/in/lukas-vogelsang-bb42a411a/" class="card-link"><i class="fab fa-linkedin"></i></a>

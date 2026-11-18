@@ -2,7 +2,7 @@
 layout: page
 title: speakers
 permalink: /speakers/
-description: Speakers for IICCSSS 2025 are researchers from diverse subfields of computational cognitive science.
+description: Speakers for IICCSSS 2026 are researchers from diverse subfields of computational cognitive science.
 nav: true
 nav_order: 4
 ---
@@ -10,16 +10,16 @@ nav_order: 4
 <div class="container">
     <div class="row row-cols-1 row-cols-md-3">
     {% include people.liquid
-        name="Constantin Rothkopf"
-        affiliation="TU Darmstadt"
-        url="https://www.pip.tu-darmstadt.de/members_pip/publications.en.jsp"
-        img="assets/img/speakers/2025/constantinrothkopf.jpg"
+        name="Victoria Bosch"
+        affiliation="University of Osnabrück"
+        url=""
+        img="assets/img/speakers/2026/victoriaBosch.jpg"
     %}
     {% include people.liquid
-        name="Martin Hebart"
-        affiliation="University of Gießen, MPI Leipzig"
-        url="http://martin-hebart.de/"
-        img="assets/img/speakers/2025/martinhebart.jpg"
+        name="Svenja Brodt"
+        affiliation="MPI Tübingen"
+        url="https://gaislab.info/team/svenja-brodt"
+        img="assets/img/speakers/2026/svenjaBrodt.jpg"
     %}
     {% include people.liquid
         name="Loes van Dam"
@@ -33,17 +33,35 @@ nav_order: 4
         url="https://www.uni-goettingen.de/de/57950.html"
         img="assets/img/speakers/2025/alexandergail.jpg"
     %}
-    {% include people.liquid
-        name="Katharina Lüth"
-        affiliation="University Osnabrück"
-        url="https://katharinalueth.com"
-        img="assets/img/speakers/2025/katharinalueth.jpg"
+    {% include people.liquid     
+        name="Fausto Carcassi"
+        affiliation="University of Amsterdam, ILLC"
+        url="https://faustocarcassi.com/"
+        img="assets/img/speakers/2026/faustoCarcassi.png"
     %}
-        {% include people.liquid
-        name="Vignesh Prasad"
-        affiliation="TU Darmstadt"
-        url="https://www.ias.informatik.tu-darmstadt.de/Team/VigneshPrasad"
-        img="assets/img/speakers/2025/vigneshprasad.png"
+    {% include people.liquid
+        name="Camille Gontier"
+        affiliation="Inria, University of Strasbourg"
+        url="https://camillegontier.github.io/"
+        img="assets/img/speakers/2026/camilleGontier.jpg"
+    %}
+    {% include people.liquid
+        name="Michael Hahn"
+        affiliation="Saarland University"
+        url="https://www.mhahn.info/"
+        img="assets/img/speakers/2026/michaelHahn.jpg"
+    %}
+    {% include people.liquid
+        name="Sarah Master"
+        affiliation="New York University"
+        url="https://scholar.google.com/citations?user=HjcivZcAAAAJ&hl=en"
+        img="assets/img/speakers/2026/sarahMaster.jpeg"
+    %}
+    {% include people.liquid
+        name="Nico Schuck"
+        affiliation="University of Hamburg"
+        url="https://schucklab.gitlab.io/"
+        img="assets/img/speakers/2026/nicoSchuck.jpg"
     %}
     {% include people.liquid
         name="Vildan Salikutluk"
@@ -51,11 +69,17 @@ nav_order: 4
         url="https://www.psychologie.tu-darmstadt.de/models-of-higher-cognition/mod/members_mhc/members_mhc_detail_59392.en.jsp"
         img="assets/img/speakers/2025/vildansalikutluk.jpg"
     %}
-    {% include people.liquid 
-        name="Ute Schmid"
-        affiliation="University of Bamberg"
-        url="https://www.uni-bamberg.de/kogsys/team/schmid-ute/"
-        img="assets/img/speakers/2025/uteschmid.jpg" 
+    {% include people.liquid
+        name="Polina Tsvilodub"
+        affiliation="University of Tübingen"
+        url="https://polina-tsvilodub.github.io/home/"
+        img="assets/img/speakers/2026/polinaTsvilodub.jpeg"
+    %}
+    {% include people.liquid
+        name="Hong Yu Wong"
+        affiliation="CIN Tuebingen"
+        url="https://sites.google.com/site/whywong/"
+        img="assets/img/speakers/2026/hongYuWong.jpg"
     %}
     </div>
 </div>

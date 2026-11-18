@@ -24,33 +24,33 @@ social: true # includes social icons at the bottom of the page
 
 The International Interdisciplinary Computational Cognitive Science Summer School (IICCSSS) is an annual educational meeting for students and young researchers interested in computational approaches to brain and cognitive sciences.
 
-**In 2025, IICCSSS took place in Darmstadt, from 1st to 5th of September 2025**. In addition to [invited talks and workshops](/speakers/), the summer school included a tour of research labs, a panel discussion, a hackathon, and a city rallye, as well as poster- and talk sessions contributed by attendees.
+**In 2026, IICCSSS will take place in Tübingen, from 17th to 21st of August 2026**. In addition to [invited talks and workshops](/speakers/), the summer school will include a tour of research labs, a panel discussion, a hackathon, and a city rallye, as well as poster- and talk sessions contributed by attendees.
 
-The full program is available [here](/program/).
+The full program of IICCSSS 2026 is available [here](/program/).
 
-**IICCSSS 2025 was co-organized by [ELIZA](https://www.tu-darmstadt.de/forschen/forschungsfelder/information_intelligence_ii/eliza/eliza.en.jsp)**. The Konrad Zuse School of Excellence in Learning and Intelligent Systems (ELIZA) is a graduate school in the field of AI, funded by the German Academic Exchange Service (DAAD).
+This year's IICCSSS is supported by [IMPRS](https://imprs-mmfd.tuebingen.mpg.de/).
 
-<div style="text-align: center;">
-  <a href="https://www.tu-darmstadt.de/forschen/forschungsfelder/information_intelligence_ii/eliza/eliza.en.jsp" target="_blank" rel="noopener noreferrer">
-    <img src="assets/img/eliza_logo.svg" alt="ELIZA" height="150">
-  </a>
+<div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/IMPRS_Logo.png" %}
 </div>
 
-In the past years, the summer school was supported by [Universitätsgesellschaft Osnabrück e.V.](https://www.uni-osnabrueck.de/universitaet/foerderung-und-sponsoring/kreis-der-foerderer/universitaetsgesellschaft/), the [Begegnungszonen](https://www.joachim-herz-stiftung.de/was-wir-tun/naturwissenschaften-begreifen/wissenschaftlicher-nachwuchs/begegnungszonen) of the [Joachim Herz Stiftung](https://www.joachim-herz-stiftung.de/en), and the Computational Cognitive Science Colloquium e.V.
+In the past years, the summer school was supported by [Universitätsgesellschaft Osnabrück e.V.](https://www.uni-osnabrueck.de/universitaet/foerderung-und-sponsoring/kreis-der-foerderer/universitaetsgesellschaft/), the [Joachim Herz Stiftung](https://www.joachim-herz-stiftung.de/en), [Eliza](https://www.tu-darmstadt.de/forschen/forschungsfelder/information_intelligence_ii/eliza/eliza.en.jsp), and the Computational Cognitive Science Colloquium e.V.
 
 ### Key dates
 
-- 2025/05/01: Registration opens
-- 2025/06/30: Deadline for travel grant applications
-- 2025/09/01: Start of the summer school!
+- 2026/05/01: Begin of Registration
+- 2026/06/01: Travel grant application closes
+- 2026/06/30: End of Registration
+- 2026/08/17: Start of the summer school!
 
 ### Speakers
 
-- Constantin Rothkopf (TU Darmstadt)
-- Martin Hebart (University of Gießen, MPI Leipzig)
-- Loes van Dam (TU Darmstadt)
-- Alexander Gail (University Göttingen)
-- Katharina Lüth (University Osnabrück)
-- Vignesh Prasad (TU Darmstadt)
-- Vildan Salikutlik (TU Darmstadt)
-- Ute Schmid (University of Bamberg)
+- Victoria Bosch (University of Osnabrück)
+- Svenja Brodt (MPI Tübingen)
+- Fausto Carcassi (University of Amsterdam)
+- Camille Gontier (Inria, University of Strasbourg)
+- Michael Hahn (Saarland University)
+- Sarah Master (New York University)
+- Nico Schuck (University of Hamburg)
+- Polina Tsvilodub (University of Tübingen)
+- Hong Yu Wong (CIN Tübingen)
