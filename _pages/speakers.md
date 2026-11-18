@@ -22,6 +22,18 @@ nav_order: 4
         img="assets/img/speakers/2026/svenjaBrodt.jpg"
     %}
     {% include people.liquid
+        name="Loes van Dam"
+        affiliation="TU Darmstadt"
+        url="https://www.humanw.tu-darmstadt.de/kontakt_details_71552.en.jsp"
+        img="assets/img/speakers/2025/loesvandam.jpg"
+    %}
+    {% include people.liquid
+        name="Alexander Gail"
+        affiliation="University Göttingen"
+        url="https://www.uni-goettingen.de/de/57950.html"
+        img="assets/img/speakers/2025/alexandergail.jpg"
+    %}
+    {% include people.liquid     
         name="Fausto Carcassi"
         affiliation="University of Amsterdam, ILLC"
         url="https://faustocarcassi.com/"
@@ -50,6 +62,12 @@ nav_order: 4
         affiliation="University of Hamburg"
         url="https://schucklab.gitlab.io/"
         img="assets/img/speakers/2026/nicoSchuck.jpg"
+    %}
+    {% include people.liquid
+        name="Vildan Salikutluk"
+        affiliation="TU Darmstadt"
+        url="https://www.psychologie.tu-darmstadt.de/models-of-higher-cognition/mod/members_mhc/members_mhc_detail_59392.en.jsp"
+        img="assets/img/speakers/2025/vildansalikutluk.jpg"
     %}
     {% include people.liquid
         name="Polina Tsvilodub"
