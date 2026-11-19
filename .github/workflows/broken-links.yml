@@ -78,7 +78,8 @@ jobs:
         with:
           fail: true
           # IMPRS requires an explicit HTML Accept header to avoid HTTP 406.
+          # Lychee 0.17 bundled with this action uses key=value header syntax.
           args: >-
             --user-agent 'curl/7.54'
-            --header 'Accept: text/html, */*;q=0.8'
+            --header 'Accept=text/html,*/*'
             --verbose --no-progress http://localhost:4000
