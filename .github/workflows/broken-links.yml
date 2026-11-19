@@ -77,4 +77,8 @@ jobs:
         uses: lycheeverse/lychee-action@v2.1.0
         with:
           fail: true
-          args: --user-agent 'curl/7.54' --verbose --no-progress http://localhost:4000 #./_site/**/*.html
+          # IMPRS requires an explicit HTML Accept header to avoid HTTP 406.
+          args: >-
+            --user-agent 'curl/7.54'
+            --header 'Accept: text/html, */*;q=0.8'
+            --verbose --no-progress http://localhost:4000
